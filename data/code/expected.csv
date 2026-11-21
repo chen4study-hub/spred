@@ -1,0 +1,583 @@
+where,quantity,paper,decimals
+Abstract,list_items,1200,0
+Highlights,review|0,46.9,1
+Highlights,review|1,57.5,1
+Contribution 1; Section 5.1,types|self_prediction_residual,0.726,3
+Section 5.2,gain|replication|all|two_teacher_probe|mean,0.007,3
+Section 5.2; abstract (bound),gain|replication|all|two_teacher_probe|lo,-0.003,3
+Section 5.2; abstract (bound),gain|replication|all|two_teacher_probe|hi,0.016,3
+Contribution 1; Section 5.1,geometry|mean,0.061,3
+Section 5.1,geometry|lo,0.031,3
+Section 5.1,geometry|hi,0.092,3
+Section 5.1 (classifier on box geometry),geometry|classifier,0.668,3
+Discussion,views|Qwen3-VL-4B,+0.078,3
+Discussion,views|Qwen3-VL-8B,+0.070,3
+Introduction; Section 5.1,review|detector,0.607,3
+Section 5.1,review|probe alone,0.505,3
+Section 6.3,pull,0.250,3
+Discussion,pairs|residual,0.599,3
+Abstract; contribution 3; Section 5.1,gain|replication|wrong_object|linear_probe_wrong_object_all|mean,0.026,3
+Abstract; contribution 3; Section 5.1,gain|replication|wrong_object|saplma|mean,0.049,3
+"Introduction, scope",count|LLaVA-1.5-7B|wo_share_pct,27.8,1
+"Introduction, scope",count|Qwen3-VL-4B|wo_share_pct,48.3,1
+Table 3,gain|replication|wrong_object|two_teacher_probe|mean,0.042,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|two_teacher_probe|lo,0.026,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|two_teacher_probe|hi,0.057,3
+Table 3,gain|replication|wrong_object|sampling_teacher_probe|mean,0.036,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|sampling_teacher_probe|lo,0.018,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|sampling_teacher_probe|hi,0.054,3
+Table 3,gain|replication|wrong_object|shift_teacher_probe|mean,0.035,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|shift_teacher_probe|lo,0.019,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|shift_teacher_probe|hi,0.052,3
+Table 3,gain|replication|wrong_object|linear_probe_correctness|mean,0.037,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_correctness|lo,0.021,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_correctness|hi,0.053,3
+Table 3,gain|replication|wrong_object|linear_probe_one_minus_iou|mean,0.029,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_one_minus_iou|lo,0.013,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_one_minus_iou|hi,0.046,3
+Table 3,gain|replication|wrong_object|pregeneration_probe|mean,0.043,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|pregeneration_probe|lo,0.027,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|pregeneration_probe|hi,0.059,3
+Table 3,gain|replication|wrong_object|saplma|mean,0.049,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|saplma|lo,0.032,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|saplma|hi,0.065,3
+Table 3,gain|replication|wrong_object|linear_probe_wrong_object_all|mean,0.026,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_wrong_object_all|lo,0.007,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_wrong_object_all|hi,0.045,3
+Table 3,gain|replication|wrong_object|linear_probe_wrong_object_vs_correct|mean,0.026,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_wrong_object_vs_correct|lo,0.012,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_wrong_object_vs_correct|hi,0.040,3
+Table 3,gain|replication|wrong_object|coordinate_logprob|mean,0.117,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|coordinate_logprob|lo,0.097,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|coordinate_logprob|hi,0.138,3
+Table 3,gain|replication|wrong_object|in_box_attention|mean,0.089,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|in_box_attention|lo,0.069,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|in_box_attention|hi,0.109,3
+Table 3,gain|replication|wrong_object|whole_image_attention|mean,0.175,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|whole_image_attention|lo,0.149,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|whole_image_attention|hi,0.201,3
+Table 3,gain|replication|wrong_object|mahalanobis|mean,0.120,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|mahalanobis|lo,0.083,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|mahalanobis|hi,0.157,3
+Table 3,gain|replication|wrong_object|box_geometry_supervised|mean,0.074,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|box_geometry_supervised|lo,0.056,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|box_geometry_supervised|hi,0.092,3
+Table 3,gain|replication|wrong_object|box_geometry_teacher|mean,0.072,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|box_geometry_teacher|lo,0.056,3
+"Table 3 (bold: combined interval excludes zero); Figure 2 (replication, interval)",gain|replication|wrong_object|box_geometry_teacher|hi,0.087,3
+Table 4,count|Qwen2.5-VL-3B|items,1200,0
+Table 4,count|Qwen2.5-VL-3B|errors,176,0
+Table 4,table4|Qwen2.5-VL-3B|all|detector,0.792,3
+Table 4,table4|Qwen2.5-VL-3B|all|probe alone,0.794,3
+Table 4,table4|Qwen2.5-VL-3B|all|residual alone,0.658,3
+Table 4,table4|Qwen2.5-VL-3B|all|coordinate log-prob,0.633,3
+Table 4,table4|Qwen2.5-VL-3B|all|supervised probe,0.778,3
+Table 4,table4|Qwen2.5-VL-3B|wrong_object|detector,0.863,3
+Table 4,table4|Qwen2.5-VL-3B|wrong_object|probe alone,0.828,3
+Table 4,table4|Qwen2.5-VL-3B|wrong_object|residual alone,0.802,3
+Table 4,table4|Qwen2.5-VL-3B|wrong_object|detector minus supervised,0.075,3
+Table 4,table4|Qwen2.5-VL-3B|bound,-0.011,3
+Table 4,count|Qwen2.5-VL-7B|items,1199,0
+Table 4,count|Qwen2.5-VL-7B|errors,152,0
+Table 4,table4|Qwen2.5-VL-7B|all|detector,0.785,3
+Table 4,table4|Qwen2.5-VL-7B|all|probe alone,0.765,3
+Table 4,table4|Qwen2.5-VL-7B|all|residual alone,0.699,3
+Table 4,table4|Qwen2.5-VL-7B|all|coordinate log-prob,0.665,3
+Table 4,table4|Qwen2.5-VL-7B|all|supervised probe,0.769,3
+Table 4,table4|Qwen2.5-VL-7B|wrong_object|detector,0.815,3
+Table 4,table4|Qwen2.5-VL-7B|wrong_object|probe alone,0.739,3
+Table 4,table4|Qwen2.5-VL-7B|wrong_object|residual alone,0.824,3
+Table 4,table4|Qwen2.5-VL-7B|wrong_object|detector minus supervised,0.020,3
+Table 4,table4|Qwen2.5-VL-7B|bound,-0.017,3
+Table 4,count|Qwen3-VL-4B|items,1198,0
+Table 4,count|Qwen3-VL-4B|errors,149,0
+Table 4,table4|Qwen3-VL-4B|all|detector,0.795,3
+Table 4,table4|Qwen3-VL-4B|all|probe alone,0.782,3
+Table 4,table4|Qwen3-VL-4B|all|residual alone,0.708,3
+Table 4,table4|Qwen3-VL-4B|all|coordinate log-prob,0.616,3
+Table 4,table4|Qwen3-VL-4B|all|supervised probe,0.765,3
+Table 4,table4|Qwen3-VL-4B|wrong_object|detector,0.831,3
+Table 4,table4|Qwen3-VL-4B|wrong_object|probe alone,0.779,3
+Table 4,table4|Qwen3-VL-4B|wrong_object|residual alone,0.830,3
+Table 4,table4|Qwen3-VL-4B|wrong_object|detector minus supervised,0.049,3
+Table 4,table4|Qwen3-VL-4B|bound,0.008,3
+Table 4,count|Qwen3-VL-8B|items,1197,0
+Table 4,count|Qwen3-VL-8B|errors,132,0
+Table 4,table4|Qwen3-VL-8B|all|detector,0.781,3
+Table 4,table4|Qwen3-VL-8B|all|probe alone,0.764,3
+Table 4,table4|Qwen3-VL-8B|all|residual alone,0.698,3
+Table 4,table4|Qwen3-VL-8B|all|coordinate log-prob,0.615,3
+Table 4,table4|Qwen3-VL-8B|all|supervised probe,0.780,3
+Table 4,table4|Qwen3-VL-8B|wrong_object|detector,0.815,3
+Table 4,table4|Qwen3-VL-8B|wrong_object|probe alone,0.771,3
+Table 4,table4|Qwen3-VL-8B|wrong_object|residual alone,0.802,3
+Table 4,table4|Qwen3-VL-8B|wrong_object|detector minus supervised,0.019,3
+Table 4,table4|Qwen3-VL-8B|bound,-0.024,3
+Table 4,count|InternVL2.5-8B-MPO|items,1197,0
+Table 4,count|InternVL2.5-8B-MPO|errors,127,0
+Table 4,table4|InternVL2.5-8B-MPO|all|detector,0.810,3
+Table 4,table4|InternVL2.5-8B-MPO|all|probe alone,0.810,3
+Table 4,table4|InternVL2.5-8B-MPO|all|residual alone,0.691,3
+Table 4,table4|InternVL2.5-8B-MPO|all|coordinate log-prob,0.612,3
+Table 4,table4|InternVL2.5-8B-MPO|all|supervised probe,0.793,3
+Table 4,table4|InternVL2.5-8B-MPO|wrong_object|detector,0.757,3
+Table 4,table4|InternVL2.5-8B-MPO|wrong_object|probe alone,0.732,3
+Table 4,table4|InternVL2.5-8B-MPO|wrong_object|residual alone,0.744,3
+Table 4,table4|InternVL2.5-8B-MPO|wrong_object|detector minus supervised,0.033,3
+Table 4,table4|InternVL2.5-8B-MPO|bound,-0.008,3
+Table 4,count|LLaVA-1.5-7B|items,1200,0
+Table 4,count|LLaVA-1.5-7B|errors,457,0
+Table 4,table4|LLaVA-1.5-7B|all|detector,0.812,3
+Table 4,table4|LLaVA-1.5-7B|all|probe alone,0.820,3
+Table 4,table4|LLaVA-1.5-7B|all|residual alone,0.717,3
+Table 4,table4|LLaVA-1.5-7B|all|coordinate log-prob,0.658,3
+Table 4,table4|LLaVA-1.5-7B|all|supervised probe,0.819,3
+Table 4,table4|LLaVA-1.5-7B|wrong_object|detector,0.894,3
+Table 4,table4|LLaVA-1.5-7B|wrong_object|probe alone,0.877,3
+Table 4,table4|LLaVA-1.5-7B|wrong_object|residual alone,0.845,3
+Table 4,table4|LLaVA-1.5-7B|wrong_object|detector minus supervised,0.024,3
+Table 4,table4|LLaVA-1.5-7B|bound,-0.021,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|two_teacher_probe|mean,0.042,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|two_teacher_probe|lo,0.026,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|two_teacher_probe|hi,0.057,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|two_teacher_probe|Qwen2.5-VL-3B,0.035,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|two_teacher_probe|Qwen2.5-VL-7B,0.076,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|two_teacher_probe|Qwen3-VL-4B,0.052,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|two_teacher_probe|Qwen3-VL-8B,0.044,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|two_teacher_probe|InternVL2.5-8B-MPO,0.025,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|two_teacher_probe|LLaVA-1.5-7B,0.017,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|sampling_teacher_probe|mean,0.036,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|sampling_teacher_probe|lo,0.018,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|sampling_teacher_probe|hi,0.054,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|sampling_teacher_probe|Qwen2.5-VL-3B,0.024,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|sampling_teacher_probe|Qwen2.5-VL-7B,0.048,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|sampling_teacher_probe|Qwen3-VL-4B,0.067,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|sampling_teacher_probe|Qwen3-VL-8B,0.026,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|sampling_teacher_probe|InternVL2.5-8B-MPO,0.026,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|sampling_teacher_probe|LLaVA-1.5-7B,0.025,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|shift_teacher_probe|mean,0.035,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|shift_teacher_probe|lo,0.019,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|shift_teacher_probe|hi,0.052,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|shift_teacher_probe|Qwen2.5-VL-3B,0.041,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|shift_teacher_probe|Qwen2.5-VL-7B,0.049,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|shift_teacher_probe|Qwen3-VL-4B,0.028,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|shift_teacher_probe|Qwen3-VL-8B,0.038,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|shift_teacher_probe|InternVL2.5-8B-MPO,0.024,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|shift_teacher_probe|LLaVA-1.5-7B,0.029,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|linear_probe_correctness|mean,0.037,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_correctness|lo,0.021,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_correctness|hi,0.053,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_correctness|Qwen2.5-VL-3B,0.040,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_correctness|Qwen2.5-VL-7B,0.055,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_correctness|Qwen3-VL-4B,0.044,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_correctness|Qwen3-VL-8B,0.027,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_correctness|InternVL2.5-8B-MPO,0.034,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_correctness|LLaVA-1.5-7B,0.022,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|linear_probe_one_minus_iou|mean,0.029,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_one_minus_iou|lo,0.013,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_one_minus_iou|hi,0.046,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_one_minus_iou|Qwen2.5-VL-3B,0.029,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_one_minus_iou|Qwen2.5-VL-7B,0.047,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_one_minus_iou|Qwen3-VL-4B,0.036,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_one_minus_iou|Qwen3-VL-8B,0.023,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_one_minus_iou|InternVL2.5-8B-MPO,0.029,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_one_minus_iou|LLaVA-1.5-7B,0.011,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|pregeneration_probe|mean,0.043,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|pregeneration_probe|lo,0.027,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|pregeneration_probe|hi,0.059,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|pregeneration_probe|Qwen2.5-VL-3B,0.036,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|pregeneration_probe|Qwen2.5-VL-7B,0.055,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|pregeneration_probe|Qwen3-VL-4B,0.039,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|pregeneration_probe|Qwen3-VL-8B,0.022,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|pregeneration_probe|InternVL2.5-8B-MPO,0.069,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|pregeneration_probe|LLaVA-1.5-7B,0.038,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|saplma|mean,0.049,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|saplma|lo,0.032,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|saplma|hi,0.065,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|saplma|Qwen2.5-VL-3B,0.039,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|saplma|Qwen2.5-VL-7B,0.114,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|saplma|Qwen3-VL-4B,0.042,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|saplma|Qwen3-VL-8B,0.030,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|saplma|InternVL2.5-8B-MPO,0.033,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|saplma|LLaVA-1.5-7B,0.036,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|linear_probe_wrong_object_all|mean,0.026,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_wrong_object_all|lo,0.007,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_wrong_object_all|hi,0.045,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_wrong_object_all|Qwen2.5-VL-3B,0.029,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_wrong_object_all|Qwen2.5-VL-7B,0.053,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_wrong_object_all|Qwen3-VL-4B,0.032,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_wrong_object_all|Qwen3-VL-8B,0.009,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_wrong_object_all|InternVL2.5-8B-MPO,0.019,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_wrong_object_all|LLaVA-1.5-7B,0.015,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|linear_probe_wrong_object_vs_correct|mean,0.026,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_wrong_object_vs_correct|lo,0.012,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|linear_probe_wrong_object_vs_correct|hi,0.040,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_wrong_object_vs_correct|Qwen2.5-VL-3B,0.027,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_wrong_object_vs_correct|Qwen2.5-VL-7B,0.037,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_wrong_object_vs_correct|Qwen3-VL-4B,0.033,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_wrong_object_vs_correct|Qwen3-VL-8B,0.011,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_wrong_object_vs_correct|InternVL2.5-8B-MPO,0.034,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|linear_probe_wrong_object_vs_correct|LLaVA-1.5-7B,0.016,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|coordinate_logprob|mean,0.117,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|coordinate_logprob|lo,0.097,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|coordinate_logprob|hi,0.138,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|coordinate_logprob|Qwen2.5-VL-3B,0.138,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|coordinate_logprob|Qwen2.5-VL-7B,0.150,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|coordinate_logprob|Qwen3-VL-4B,0.112,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|coordinate_logprob|Qwen3-VL-8B,0.104,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|coordinate_logprob|InternVL2.5-8B-MPO,0.072,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|coordinate_logprob|LLaVA-1.5-7B,0.127,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|in_box_attention|mean,0.089,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|in_box_attention|lo,0.069,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|in_box_attention|hi,0.109,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|in_box_attention|Qwen2.5-VL-3B,0.079,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|in_box_attention|Qwen2.5-VL-7B,0.110,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|in_box_attention|Qwen3-VL-4B,0.089,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|in_box_attention|Qwen3-VL-8B,0.077,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|whole_image_attention|mean,0.175,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|whole_image_attention|lo,0.149,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|whole_image_attention|hi,0.201,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|whole_image_attention|Qwen2.5-VL-3B,0.156,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|whole_image_attention|Qwen2.5-VL-7B,0.161,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|whole_image_attention|Qwen3-VL-4B,0.184,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|whole_image_attention|Qwen3-VL-8B,0.201,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|mahalanobis|mean,0.120,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|mahalanobis|lo,0.083,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|mahalanobis|hi,0.157,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|mahalanobis|Qwen2.5-VL-3B,0.113,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|mahalanobis|Qwen2.5-VL-7B,0.153,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|mahalanobis|Qwen3-VL-4B,0.119,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|mahalanobis|Qwen3-VL-8B,0.097,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|mahalanobis|InternVL2.5-8B-MPO,0.134,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|mahalanobis|LLaVA-1.5-7B,0.104,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|box_geometry_supervised|mean,0.074,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|box_geometry_supervised|lo,0.056,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|box_geometry_supervised|hi,0.092,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|box_geometry_supervised|Qwen2.5-VL-3B,0.063,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|box_geometry_supervised|Qwen2.5-VL-7B,0.096,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|box_geometry_supervised|Qwen3-VL-4B,0.055,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|box_geometry_supervised|Qwen3-VL-8B,0.063,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|box_geometry_supervised|InternVL2.5-8B-MPO,0.110,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|box_geometry_supervised|LLaVA-1.5-7B,0.057,3
+"Figure 2 (replication, mean)",gain|replication|wrong_object|box_geometry_teacher|mean,0.072,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|box_geometry_teacher|lo,0.056,3
+"Figure 2 (replication, interval)",gain|replication|wrong_object|box_geometry_teacher|hi,0.087,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|box_geometry_teacher|Qwen2.5-VL-3B,0.069,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|box_geometry_teacher|Qwen2.5-VL-7B,0.105,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|box_geometry_teacher|Qwen3-VL-4B,0.063,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|box_geometry_teacher|Qwen3-VL-8B,0.056,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|box_geometry_teacher|InternVL2.5-8B-MPO,0.089,3
+"Figure 2 (replication, marker)",gain|replication|wrong_object|box_geometry_teacher|LLaVA-1.5-7B,0.047,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|two_teacher_probe|mean,0.044,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|two_teacher_probe|lo,0.030,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|two_teacher_probe|hi,0.059,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|two_teacher_probe|Qwen2.5-VL-3B,0.063,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|two_teacher_probe|Qwen2.5-VL-7B,0.063,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|two_teacher_probe|Qwen3-VL-4B,0.058,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|two_teacher_probe|Qwen3-VL-8B,0.018,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|two_teacher_probe|InternVL2.5-8B-MPO,0.053,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|two_teacher_probe|LLaVA-1.5-7B,0.012,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|sampling_teacher_probe|mean,0.050,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|sampling_teacher_probe|lo,0.031,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|sampling_teacher_probe|hi,0.069,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|sampling_teacher_probe|Qwen2.5-VL-3B,0.074,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|sampling_teacher_probe|Qwen2.5-VL-7B,0.025,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|sampling_teacher_probe|Qwen3-VL-4B,0.071,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|sampling_teacher_probe|Qwen3-VL-8B,0.041,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|sampling_teacher_probe|InternVL2.5-8B-MPO,0.066,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|sampling_teacher_probe|LLaVA-1.5-7B,0.022,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|shift_teacher_probe|mean,0.037,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|shift_teacher_probe|lo,0.021,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|shift_teacher_probe|hi,0.052,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|shift_teacher_probe|Qwen2.5-VL-3B,0.080,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|shift_teacher_probe|Qwen2.5-VL-7B,0.029,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|shift_teacher_probe|Qwen3-VL-4B,0.037,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|shift_teacher_probe|Qwen3-VL-8B,0.003,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|shift_teacher_probe|InternVL2.5-8B-MPO,0.052,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|shift_teacher_probe|LLaVA-1.5-7B,0.020,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|linear_probe_correctness|mean,0.037,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|linear_probe_correctness|lo,0.020,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|linear_probe_correctness|hi,0.054,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_correctness|Qwen2.5-VL-3B,0.057,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_correctness|Qwen2.5-VL-7B,0.032,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_correctness|Qwen3-VL-4B,0.046,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_correctness|Qwen3-VL-8B,0.008,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_correctness|InternVL2.5-8B-MPO,0.056,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_correctness|LLaVA-1.5-7B,0.023,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|linear_probe_one_minus_iou|mean,0.034,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|linear_probe_one_minus_iou|lo,0.019,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|linear_probe_one_minus_iou|hi,0.049,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_one_minus_iou|Qwen2.5-VL-3B,0.055,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_one_minus_iou|Qwen2.5-VL-7B,0.035,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_one_minus_iou|Qwen3-VL-4B,0.041,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_one_minus_iou|Qwen3-VL-8B,0.010,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_one_minus_iou|InternVL2.5-8B-MPO,0.051,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_one_minus_iou|LLaVA-1.5-7B,0.012,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|pregeneration_probe|mean,0.046,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|pregeneration_probe|lo,0.030,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|pregeneration_probe|hi,0.062,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|pregeneration_probe|Qwen2.5-VL-3B,0.062,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|pregeneration_probe|Qwen2.5-VL-7B,0.032,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|pregeneration_probe|Qwen3-VL-4B,0.029,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|pregeneration_probe|Qwen3-VL-8B,0.027,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|pregeneration_probe|InternVL2.5-8B-MPO,0.089,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|pregeneration_probe|LLaVA-1.5-7B,0.037,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|saplma|mean,0.050,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|saplma|lo,0.032,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|saplma|hi,0.067,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|saplma|Qwen2.5-VL-3B,0.057,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|saplma|Qwen2.5-VL-7B,0.069,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|saplma|Qwen3-VL-4B,0.046,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|saplma|Qwen3-VL-8B,0.032,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|saplma|InternVL2.5-8B-MPO,0.055,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|saplma|LLaVA-1.5-7B,0.039,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|linear_probe_wrong_object_all|mean,0.029,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|linear_probe_wrong_object_all|lo,0.012,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|linear_probe_wrong_object_all|hi,0.047,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_wrong_object_all|Qwen2.5-VL-3B,0.062,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_wrong_object_all|Qwen2.5-VL-7B,0.020,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_wrong_object_all|Qwen3-VL-4B,0.035,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_wrong_object_all|Qwen3-VL-8B,0.019,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_wrong_object_all|InternVL2.5-8B-MPO,0.024,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_wrong_object_all|LLaVA-1.5-7B,0.016,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|linear_probe_wrong_object_vs_correct|mean,0.029,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|linear_probe_wrong_object_vs_correct|lo,0.014,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|linear_probe_wrong_object_vs_correct|hi,0.044,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_wrong_object_vs_correct|Qwen2.5-VL-3B,0.055,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_wrong_object_vs_correct|Qwen2.5-VL-7B,0.015,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_wrong_object_vs_correct|Qwen3-VL-4B,0.023,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_wrong_object_vs_correct|Qwen3-VL-8B,0.019,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_wrong_object_vs_correct|InternVL2.5-8B-MPO,0.049,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|linear_probe_wrong_object_vs_correct|LLaVA-1.5-7B,0.012,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|coordinate_logprob|mean,0.131,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|coordinate_logprob|lo,0.110,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|coordinate_logprob|hi,0.152,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|coordinate_logprob|Qwen2.5-VL-3B,0.145,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|coordinate_logprob|Qwen2.5-VL-7B,0.111,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|coordinate_logprob|Qwen3-VL-4B,0.142,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|coordinate_logprob|Qwen3-VL-8B,0.113,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|coordinate_logprob|InternVL2.5-8B-MPO,0.143,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|coordinate_logprob|LLaVA-1.5-7B,0.132,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|in_box_attention|mean,0.106,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|in_box_attention|lo,0.084,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|in_box_attention|hi,0.128,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|in_box_attention|Qwen2.5-VL-3B,0.118,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|in_box_attention|Qwen2.5-VL-7B,0.092,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|in_box_attention|Qwen3-VL-4B,0.135,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|in_box_attention|Qwen3-VL-8B,0.081,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|whole_image_attention|mean,0.173,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|whole_image_attention|lo,0.146,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|whole_image_attention|hi,0.199,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|whole_image_attention|Qwen2.5-VL-3B,0.169,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|whole_image_attention|Qwen2.5-VL-7B,0.137,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|whole_image_attention|Qwen3-VL-4B,0.224,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|whole_image_attention|Qwen3-VL-8B,0.159,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|mahalanobis|mean,0.104,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|mahalanobis|lo,0.063,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|mahalanobis|hi,0.145,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|mahalanobis|Qwen2.5-VL-3B,0.099,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|mahalanobis|Qwen2.5-VL-7B,0.091,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|mahalanobis|Qwen3-VL-4B,0.116,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|mahalanobis|Qwen3-VL-8B,0.074,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|mahalanobis|InternVL2.5-8B-MPO,0.166,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|mahalanobis|LLaVA-1.5-7B,0.080,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|box_geometry_supervised|mean,0.081,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|box_geometry_supervised|lo,0.064,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|box_geometry_supervised|hi,0.098,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|box_geometry_supervised|Qwen2.5-VL-3B,0.088,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|box_geometry_supervised|Qwen2.5-VL-7B,0.066,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|box_geometry_supervised|Qwen3-VL-4B,0.090,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|box_geometry_supervised|Qwen3-VL-8B,0.055,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|box_geometry_supervised|InternVL2.5-8B-MPO,0.119,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|box_geometry_supervised|LLaVA-1.5-7B,0.067,3
+"Figure 2 (heldout, mean)",gain|heldout|wrong_object|box_geometry_teacher|mean,0.077,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|box_geometry_teacher|lo,0.061,3
+"Figure 2 (heldout, interval)",gain|heldout|wrong_object|box_geometry_teacher|hi,0.093,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|box_geometry_teacher|Qwen2.5-VL-3B,0.090,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|box_geometry_teacher|Qwen2.5-VL-7B,0.074,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|box_geometry_teacher|Qwen3-VL-4B,0.078,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|box_geometry_teacher|Qwen3-VL-8B,0.065,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|box_geometry_teacher|InternVL2.5-8B-MPO,0.105,3
+"Figure 2 (heldout, marker)",gain|heldout|wrong_object|box_geometry_teacher|LLaVA-1.5-7B,0.050,3
+"Discussion, pair test, wrong-object errors only",pairs_wo|residual|rate,0.637,3
+"Discussion, pair test, wrong-object errors only",pairs_wo|residual|lo,0.551,3
+"Discussion, pair test, wrong-object errors only",pairs_wo|residual|hi,0.722,3
+Section 6.1; Table S8.1 (replication),others|replication|two_teacher_probe|own,0.042,3
+Section 6.1; Table S8.1 (replication),others|replication|two_teacher_probe|others,0.047,3
+Section 6.1; Table S8.1 (replication),others|replication|two_teacher_probe|ratio,1.13,2
+Section 6.1; Table S8.1 (replication),others|replication|two_teacher_probe|ratio_lo,0.88,2
+Section 6.1; Table S8.1 (replication),others|replication|two_teacher_probe|ratio_hi,1.45,2
+Section 6.1; Table S8.1 (replication),others|replication|linear_probe_correctness|own,0.037,3
+Section 6.1; Table S8.1 (replication),others|replication|linear_probe_correctness|others,0.040,3
+Section 6.1; Table S8.1 (replication),others|replication|linear_probe_correctness|ratio,1.07,2
+Section 6.1; Table S8.1 (replication),others|replication|linear_probe_correctness|ratio_lo,0.80,2
+Section 6.1; Table S8.1 (replication),others|replication|linear_probe_correctness|ratio_hi,1.40,2
+Section 6.1; Table S8.1 (replication),others|replication|coordinate_logprob|own,0.117,3
+Section 6.1; Table S8.1 (replication),others|replication|coordinate_logprob|others,0.119,3
+Section 6.1; Table S8.1 (replication),others|replication|coordinate_logprob|ratio,1.02,2
+Section 6.1; Table S8.1 (replication),others|replication|coordinate_logprob|ratio_lo,0.91,2
+Section 6.1; Table S8.1 (replication),others|replication|coordinate_logprob|ratio_hi,1.13,2
+Section 6.1; Table S8.1 (replication),others|replication|seven probes|own,0.039,3
+Section 6.1; Table S8.1 (replication),others|replication|seven probes|others,0.039,3
+Section 6.1; Table S8.1 (replication),others|replication|seven probes|ratio,1.01,2
+Section 6.1; Table S8.1 (replication),others|replication|seven probes|ratio_lo,0.77,2
+Section 6.1; Table S8.1 (replication),others|replication|seven probes|ratio_hi,1.30,2
+Section 6.1; Table S8.1 (replication),others|replication|fifteen scores|own,0.061,3
+Section 6.1; Table S8.1 (replication),others|replication|fifteen scores|others,0.061,3
+Section 6.1; Table S8.1 (replication),others|replication|fifteen scores|ratio,1.01,2
+Section 6.1; Table S8.1 (replication),others|replication|fifteen scores|ratio_lo,0.85,2
+Section 6.1; Table S8.1 (replication),others|replication|fifteen scores|ratio_hi,1.19,2
+Section 6.1; Table S8.2 (replication),others|replication|model|Qwen2.5-VL-3B|own,0.035,3
+Section 6.1; Table S8.2 (replication),others|replication|model|Qwen2.5-VL-3B|others,0.042,3
+Section 6.1; Table S8.2 (replication),others|replication|model|Qwen2.5-VL-3B|one,0.026,3
+Section 6.1; Table S8.2 (replication),others|replication|model|Qwen2.5-VL-7B|own,0.076,3
+Section 6.1; Table S8.2 (replication),others|replication|model|Qwen2.5-VL-7B|others,0.054,3
+Section 6.1; Table S8.2 (replication),others|replication|model|Qwen2.5-VL-7B|one,0.040,3
+Section 6.1; Table S8.2 (replication),others|replication|model|Qwen3-VL-4B|own,0.052,3
+Section 6.1; Table S8.2 (replication),others|replication|model|Qwen3-VL-4B|others,0.062,3
+Section 6.1; Table S8.2 (replication),others|replication|model|Qwen3-VL-4B|one,0.044,3
+Section 6.1; Table S8.2 (replication),others|replication|model|Qwen3-VL-8B|own,0.044,3
+Section 6.1; Table S8.2 (replication),others|replication|model|Qwen3-VL-8B|others,0.068,3
+Section 6.1; Table S8.2 (replication),others|replication|model|Qwen3-VL-8B|one,0.049,3
+Section 6.1; Table S8.2 (replication),others|replication|model|InternVL2.5-8B-MPO|own,0.025,3
+Section 6.1; Table S8.2 (replication),others|replication|model|InternVL2.5-8B-MPO|others,0.044,3
+Section 6.1; Table S8.2 (replication),others|replication|model|InternVL2.5-8B-MPO|one,0.031,3
+Section 6.1; Table S8.2 (replication),others|replication|model|LLaVA-1.5-7B|own,0.017,3
+Section 6.1; Table S8.2 (replication),others|replication|model|LLaVA-1.5-7B|others,0.011,3
+Section 6.1; Table S8.2 (replication),others|replication|model|LLaVA-1.5-7B|one,0.004,3
+Section 6.1; Table S8.1 (replication),others|replication|one_mean,0.032,3
+Section 6.1; Table S8.1 (replication),others|replication|count|own_minus_others,0,0
+Section 6.1; Table S8.1 (heldout),others|heldout|two_teacher_probe|own,0.044,3
+Section 6.1; Table S8.1 (heldout),others|heldout|two_teacher_probe|others,0.040,3
+Section 6.1; Table S8.1 (heldout),others|heldout|two_teacher_probe|ratio,0.90,2
+Section 6.1; Table S8.1 (heldout),others|heldout|two_teacher_probe|ratio_lo,0.66,2
+Section 6.1; Table S8.1 (heldout),others|heldout|two_teacher_probe|ratio_hi,1.12,2
+Section 6.1; Table S8.1 (heldout),others|heldout|linear_probe_correctness|own,0.037,3
+Section 6.1; Table S8.1 (heldout),others|heldout|linear_probe_correctness|others,0.034,3
+Section 6.1; Table S8.1 (heldout),others|heldout|linear_probe_correctness|ratio,0.92,2
+Section 6.1; Table S8.1 (heldout),others|heldout|linear_probe_correctness|ratio_lo,0.68,2
+Section 6.1; Table S8.1 (heldout),others|heldout|linear_probe_correctness|ratio_hi,1.17,2
+Section 6.1; Table S8.1 (heldout),others|heldout|coordinate_logprob|own,0.131,3
+Section 6.1; Table S8.1 (heldout),others|heldout|coordinate_logprob|others,0.120,3
+Section 6.1; Table S8.1 (heldout),others|heldout|coordinate_logprob|ratio,0.92,2
+Section 6.1; Table S8.1 (heldout),others|heldout|coordinate_logprob|ratio_lo,0.80,2
+Section 6.1; Table S8.1 (heldout),others|heldout|coordinate_logprob|ratio_hi,1.02,2
+Section 6.1; Table S8.1 (heldout),others|heldout|seven probes|own,0.043,3
+Section 6.1; Table S8.1 (heldout),others|heldout|seven probes|others,0.038,3
+Section 6.1; Table S8.1 (heldout),others|heldout|seven probes|ratio,0.89,2
+Section 6.1; Table S8.1 (heldout),others|heldout|seven probes|ratio_lo,0.67,2
+Section 6.1; Table S8.1 (heldout),others|heldout|seven probes|ratio_hi,1.10,2
+Section 6.1; Table S8.1 (heldout),others|heldout|fifteen scores|own,0.065,3
+Section 6.1; Table S8.1 (heldout),others|heldout|fifteen scores|others,0.059,3
+Section 6.1; Table S8.1 (heldout),others|heldout|fifteen scores|ratio,0.91,2
+Section 6.1; Table S8.1 (heldout),others|heldout|fifteen scores|ratio_lo,0.76,2
+Section 6.1; Table S8.1 (heldout),others|heldout|fifteen scores|ratio_hi,1.06,2
+Section 6.1; Table S8.2 (heldout),others|heldout|model|Qwen2.5-VL-3B|own,0.063,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|Qwen2.5-VL-3B|others,0.038,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|Qwen2.5-VL-3B|one,0.025,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|Qwen2.5-VL-7B|own,0.063,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|Qwen2.5-VL-7B|others,0.078,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|Qwen2.5-VL-7B|one,0.059,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|Qwen3-VL-4B|own,0.058,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|Qwen3-VL-4B|others,0.049,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|Qwen3-VL-4B|one,0.032,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|Qwen3-VL-8B|own,0.018,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|Qwen3-VL-8B|others,0.033,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|Qwen3-VL-8B|one,0.020,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|InternVL2.5-8B-MPO|own,0.053,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|InternVL2.5-8B-MPO|others,0.040,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|InternVL2.5-8B-MPO|one,0.027,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|LLaVA-1.5-7B|own,0.012,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|LLaVA-1.5-7B|others,0.002,3
+Section 6.1; Table S8.2 (heldout),others|heldout|model|LLaVA-1.5-7B|one,-0.004,3
+Section 6.1; Table S8.1 (heldout),others|heldout|one_mean,0.026,3
+Section 6.1; Table S8.1 (heldout),others|heldout|count|own_minus_others,1,0
+Section 6.1; Table S8.1 (replication),others|replication|count|others,15,0
+Contribution 3; Section 5.1 (point answers),points|both|two_teacher_probe|mean,0.035,3
+Contribution 3; Section 5.1 (point answers),points|both|two_teacher_probe|lo,0.015,3
+Contribution 3; Section 5.1 (point answers),points|both|two_teacher_probe|hi,0.055,3
+Section 5.1; Table S7.4 (both lists),points|both|sampling_teacher_probe|mean,0.047,3
+Section 5.1; Table S7.4 (both lists),points|both|sampling_teacher_probe|lo,0.027,3
+Section 5.1; Table S7.4 (both lists),points|both|sampling_teacher_probe|hi,0.068,3
+Section 5.1; Table S7.4 (both lists),points|both|linear_probe_correctness|mean,0.012,3
+Section 5.1; Table S7.4 (both lists),points|both|linear_probe_correctness|lo,-0.007,3
+Section 5.1; Table S7.4 (both lists),points|both|linear_probe_correctness|hi,0.031,3
+Section 5.1; Table S7.4 (both lists),points|both|saplma|mean,0.035,3
+Section 5.1; Table S7.4 (both lists),points|both|saplma|lo,0.010,3
+Section 5.1; Table S7.4 (both lists),points|both|saplma|hi,0.060,3
+Section 5.1; Table S7.4 (both lists),points|both|coordinate_logprob|mean,0.080,3
+Section 5.1; Table S7.4 (both lists),points|both|coordinate_logprob|lo,0.062,3
+Section 5.1; Table S7.4 (both lists),points|both|coordinate_logprob|hi,0.098,3
+Table S7.4 (replication),points|replication|two_teacher_probe|mean,0.039,3
+Table S7.4 (replication),points|replication|two_teacher_probe|lo,0.015,3
+Table S7.4 (replication),points|replication|two_teacher_probe|hi,0.063,3
+Table S7.4 (replication),points|replication|sampling_teacher_probe|mean,0.053,3
+Table S7.4 (replication),points|replication|sampling_teacher_probe|lo,0.028,3
+Table S7.4 (replication),points|replication|sampling_teacher_probe|hi,0.078,3
+Table S7.4 (replication),points|replication|linear_probe_correctness|mean,0.010,3
+Table S7.4 (replication),points|replication|linear_probe_correctness|lo,-0.013,3
+Table S7.4 (replication),points|replication|linear_probe_correctness|hi,0.033,3
+Table S7.4 (replication),points|replication|saplma|mean,0.030,3
+Table S7.4 (replication),points|replication|saplma|lo,0.003,3
+Table S7.4 (replication),points|replication|saplma|hi,0.058,3
+Table S7.4 (replication),points|replication|coordinate_logprob|mean,0.087,3
+Table S7.4 (replication),points|replication|coordinate_logprob|lo,0.064,3
+Table S7.4 (replication),points|replication|coordinate_logprob|hi,0.111,3
+Table S7.4 (heldout),points|heldout|two_teacher_probe|mean,0.032,3
+Table S7.4 (heldout),points|heldout|two_teacher_probe|lo,0.007,3
+Table S7.4 (heldout),points|heldout|two_teacher_probe|hi,0.058,3
+Table S7.4 (heldout),points|heldout|sampling_teacher_probe|mean,0.043,3
+Table S7.4 (heldout),points|heldout|sampling_teacher_probe|lo,0.014,3
+Table S7.4 (heldout),points|heldout|sampling_teacher_probe|hi,0.072,3
+Table S7.4 (heldout),points|heldout|linear_probe_correctness|mean,0.014,3
+Table S7.4 (heldout),points|heldout|linear_probe_correctness|lo,-0.009,3
+Table S7.4 (heldout),points|heldout|linear_probe_correctness|hi,0.036,3
+Table S7.4 (heldout),points|heldout|saplma|mean,0.041,3
+Table S7.4 (heldout),points|heldout|saplma|lo,0.007,3
+Table S7.4 (heldout),points|heldout|saplma|hi,0.075,3
+Table S7.4 (heldout),points|heldout|coordinate_logprob|mean,0.071,3
+Table S7.4 (heldout),points|heldout|coordinate_logprob|lo,0.047,3
+Table S7.4 (heldout),points|heldout|coordinate_logprob|hi,0.096,3
+Abstract; Introduction; Section 5.1,review|all|probe alone,0.518,3
+Abstract; Introduction; Section 5.1,review|all|detector,0.524,3
+Abstract; Introduction; Section 3.6; Section 7,review|cost|break_even,0.86,2
+Section 7,review|cost|c1_difference,0.006,3
+Section 5.1; Table S6.8,types_table|residual|auroc,0.726,3
+Section 5.1; Table S6.8,types_table|residual|lo,0.681,3
+Section 5.1; Table S6.8,types_table|residual|hi,0.771,3
+Section 5.1; Table S6.8,types_table|detector|auroc,0.597,3
+Section 5.1; Table S6.8,types_table|detector|lo,0.548,3
+Section 5.1; Table S6.8,types_table|detector|hi,0.645,3
+Section 5.1; Table S6.8,types_table|two_teacher_probe|auroc,0.505,3
+Section 5.1; Table S6.8,types_table|two_teacher_probe|lo,0.456,3
+Section 5.1; Table S6.8,types_table|two_teacher_probe|hi,0.554,3
+Section 5.1; Table S6.8,types_table|shift_teacher_probe|auroc,0.533,3
+Section 5.1; Table S6.8,types_table|shift_teacher_probe|lo,0.487,3
+Section 5.1; Table S6.8,types_table|shift_teacher_probe|hi,0.578,3
+Section 5.1; Table S6.8,types_table|linear_probe_correctness|auroc,0.528,3
+Section 5.1; Table S6.8,types_table|linear_probe_correctness|lo,0.475,3
+Section 5.1; Table S6.8,types_table|linear_probe_correctness|hi,0.581,3
+Section 5.1; Table S6.8,types_table|pregeneration_probe|auroc,0.579,3
+Section 5.1; Table S6.8,types_table|pregeneration_probe|lo,0.527,3
+Section 5.1; Table S6.8,types_table|pregeneration_probe|hi,0.631,3
+Section 5.1; Table S6.8,types_table|linear_probe_wrong_object_all|auroc,0.654,3
+Section 5.1; Table S6.8,types_table|linear_probe_wrong_object_all|lo,0.608,3
+Section 5.1; Table S6.8,types_table|linear_probe_wrong_object_all|hi,0.701,3
+Section 5.1; Table S6.8,types_table|coordinate_logprob|auroc,0.457,3
+Section 5.1; Table S6.8,types_table|coordinate_logprob|lo,0.402,3
+Section 5.1; Table S6.8,types_table|coordinate_logprob|hi,0.514,3
+Section 5.1; Table S6.8,types_table|minus_box_area|auroc,0.670,3
+Section 5.1; Table S6.8,types_table|minus_box_area|lo,0.613,3
+Section 5.1; Table S6.8,types_table|minus_box_area|hi,0.725,3
+Section 5.1; Table S6.8,types_table|box_geometry_classifier|auroc,0.668,3
+Section 5.1; Table S6.8,types_table|box_geometry_classifier|lo,0.616,3
+Section 5.1; Table S6.8,types_table|box_geometry_classifier|hi,0.719,3
+Section 5.1; Table S6.8,types_table|box_geometry_plus_residual_classifier|auroc,0.730,3
+Section 5.1; Table S6.8,types_table|box_geometry_plus_residual_classifier|lo,0.682,3
+Section 5.1; Table S6.8,types_table|box_geometry_plus_residual_classifier|hi,0.776,3
+Section 5.1; Table S6.8,geometry|mean,0.061,3
+Section 5.1; Table S6.8,geometry|lo,0.031,3
+Section 5.1; Table S6.8,geometry|hi,0.092,3
+Introduction (contributions); Section 7,pairs_list|wrong_object|residual|rate,0.608,3
+Introduction (contributions); Section 7,pairs_list|wrong_object|residual|lo,0.543,3
+Introduction (contributions); Section 7,pairs_list|wrong_object|residual|hi,0.674,3

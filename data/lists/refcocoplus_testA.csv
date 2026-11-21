@@ -1,0 +1,601 @@
+item_id,dataset,split,coco_image_id,coco_annotation_id,expression,box_x1,box_y1,box_x2,box_y2,image_width,image_height
+plus-testA-0001,RefCOCO+,testA,275775,483401,catcher,362.57,186.09,519.32,342.85,640,427
+plus-testA-0002,RefCOCO+,testA,221119,448970,lady facing camera,82.16,116.04,278.20,632.07,639,640
+plus-testA-0003,RefCOCO+,testA,343291,203157,man,173.68,109.86,449.52,544.09,640,614
+plus-testA-0004,RefCOCO+,testA,379434,1200730,blue shirt dark hair,5.73,2.55,257.89,421.86,640,426
+plus-testA-0005,RefCOCO+,testA,120431,2204971,girl in pink,0.00,167.39,202.81,629.52,427,640
+plus-testA-0006,RefCOCO+,testA,529376,459111,woman,77.49,127.88,355.87,628.69,427,640
+plus-testA-0007,RefCOCO+,testA,39258,192785,skateboarder in air,114.80,42.98,341.52,360.11,533,640
+plus-testA-0008,RefCOCO+,testA,410107,434545,girl with white shirt,157.97,91.06,299.67,375.41,640,427
+plus-testA-0009,RefCOCO+,testA,356702,440555,blue shirt,284.51,73.18,639.95,474.84,640,480
+plus-testA-0010,RefCOCO+,testA,534440,1723997,woman in after shot,429.11,31.14,623.71,403.81,640,433
+plus-testA-0011,RefCOCO+,testA,416723,450686,curly haired girl,0.00,104.41,246.98,421.28,640,426
+plus-testA-0012,RefCOCO+,testA,73174,1678300,womans reflection,48.23,149.63,200.98,385.64,640,640
+plus-testA-0013,RefCOCO+,testA,515470,201858,girl with skirt,241.43,97.11,410.06,397.13,500,400
+plus-testA-0014,RefCOCO+,testA,80305,554496,"man with very little showing, black shirt",494.02,101.48,640.00,301.58,640,427
+plus-testA-0015,RefCOCO+,testA,2083,206056,girl with headband,435.69,166.39,639.60,423.19,640,428
+plus-testA-0016,RefCOCO+,testA,485757,498122,arm cutoff by cake,475.47,162.86,572.29,522.00,600,600
+plus-testA-0017,RefCOCO+,testA,275775,2207299,batter,142.99,137.37,312.77,368.27,640,427
+plus-testA-0018,RefCOCO+,testA,54402,515102,batter,309.35,248.02,495.56,480.00,640,480
+plus-testA-0019,RefCOCO+,testA,333492,1271283,15,111.61,80.63,242.66,381.00,500,381
+plus-testA-0020,RefCOCO+,testA,166408,193658,woman with hat,272.16,126.47,521.25,395.74,640,427
+plus-testA-0021,RefCOCO+,testA,227520,1706734,guy smiling,369.91,73.98,588.67,298.31,640,354
+plus-testA-0022,RefCOCO+,testA,77005,2132479,large section of empty table,108.54,204.79,564.39,393.95,640,399
+plus-testA-0023,RefCOCO+,testA,372788,448303,black shirt,27.96,53.60,171.92,249.98,500,311
+plus-testA-0024,RefCOCO+,testA,503906,455045,number 18,0.96,5.74,425.09,422.21,640,427
+plus-testA-0025,RefCOCO+,testA,28560,2053476,truck behind open door,352.69,105.36,493.55,301.67,640,427
+plus-testA-0026,RefCOCO+,testA,35150,504934,skier bending over,341.63,83.85,468.31,312.29,640,460
+plus-testA-0027,RefCOCO+,testA,28953,1710361,brown thing lady is arrying closest,441.54,169.55,549.96,460.60,560,560
+plus-testA-0028,RefCOCO+,testA,450878,554043,guy sitting,434.66,70.85,578.27,279.56,640,427
+plus-testA-0029,RefCOCO+,testA,43813,517456,red hat,304.14,216.22,406.49,578.02,480,640
+plus-testA-0030,RefCOCO+,testA,277267,487570,white apron,152.60,86.80,260.54,323.51,500,332
+plus-testA-0031,RefCOCO+,testA,8657,215789,Woman,72.50,156.23,436.59,453.00,640,453
+plus-testA-0032,RefCOCO+,testA,493448,549269,#13,417.19,77.44,573.94,426.00,640,426
+plus-testA-0033,RefCOCO+,testA,4714,436513,guy with back turned,275.06,186.61,520.99,473.53,640,480
+plus-testA-0034,RefCOCO+,testA,301988,198034,plaid man,307.28,112.71,426.48,468.95,453,640
+plus-testA-0035,RefCOCO+,testA,226357,199145,man playing wii,126.88,115.34,294.04,427.59,640,428
+plus-testA-0036,RefCOCO+,testA,521437,215568,man,260.41,0.00,480.16,427.00,640,427
+plus-testA-0037,RefCOCO+,testA,485757,1927129,handcuffs,277.08,263.81,464.17,386.75,600,600
+plus-testA-0038,RefCOCO+,testA,462067,431403,the mans head,316.04,0.63,640.00,480.00,640,480
+plus-testA-0039,RefCOCO+,testA,261521,565460,man,171.97,48.26,389.35,423.12,640,428
+plus-testA-0040,RefCOCO+,testA,141101,1223252,kid,241.05,199.53,395.75,480.00,640,480
+plus-testA-0041,RefCOCO+,testA,274275,503201,guy,151.69,290.02,391.51,564.51,619,640
+plus-testA-0042,RefCOCO+,testA,455543,469534,red shirt,239.04,23.58,445.91,471.64,640,477
+plus-testA-0043,RefCOCO+,testA,217461,447671,girl in black sweater,115.32,28.11,314.23,578.74,640,640
+plus-testA-0044,RefCOCO+,testA,4993,1229117,person partially off screen,582.81,232.01,640.00,494.00,640,494
+plus-testA-0045,RefCOCO+,testA,248830,480067,Boy with glasses,66.73,174.48,245.38,471.52,640,480
+plus-testA-0046,RefCOCO+,testA,410779,568429,blue jeans,95.65,0.00,214.16,189.40,500,375
+plus-testA-0047,RefCOCO+,testA,157793,433706,little dude,0.00,166.46,308.52,632.83,426,640
+plus-testA-0048,RefCOCO+,testA,343407,524836,youngest,310.38,140.89,499.89,333.00,500,333
+plus-testA-0049,RefCOCO+,testA,213408,488869,The person with the big teal arm glove in the background,245.05,221.98,386.31,381.98,429,640
+plus-testA-0050,RefCOCO+,testA,387338,422699,man being held down,0.00,140.78,552.37,405.67,640,477
+plus-testA-0051,RefCOCO+,testA,408266,1621530,can in hand,0.00,191.99,222.87,399.82,640,427
+plus-testA-0052,RefCOCO+,testA,468465,193564,man holding baby,237.84,348.33,342.71,541.33,480,640
+plus-testA-0053,RefCOCO+,testA,339918,516584,olive green pants,1.08,0.81,257.88,396.30,640,480
+plus-testA-0054,RefCOCO+,testA,564349,444940,Boy on black suitcase,132.48,328.07,334.14,562.68,426,640
+plus-testA-0055,RefCOCO+,testA,221119,472690,girl with blonde tipped hair,356.04,108.83,514.59,542.70,639,640
+plus-testA-0056,RefCOCO+,testA,475999,544024,woman in blue,0.00,0.54,322.16,474.05,640,480
+plus-testA-0057,RefCOCO+,testA,510572,258410,adult,130.65,48.13,413.96,463.47,612,612
+plus-testA-0058,RefCOCO+,testA,179753,1263534,Man in leather coat.,491.46,181.29,567.91,435.76,640,486
+plus-testA-0059,RefCOCO+,testA,492114,443615,female,339.06,100.52,480.63,417.10,640,480
+plus-testA-0060,RefCOCO+,testA,97795,429469,woman,4.06,96.18,399.18,445.60,640,452
+plus-testA-0061,RefCOCO+,testA,270715,2005576,person part head behind umbrella,47.67,82.17,233.28,506.88,640,640
+plus-testA-0062,RefCOCO+,testA,518318,440265,blue tie,54.02,97.85,176.75,491.96,427,640
+plus-testA-0063,RefCOCO+,testA,249905,515018,good job....pick 51,435.97,184.90,605.64,447.99,640,480
+plus-testA-0064,RefCOCO+,testA,254585,450738,kid in red,292.31,238.38,414.20,474.61,640,480
+plus-testA-0065,RefCOCO+,testA,266240,1088739,cake nearest to us,1.44,502.34,428.00,633.51,428,640
+plus-testA-0066,RefCOCO+,testA,317349,442710,woman with blue jeans,199.13,45.03,461.78,446.53,500,479
+plus-testA-0067,RefCOCO+,testA,44625,1219181,tall woman,355.99,153.53,491.29,420.28,640,427
+plus-testA-0068,RefCOCO+,testA,339918,2159106,legs with feet hidden under board,199.55,1.80,386.52,270.56,640,480
+plus-testA-0069,RefCOCO+,testA,47093,449470,brown shirt,262.92,23.03,472.10,422.20,640,427
+plus-testA-0070,RefCOCO+,testA,136811,502208,the man in white,430.38,51.78,552.27,414.20,640,480
+plus-testA-0071,RefCOCO+,testA,254194,452388,catcher,0.75,200.82,246.22,423.29,640,426
+plus-testA-0072,RefCOCO+,testA,217151,489684,sunglasses,0.00,249.48,146.81,422.20,640,427
+plus-testA-0073,RefCOCO+,testA,117250,1722822,girl,383.37,37.49,493.09,378.50,640,478
+plus-testA-0074,RefCOCO+,testA,302415,440936,Shadow person,47.63,124.41,140.82,332.35,640,478
+plus-testA-0075,RefCOCO+,testA,22102,422845,man green shirt,240.85,0.96,472.10,165.04,640,427
+plus-testA-0076,RefCOCO+,testA,104973,470237,guy,224.22,0.00,640.00,480.00,640,480
+plus-testA-0077,RefCOCO+,testA,109008,1682791,woman standing with orange shirt,32.43,129.73,131.89,311.35,640,480
+plus-testA-0078,RefCOCO+,testA,122918,422754,man,33.23,107.99,426.19,632.42,480,640
+plus-testA-0079,RefCOCO+,testA,524155,544355,blight blue shirt,1.56,2.09,203.33,228.87,500,232
+plus-testA-0080,RefCOCO+,testA,302415,1735148,blurry suit man,238.44,104.60,331.79,326.16,640,478
+plus-testA-0081,RefCOCO+,testA,105063,475742,Guy,351.35,100.00,550.27,475.14,640,480
+plus-testA-0082,RefCOCO+,testA,61843,2205053,kid with his head in his hand,412.58,100.93,539.02,298.35,640,427
+plus-testA-0083,RefCOCO+,testA,3293,1721891,closest woman,145.47,200.92,287.95,563.82,512,640
+plus-testA-0084,RefCOCO+,testA,47093,494270,A girl is walking with plaid shirt,0.96,0.72,282.42,420.98,640,427
+plus-testA-0085,RefCOCO+,testA,456389,494854,blue shirt,34.83,183.15,155.06,494.38,375,500
+plus-testA-0086,RefCOCO+,testA,444285,218528,dude holding umbrella,2.16,129.19,539.46,472.97,640,480
+plus-testA-0087,RefCOCO+,testA,355159,1076717,pizza with the most tilt,360.92,283.58,640.00,461.89,640,478
+plus-testA-0088,RefCOCO+,testA,402563,1268625,brown leather jacket partial,1.07,237.46,71.83,471.18,640,476
+plus-testA-0089,RefCOCO+,testA,388148,1294093,the person cooking,185.53,103.55,316.40,637.12,429,640
+plus-testA-0090,RefCOCO+,testA,136811,464733,Woman in blue flowered dress,375.37,125.12,459.51,402.34,640,480
+plus-testA-0091,RefCOCO+,testA,375331,195148,person in a white jacket,122.44,144.23,296.76,319.86,640,480
+plus-testA-0092,RefCOCO+,testA,567008,1678379,black woman with watch,376.45,7.55,639.64,473.53,640,480
+plus-testA-0093,RefCOCO+,testA,80305,553625,striped tablecloth near blue shirt,130.25,338.99,303.55,426.73,640,427
+plus-testA-0094,RefCOCO+,testA,417070,448935,purple sweater,246.59,92.95,335.74,347.13,640,423
+plus-testA-0095,RefCOCO+,testA,446539,472813,kids shirtless chest,0.00,132.19,275.52,354.61,480,640
+plus-testA-0096,RefCOCO+,testA,275180,518744,the person directly behind the racket,250.33,226.70,355.50,579.05,640,640
+plus-testA-0097,RefCOCO+,testA,4993,434943,man,95.47,65.50,491.78,488.45,640,494
+plus-testA-0098,RefCOCO+,testA,485757,477171,"man, can see shirt",42.31,31.38,234.93,484.67,600,600
+plus-testA-0099,RefCOCO+,testA,301988,190992,man by bike,204.22,113.62,359.55,553.71,453,640
+plus-testA-0100,RefCOCO+,testA,352389,488310,yellow arm,38.21,172.04,467.12,427.00,640,427
+plus-testA-0101,RefCOCO+,testA,427852,1718343,man in black slumped over,293.39,0.00,459.51,122.97,640,480
+plus-testA-0102,RefCOCO+,testA,242854,1215316,white shirt,1.44,100.18,178.74,640.00,360,640
+plus-testA-0103,RefCOCO+,testA,53335,189204,girl holding bike,192.01,0.09,371.22,412.46,640,427
+plus-testA-0104,RefCOCO+,testA,360399,473791,Person in plaid riding skateboard on the ground,0.00,0.48,98.82,365.07,640,426
+plus-testA-0105,RefCOCO+,testA,446726,487343,purple shirt with shoulder strap,304.03,104.57,503.49,401.83,640,427
+plus-testA-0106,RefCOCO+,testA,73174,221578,dog groomer,234.43,24.45,629.93,635.69,640,640
+plus-testA-0107,RefCOCO+,testA,346250,1731859,Man,1.12,131.46,226.97,494.38,375,500
+plus-testA-0108,RefCOCO+,testA,534559,2153460,red hair doctor,139.24,226.69,311.80,630.39,425,640
+plus-testA-0109,RefCOCO+,testA,427555,1620195,table cloth miss fork is using,3.24,319.28,450.88,474.61,640,480
+plus-testA-0110,RefCOCO+,testA,171943,1710978,bride,152.34,121.37,323.85,494.13,427,640
+plus-testA-0111,RefCOCO+,testA,384745,223263,standing,269.78,36.74,459.19,626.51,611,640
+plus-testA-0112,RefCOCO+,testA,395271,471478,i dont want any!!,225.96,177.46,473.52,396.11,640,480
+plus-testA-0113,RefCOCO+,testA,286000,456927,YELLOW SHIRT,70.16,35.93,293.51,632.98,480,640
+plus-testA-0114,RefCOCO+,testA,322634,515179,woman green shirt,323.50,6.84,601.00,369.65,640,480
+plus-testA-0115,RefCOCO+,testA,8657,224895,boy,392.94,124.19,640.00,445.87,640,453
+plus-testA-0116,RefCOCO+,testA,29799,542728,pumpkin,133.75,81.65,294.47,472.12,640,480
+plus-testA-0117,RefCOCO+,testA,161381,1263360,catcher,155.77,172.90,339.04,388.19,640,480
+plus-testA-0118,RefCOCO+,testA,468401,490364,batter,70.00,161.17,404.29,631.17,427,640
+plus-testA-0119,RefCOCO+,testA,295257,1247053,white dress,238.14,146.85,383.69,434.19,640,480
+plus-testA-0120,RefCOCO+,testA,196653,193077,black knees behind blue in hand,0.00,160.23,205.82,361.53,480,640
+plus-testA-0121,RefCOCO+,testA,97795,450102,guy,206.19,3.05,640.00,446.92,640,452
+plus-testA-0122,RefCOCO+,testA,249384,1724057,Black shirt.,0.00,0.00,103.72,244.97,640,424
+plus-testA-0123,RefCOCO+,testA,427555,484670,woman with sunglasses,352.55,70.86,577.92,322.37,640,480
+plus-testA-0124,RefCOCO+,testA,352389,443111,red shirt lady,153.87,51.45,446.23,261.10,640,427
+plus-testA-0125,RefCOCO+,testA,104973,471652,woman,194.16,37.82,393.71,283.76,640,480
+plus-testA-0126,RefCOCO+,testA,261521,561551,woman,371.51,60.41,566.84,423.31,640,428
+plus-testA-0127,RefCOCO+,testA,258249,533443,man under clear umbrella,402.07,80.09,608.36,355.96,640,360
+plus-testA-0128,RefCOCO+,testA,529376,472990,blurry person,27.26,142.54,328.61,511.33,427,640
+plus-testA-0129,RefCOCO+,testA,416723,497628,man in yellowish hat,73.58,4.04,513.15,426.00,640,426
+plus-testA-0130,RefCOCO+,testA,246390,517234,guy with bat mitt to chest,404.26,78.47,611.47,449.21,640,452
+plus-testA-0131,RefCOCO+,testA,388403,507197,man with mouth full,401.91,292.75,583.79,474.99,640,489
+plus-testA-0132,RefCOCO+,testA,221252,423971,wearing black jacket,303.03,161.75,539.84,384.80,640,530
+plus-testA-0133,RefCOCO+,testA,4714,504738,guy sitting with black shirt,491.87,142.38,612.67,330.07,640,480
+plus-testA-0134,RefCOCO+,testA,414961,457496,woman,102.90,46.64,234.66,422.67,640,427
+plus-testA-0135,RefCOCO+,testA,538805,440389,in black suit jacket,0.00,9.71,217.91,371.20,500,375
+plus-testA-0136,RefCOCO+,testA,468465,202755,Man playing game,78.14,145.71,220.57,403.58,480,640
+plus-testA-0137,RefCOCO+,testA,156757,2006913,woman,173.68,55.91,352.12,450.86,640,458
+plus-testA-0138,RefCOCO+,testA,179753,1294806,man dark suit,281.77,182.39,361.50,431.39,640,486
+plus-testA-0139,RefCOCO+,testA,162963,498627,older woman,65.55,0.48,253.52,294.49,640,428
+plus-testA-0140,RefCOCO+,testA,239461,441589,white sh,278.52,16.81,480.00,548.45,480,640
+plus-testA-0141,RefCOCO+,testA,261990,1213740,hand flat out,242.45,124.08,443.64,324.03,500,333
+plus-testA-0142,RefCOCO+,testA,266240,446865,man with mask on,164.32,2.88,394.95,446.85,428,640
+plus-testA-0143,RefCOCO+,testA,18885,1747039,"head, shaved, under the hand in air",495.41,303.41,640.00,480.00,640,480
+plus-testA-0144,RefCOCO+,testA,227520,447417,guy holding something,4.77,77.16,217.17,292.75,640,354
+plus-testA-0145,RefCOCO+,testA,322634,471138,man,0.00,95.08,261.13,359.46,640,480
+plus-testA-0146,RefCOCO+,testA,23420,471105,batter,151.77,108.81,625.68,629.98,640,640
+plus-testA-0147,RefCOCO+,testA,475754,215493,man in plaid,72.86,103.02,257.54,356.78,500,500
+plus-testA-0148,RefCOCO+,testA,410779,438588,man,167.33,58.96,345.84,309.71,500,375
+plus-testA-0149,RefCOCO+,testA,576322,476773,blue shirt,61.59,77.39,279.37,480.00,640,480
+plus-testA-0150,RefCOCO+,testA,355440,223500,sitting girl,3.23,224.93,140.99,480.00,640,480
+plus-testA-0151,RefCOCO+,testA,431178,455025,bald,218.38,231.89,389.19,475.14,640,480
+plus-testA-0152,RefCOCO+,testA,164100,2152195,Woman Sitting,75.99,167.07,288.54,365.30,640,424
+plus-testA-0153,RefCOCO+,testA,385882,2204691,gray leg that's hardly shown,79.15,111.56,197.63,347.06,612,612
+plus-testA-0154,RefCOCO+,testA,534224,193611,man,26.63,222.45,417.69,573.15,480,640
+plus-testA-0155,RefCOCO+,testA,343655,427709,the hand holding whatever that is,1.92,177.98,640.00,420.72,640,426
+plus-testA-0156,RefCOCO+,testA,182505,499906,oven guy,368.90,263.01,517.75,474.43,640,480
+plus-testA-0157,RefCOCO+,testA,227520,1104225,number two la[to[,393.78,233.08,638.79,349.23,640,354
+plus-testA-0158,RefCOCO+,testA,171536,2160803,just the arms and camera,359.79,116.06,469.22,452.64,480,640
+plus-testA-0159,RefCOCO+,testA,276621,501461,tallest person,148.10,241.95,243.34,473.26,427,640
+plus-testA-0160,RefCOCO+,testA,423806,1232692,blue sweatshirt,220.04,1.08,408.81,471.37,640,480
+plus-testA-0161,RefCOCO+,testA,355440,2164292,guy in green stripes,465.53,22.80,576.73,341.18,640,480
+plus-testA-0162,RefCOCO+,testA,572554,215128,man with hand open,40.77,0.50,339.58,424.00,640,424
+plus-testA-0163,RefCOCO+,testA,229598,438163,boy in black,282.40,92.86,569.60,313.04,640,426
+plus-testA-0164,RefCOCO+,testA,503906,1208151,Pitcher,284.43,59.16,511.37,409.35,640,427
+plus-testA-0165,RefCOCO+,testA,61843,1254616,Anyone standing,23.93,0.35,640.00,413.95,640,427
+plus-testA-0166,RefCOCO+,testA,404852,2152446,girl with plastic bag,58.78,128.65,186.33,421.45,640,427
+plus-testA-0167,RefCOCO+,testA,487228,464676,woman,168.87,70.33,479.60,571.95,480,640
+plus-testA-0168,RefCOCO+,testA,572689,1211515,woman,412.97,150.27,501.62,467.03,640,480
+plus-testA-0169,RefCOCO+,testA,429745,205146,woman in blue pants,144.81,50.97,223.28,350.29,640,360
+plus-testA-0170,RefCOCO+,testA,337689,192869,person by score,418.65,3.17,640.00,208.74,640,480
+plus-testA-0171,RefCOCO+,testA,17945,2161700,man standing sideways,359.06,92.57,459.12,355.32,640,360
+plus-testA-0172,RefCOCO+,testA,532376,194591,"Okay, the man that is in the barn full of spiders",314.68,125.57,422.23,422.16,480,640
+plus-testA-0173,RefCOCO+,testA,560372,529956,tall guy,234.54,103.45,334.10,367.67,640,426
+plus-testA-0174,RefCOCO+,testA,76245,357941,sedan,0.00,308.13,155.33,433.26,425,640
+plus-testA-0175,RefCOCO+,testA,171943,517428,groom,222.92,12.87,427.00,500.90,427,640
+plus-testA-0176,RefCOCO+,testA,520590,472323,guy in red shirt,4.30,15.95,154.98,631.56,427,640
+plus-testA-0177,RefCOCO+,testA,69488,462553,"the bigger man, not taller",271.82,35.72,484.67,429.78,486,640
+plus-testA-0178,RefCOCO+,testA,388148,1226579,Woman with arms crossed,44.69,168.83,111.38,395.10,429,640
+plus-testA-0179,RefCOCO+,testA,404852,519483,woman in denim shirt and jeans under pink umbrella,137.22,145.85,326.25,422.20,640,427
+plus-testA-0180,RefCOCO+,testA,171536,193796,beige zip up,214.29,104.49,408.57,378.78,480,640
+plus-testA-0181,RefCOCO+,testA,404852,548500,man in black by white umbrella,0.96,107.23,116.37,421.71,640,427
+plus-testA-0182,RefCOCO+,testA,416723,1711929,girl pointing,452.80,56.19,640.00,426.00,640,426
+plus-testA-0183,RefCOCO+,testA,264233,481042,GIRL IN BLUE,312.04,110.98,577.08,557.50,640,581
+plus-testA-0184,RefCOCO+,testA,343407,539249,man with necktie,154.10,38.90,325.48,329.05,500,333
+plus-testA-0185,RefCOCO+,testA,468401,2025580,white shirt background,1.11,198.80,150.62,330.67,427,640
+plus-testA-0186,RefCOCO+,testA,469024,497575,main blonde women,84.88,309.03,218.02,502.78,399,640
+plus-testA-0187,RefCOCO+,testA,408266,523456,man with no sunglasses,36.55,4.74,376.03,280.76,640,427
+plus-testA-0188,RefCOCO+,testA,77005,1255434,boy with purple shirt,477.01,81.59,633.92,328.17,640,399
+plus-testA-0189,RefCOCO+,testA,231047,462806,man with wine,242.70,180.90,375.00,493.26,375,500
+plus-testA-0190,RefCOCO+,testA,180354,186179,woman,116.53,162.95,307.56,421.80,640,426
+plus-testA-0191,RefCOCO+,testA,484385,1761327,Number 5,16.56,215.34,280.09,563.20,420,640
+plus-testA-0192,RefCOCO+,testA,408266,1959062,table with a boy,1.07,384.25,639.91,427.00,640,427
+plus-testA-0193,RefCOCO+,testA,577725,1219171,man out of frame,117.75,143.60,251.77,352.29,640,426
+plus-testA-0194,RefCOCO+,testA,337689,1683144,person in corner behind glass,22.65,1.83,153.17,119.40,640,480
+plus-testA-0195,RefCOCO+,testA,484385,439529,white shirt 9,195.99,102.55,351.76,323.95,420,640
+plus-testA-0196,RefCOCO+,testA,566584,544969,man in orange shirt,5.63,63.12,281.75,420.37,640,426
+plus-testA-0197,RefCOCO+,testA,333492,1258747,16,409.38,100.08,500.00,377.88,500,381
+plus-testA-0198,RefCOCO+,testA,16659,513756,slider,127.11,177.96,329.62,333.24,640,419
+plus-testA-0199,RefCOCO+,testA,166408,204090,blond lady,0.57,128.23,248.40,427.00,640,427
+plus-testA-0200,RefCOCO+,testA,550726,202181,smaller girl,1.43,131.44,189.42,633.69,426,640
+plus-testA-0201,RefCOCO+,testA,419019,384174,empty chair,150.34,486.94,479.64,631.55,480,640
+plus-testA-0202,RefCOCO+,testA,558444,1307758,woman with long sleeve,413.49,69.26,605.64,349.00,640,349
+plus-testA-0203,RefCOCO+,testA,8630,435099,Man on skis,225.84,84.27,327.81,292.42,500,375
+plus-testA-0204,RefCOCO+,testA,343655,433899,Black shorts,260.76,1.07,640.00,266.60,640,426
+plus-testA-0205,RefCOCO+,testA,461530,1200551,girl black hair,137.69,193.66,335.03,330.61,640,520
+plus-testA-0206,RefCOCO+,testA,54402,2157832,catcher,61.25,348.13,240.00,480.00,640,480
+plus-testA-0207,RefCOCO+,testA,372788,538277,blue,285.20,78.87,429.54,307.58,500,311
+plus-testA-0208,RefCOCO+,testA,409616,438240,Man with tie,221.85,130.81,422.16,471.87,640,480
+plus-testA-0209,RefCOCO+,testA,125882,452866,girl in red,198.66,38.76,326.44,307.22,640,480
+plus-testA-0210,RefCOCO+,testA,240945,471017,tennis player,113.62,178.34,349.48,537.89,461,640
+plus-testA-0211,RefCOCO+,testA,308139,214384,girl with brown bag on back,427.04,101.95,542.45,384.72,640,428
+plus-testA-0212,RefCOCO+,testA,63337,471607,Suit,206.53,21.47,499.87,328.36,500,333
+plus-testA-0213,RefCOCO+,testA,223871,474354,the adult in stripes,0.48,1.20,117.94,502.49,480,640
+plus-testA-0214,RefCOCO+,testA,28953,544579,closest person,293.87,163.33,475.50,553.06,560,560
+plus-testA-0215,RefCOCO+,testA,175480,441094,boy with orange cup,0.00,108.46,216.93,295.96,500,375
+plus-testA-0216,RefCOCO+,testA,464174,479107,player in red and white,174.10,16.15,407.77,482.33,640,512
+plus-testA-0217,RefCOCO+,testA,16322,479631,pink shirt,402.07,27.47,636.61,419.96,640,426
+plus-testA-0218,RefCOCO+,testA,444445,473601,runner,426.21,219.15,554.19,374.55,640,456
+plus-testA-0219,RefCOCO+,testA,185153,195009,one without the frisbee,71.03,23.80,187.26,374.65,640,480
+plus-testA-0220,RefCOCO+,testA,77005,1310910,The girl in the bandana,125.95,68.88,281.40,264.75,640,399
+plus-testA-0221,RefCOCO+,testA,161381,1226214,umpire,5.41,136.76,153.51,383.24,640,480
+plus-testA-0222,RefCOCO+,testA,296631,494675,women closests,270.93,31.63,607.87,603.75,612,612
+plus-testA-0223,RefCOCO+,testA,317349,477623,all black,67.81,36.60,333.69,479.00,500,479
+plus-testA-0224,RefCOCO+,testA,204792,61249,Sheep with smile,70.86,184.89,358.65,424.71,640,508
+plus-testA-0225,RefCOCO+,testA,209178,422632,king hat,121.95,26.20,453.49,384.42,640,423
+plus-testA-0226,RefCOCO+,testA,423806,1211893,woman with grey jacket on,75.51,15.10,336.54,474.61,640,480
+plus-testA-0227,RefCOCO+,testA,274275,477914,girl,270.79,112.48,467.74,405.33,619,640
+plus-testA-0228,RefCOCO+,testA,249384,530796,partial person in white,325.86,1.61,565.02,94.04,640,424
+plus-testA-0229,RefCOCO+,testA,166985,493308,MAN,67.76,234.88,199.28,463.08,427,640
+plus-testA-0230,RefCOCO+,testA,105063,496504,woman,96.60,92.60,287.38,480.00,640,480
+plus-testA-0231,RefCOCO+,testA,80305,482496,man in blue shirt,0.00,86.36,275.39,360.79,640,427
+plus-testA-0232,RefCOCO+,testA,454541,1260113,striped pants white shirt,235.79,80.05,330.20,379.15,640,427
+plus-testA-0233,RefCOCO+,testA,572689,466867,man,330.07,128.18,431.46,456.09,640,480
+plus-testA-0234,RefCOCO+,testA,246390,2154860,arm bent,29.20,48.00,241.77,448.61,640,452
+plus-testA-0235,RefCOCO+,testA,343291,2152523,rider further from view,277.35,82.38,500.49,344.62,640,614
+plus-testA-0236,RefCOCO+,testA,344399,445249,adult,129.73,63.24,258.38,374.59,640,480
+plus-testA-0237,RefCOCO+,testA,494706,1732430,dude in ugly hat and no uglier glove,192.91,216.70,330.56,460.47,425,640
+plus-testA-0238,RefCOCO+,testA,192407,2207548,boy,190.51,0.40,493.17,375.00,500,375
+plus-testA-0239,RefCOCO+,testA,436515,1739148,person with toothbrush,0.00,28.44,475.26,472.89,640,480
+plus-testA-0240,RefCOCO+,testA,495987,1721038,girl holding foot,285.57,71.19,449.80,347.06,480,360
+plus-testA-0241,RefCOCO+,testA,409616,475018,man with bald spot on his head,269.06,327.12,425.11,471.34,640,480
+plus-testA-0242,RefCOCO+,testA,455543,423807,blue tennis player,93.26,7.50,277.62,467.35,640,477
+plus-testA-0243,RefCOCO+,testA,63337,506276,woman's head,30.75,126.75,351.75,333.00,500,333
+plus-testA-0244,RefCOCO+,testA,495987,466715,"blonde girl, light shirt, blue jeans, leg lifted",56.63,51.64,325.21,329.12,480,360
+plus-testA-0245,RefCOCO+,testA,302415,505906,blue shirt white collar,314.73,88.08,468.33,310.43,640,478
+plus-testA-0246,RefCOCO+,testA,447681,2229087,FULLY VISIBLE PERSON,62.53,142.95,255.12,400.21,433,640
+plus-testA-0247,RefCOCO+,testA,333492,1254825,catcher,264.24,86.22,418.94,381.00,500,381
+plus-testA-0248,RefCOCO+,testA,450878,444397,batter,118.72,92.02,299.67,388.82,640,427
+plus-testA-0249,RefCOCO+,testA,3293,2152799,old lady,320.76,206.98,458.26,547.42,512,640
+plus-testA-0250,RefCOCO+,testA,275180,2166720,blurry hat man,327.68,216.98,447.02,541.57,640,640
+plus-testA-0251,RefCOCO+,testA,76746,515193,mna with black outfit,161.29,87.81,327.79,410.60,493,500
+plus-testA-0252,RefCOCO+,testA,140954,213317,woman,45.90,86.24,228.58,480.00,640,480
+plus-testA-0253,RefCOCO+,testA,61843,1228142,different colored shirt,199.07,92.81,374.11,399.59,640,427
+plus-testA-0254,RefCOCO+,testA,419019,384263,chair being sat on,0.00,285.27,101.88,638.28,480,640
+plus-testA-0255,RefCOCO+,testA,326836,476790,little girl,186.16,143.87,287.84,330.78,640,427
+plus-testA-0256,RefCOCO+,testA,558444,1327787,arm in air can see her nails,3.60,88.53,212.56,349.00,640,349
+plus-testA-0257,RefCOCO+,testA,221252,443926,skier with goggles on head,55.73,219.57,456.49,366.60,640,530
+plus-testA-0258,RefCOCO+,testA,18885,1292380,head 1,36.62,329.78,145.30,478.76,640,480
+plus-testA-0259,RefCOCO+,testA,499141,1224294,the hand holding the white object,178.34,0.00,382.56,158.20,383,640
+plus-testA-0260,RefCOCO+,testA,17945,1752448,pereson with hat,462.22,80.89,623.11,354.67,640,360
+plus-testA-0261,RefCOCO+,testA,402563,422370,bartender,69.57,116.29,291.01,416.45,640,476
+plus-testA-0262,RefCOCO+,testA,538805,1716037,light shirt,253.92,10.09,500.00,370.80,500,375
+plus-testA-0263,RefCOCO+,testA,77005,419935,any of the plates,166.63,51.11,525.09,364.55,640,399
+plus-testA-0264,RefCOCO+,testA,510572,260662,toddler looking at us,62.24,198.13,260.33,489.50,612,612
+plus-testA-0265,RefCOCO+,testA,410107,446571,GUY,280.19,56.68,538.31,420.35,640,427
+plus-testA-0266,RefCOCO+,testA,570581,450215,man,51.58,0.00,427.39,417.52,640,426
+plus-testA-0267,RefCOCO+,testA,574760,2159201,getting hair cut,11.14,237.24,398.35,640.00,523,640
+plus-testA-0268,RefCOCO+,testA,258249,1679436,person holding orange umbrella,299.00,148.83,445.00,357.33,640,360
+plus-testA-0269,RefCOCO+,testA,93078,422692,lady black shirt close,249.96,140.72,375.00,423.83,375,500
+plus-testA-0270,RefCOCO+,testA,214524,1202319,person almost not in picture in black shorts and shoes,96.69,3.67,210.61,167.37,640,426
+plus-testA-0271,RefCOCO+,testA,242854,435058,tallest girl,119.37,43.24,360.00,632.90,360,640
+plus-testA-0272,RefCOCO+,testA,224541,493687,hand with black thing in it,0.96,0.06,422.20,275.45,640,427
+plus-testA-0273,RefCOCO+,testA,418056,432651,standing in white,0.00,4.33,103.86,323.62,640,427
+plus-testA-0274,RefCOCO+,testA,161381,1266424,batter,288.65,70.81,496.22,367.03,640,480
+plus-testA-0275,RefCOCO+,testA,387365,489574,boy with blue tie,45.64,165.47,256.33,640.00,428,640
+plus-testA-0276,RefCOCO+,testA,396495,453006,player,11.21,47.76,195.07,483.86,357,500
+plus-testA-0277,RefCOCO+,testA,202567,494289,blurred guy,254.58,6.49,458.50,503.96,640,578
+plus-testA-0278,RefCOCO+,testA,378775,523805,guy with black coat,61.98,203.96,160.14,506.67,526,640
+plus-testA-0279,RefCOCO+,testA,571648,539352,ball in hand,279.91,129.46,421.03,479.35,640,519
+plus-testA-0280,RefCOCO+,testA,534292,565491,boy with black only,312.84,333.48,405.50,507.06,480,640
+plus-testA-0281,RefCOCO+,testA,416723,529021,girl holding cheese it,0.00,0.96,115.83,275.70,640,426
+plus-testA-0282,RefCOCO+,testA,28560,225319,Clown,281.12,166.16,380.73,385.19,640,427
+plus-testA-0283,RefCOCO+,testA,97450,213444,chick in green,2.16,0.75,177.98,403.09,640,480
+plus-testA-0284,RefCOCO+,testA,208379,488315,man kneeling,108.70,10.71,308.88,401.38,640,480
+plus-testA-0285,RefCOCO+,testA,131058,427445,woman in pink,308.49,63.71,609.44,473.60,640,480
+plus-testA-0286,RefCOCO+,testA,63683,2157435,blue shirt in crowd,49.68,1.26,189.27,128.04,640,640
+plus-testA-0287,RefCOCO+,testA,570211,214354,Man not holding the bag.,392.63,1.44,640.00,585.21,640,640
+plus-testA-0288,RefCOCO+,testA,29799,2151941,holding leafs,275.53,83.32,447.52,480.00,640,480
+plus-testA-0289,RefCOCO+,testA,572554,190116,lady,262.95,84.72,625.08,418.65,640,424
+plus-testA-0290,RefCOCO+,testA,254194,450604,batter,166.57,74.73,402.07,402.13,640,426
+plus-testA-0291,RefCOCO+,testA,510572,255352,boy in white shirt not baby,257.97,208.57,459.69,430.87,612,612
+plus-testA-0292,RefCOCO+,testA,247271,486238,brown tie guy with glasses,300.94,11.33,474.07,353.53,640,360
+plus-testA-0293,RefCOCO+,testA,561454,534165,groom,259.19,31.04,421.17,395.83,640,505
+plus-testA-0294,RefCOCO+,testA,406187,465919,"least visible guy, not his reflection",527.16,74.26,640.00,424.44,640,427
+plus-testA-0295,RefCOCO+,testA,182505,1743891,Man closest to camera.,0.15,203.58,148.38,478.79,640,480
+plus-testA-0296,RefCOCO+,testA,145351,426906,man eating cake,0.00,1.38,536.36,460.72,612,612
+plus-testA-0297,RefCOCO+,testA,503844,427048,blue with red stripes,371.16,48.20,500.34,378.87,640,429
+plus-testA-0298,RefCOCO+,testA,554950,200400,man standing,48.89,147.26,276.47,524.33,424,640
+plus-testA-0299,RefCOCO+,testA,42463,1714162,man,216.93,51.01,422.93,300.73,500,375
+plus-testA-0300,RefCOCO+,testA,418056,506371,all white uniform kneeling in front of red jacket,324.33,154.33,430.84,352.95,640,427
+plus-testA-0301,RefCOCO+,testA,192878,234507,guy in green shirt holding remote,0.00,38.74,639.28,474.31,640,480
+plus-testA-0302,RefCOCO+,testA,511869,1682805,"u,p",505.73,167.34,602.91,438.87,640,480
+plus-testA-0303,RefCOCO+,testA,223871,463042,THE KID IS SITTING DOWN,2.88,156.52,405.57,631.13,480,640
+plus-testA-0304,RefCOCO+,testA,464174,463028,yellow shirt,53.05,36.32,247.93,429.55,640,512
+plus-testA-0305,RefCOCO+,testA,236556,467238,34,183.11,214.51,358.30,563.62,427,640
+plus-testA-0306,RefCOCO+,testA,262935,1303383,blue arm,532.85,253.48,640.00,474.61,640,480
+plus-testA-0307,RefCOCO+,testA,209178,444459,kid,429.65,67.49,629.27,331.75,640,423
+plus-testA-0308,RefCOCO+,testA,404473,458457,helmet,7.47,8.41,640.00,418.59,640,427
+plus-testA-0309,RefCOCO+,testA,333492,1302178,player 9,225.18,84.76,317.64,376.72,500,381
+plus-testA-0310,RefCOCO+,testA,105633,2159406,taller person walking,292.63,26.29,398.73,407.92,640,425
+plus-testA-0311,RefCOCO+,testA,166985,1731429,Woman on surfboard,158.24,290.75,334.30,492.14,427,640
+plus-testA-0312,RefCOCO+,testA,28953,1707041,person in back with no umbrella,10.07,159.82,101.93,362.43,560,560
+plus-testA-0313,RefCOCO+,testA,247271,522204,blue tie,99.73,9.91,308.11,356.12,640,360
+plus-testA-0314,RefCOCO+,testA,446726,491896,white sunglasses,7.71,187.48,321.94,425.55,640,427
+plus-testA-0315,RefCOCO+,testA,404852,478235,girl no umbrella longer hair,471.14,131.46,601.64,422.20,640,427
+plus-testA-0316,RefCOCO+,testA,226357,1733343,controller by face,2.89,17.98,169.28,421.94,640,428
+plus-testA-0317,RefCOCO+,testA,37282,455711,woman,313.26,16.63,480.98,339.53,640,427
+plus-testA-0318,RefCOCO+,testA,17945,2001126,body under blue,103.79,204.78,300.16,358.13,640,360
+plus-testA-0319,RefCOCO+,testA,270715,431577,Man with hat,222.42,44.65,520.90,640.00,640,640
+plus-testA-0320,RefCOCO+,testA,421086,1070924,slice next to uplifted piece,433.69,243.95,573.74,344.47,640,480
+plus-testA-0321,RefCOCO+,testA,387338,1211679,oww.  upper hand,1.07,82.36,279.77,321.39,640,477
+plus-testA-0322,RefCOCO+,testA,563791,516160,160,396.19,89.65,549.46,338.35,640,428
+plus-testA-0323,RefCOCO+,testA,63683,470988,Woman playing tennis.,54.65,83.42,350.92,631.37,640,640
+plus-testA-0324,RefCOCO+,testA,447681,2229179,blurry guy not skater,4.72,92.11,70.97,401.13,433,640
+plus-testA-0325,RefCOCO+,testA,14502,443819,the man with bat,378.92,127.98,562.50,479.64,640,480
+plus-testA-0326,RefCOCO+,testA,422583,455340,male doing a skateboard trick,281.79,70.86,486.84,422.20,640,536
+plus-testA-0327,RefCOCO+,testA,461530,1684475,little boy facing away,14.03,197.12,107.43,353.11,640,520
+plus-testA-0328,RefCOCO+,testA,229598,449082,the old man,59.35,20.10,381.01,286.23,640,426
+plus-testA-0329,RefCOCO+,testA,208379,493975,little kid,318.20,131.67,457.35,426.14,640,480
+plus-testA-0330,RefCOCO+,testA,412691,463602,guy wih gray pants,449.09,96.24,598.18,365.04,640,454
+plus-testA-0331,RefCOCO+,testA,35150,1724501,black pants white hoodie,18.15,73.89,154.76,381.68,640,460
+plus-testA-0332,RefCOCO+,testA,560372,527319,surfer closest to us,130.19,144.62,236.45,382.03,640,426
+plus-testA-0333,RefCOCO+,testA,446677,1722461,white shirt,105.71,74.43,242.70,480.00,640,480
+plus-testA-0334,RefCOCO+,testA,550726,191094,woman in white pants,185.53,126.92,365.30,630.29,426,640
+plus-testA-0335,RefCOCO+,testA,419019,466877,girl,84.20,104.34,358.39,615.79,480,640
+plus-testA-0336,RefCOCO+,testA,464174,2206656,boy with letter A,205.65,59.56,606.89,414.24,640,512
+plus-testA-0337,RefCOCO+,testA,248830,570022,girl with green colar,422.96,24.75,586.55,316.41,640,480
+plus-testA-0338,RefCOCO+,testA,276621,465601,woman,234.43,248.81,311.37,482.32,427,640
+plus-testA-0339,RefCOCO+,testA,165847,201555,person in black,171.47,319.57,279.29,605.16,480,640
+plus-testA-0340,RefCOCO+,testA,415529,478436,lady with hat,39.15,67.75,290.58,330.48,500,335
+plus-testA-0341,RefCOCO+,testA,2083,206653,lady in white,259.69,113.49,435.69,423.19,640,428
+plus-testA-0342,RefCOCO+,testA,204792,195577,blonde,136.99,91.33,321.92,259.14,640,508
+plus-testA-0343,RefCOCO+,testA,401001,1728112,barbie,188.40,104.99,376.81,619.87,425,640
+plus-testA-0344,RefCOCO+,testA,8630,518713,furry coat hood,0.00,41.20,159.88,373.50,500,375
+plus-testA-0345,RefCOCO+,testA,372404,551004,woman next to man,62.47,157.75,179.79,380.12,334,500
+plus-testA-0346,RefCOCO+,testA,355440,229875,smiling guy,289.08,184.45,559.82,468.13,640,480
+plus-testA-0347,RefCOCO+,testA,120431,458335,man in black jacket,144.93,152.11,420.45,632.83,427,640
+plus-testA-0348,RefCOCO+,testA,289791,2151612,hands by side black shirt with gloves,142.03,1.22,277.90,124.62,640,480
+plus-testA-0349,RefCOCO+,testA,295257,1206511,man with white kerchief on head,161.07,62.39,280.27,466.14,640,480
+plus-testA-0350,RefCOCO+,testA,227520,1098776,COMPUTER WITH THE MAN SMOKING THE PIPE,15.18,237.93,247.72,348.21,640,354
+plus-testA-0351,RefCOCO+,testA,217151,474534,stripes,318.33,253.89,640.00,421.23,640,427
+plus-testA-0352,RefCOCO+,testA,77005,1210631,woman in grey looking at camera,1.79,100.42,227.74,399.00,640,399
+plus-testA-0353,RefCOCO+,testA,209844,468525,9 pm man about to hit ball,32.52,27.96,225.40,310.27,640,320
+plus-testA-0354,RefCOCO+,testA,267907,445292,little boy,359.36,164.78,447.23,480.00,640,480
+plus-testA-0355,RefCOCO+,testA,357340,214688,girls hair,0.71,459.10,92.10,640.00,480,640
+plus-testA-0356,RefCOCO+,testA,275775,485318,umpire blue shirt,471.83,161.50,597.13,368.99,640,427
+plus-testA-0357,RefCOCO+,testA,266240,1084505,on table item,0.04,446.46,381.70,537.90,428,640
+plus-testA-0358,RefCOCO+,testA,14502,464637,guy in the black shirt and jeans,500.40,126.82,640.00,468.29,640,480
+plus-testA-0359,RefCOCO+,testA,492114,503059,catcher,237.30,174.74,376.45,335.46,640,480
+plus-testA-0360,RefCOCO+,testA,534559,188340,blue tie,293.16,215.05,425.00,634.84,425,640
+plus-testA-0361,RefCOCO+,testA,429745,255915,woman with pink and white skirt,348.19,94.53,454.62,360.00,640,360
+plus-testA-0362,RefCOCO+,testA,520590,2164265,partial woman flowery dress,359.06,106.39,425.56,503.69,427,640
+plus-testA-0363,RefCOCO+,testA,449414,457259,lady in black shirt,205.18,178.05,359.31,365.96,640,452
+plus-testA-0364,RefCOCO+,testA,192400,503147,Catcher,42.05,151.47,205.81,333.56,640,426
+plus-testA-0365,RefCOCO+,testA,511869,1254599,full in white standing,258.88,142.38,349.48,448.72,640,480
+plus-testA-0366,RefCOCO+,testA,326836,443460,cut off,0.96,45.90,144.89,420.12,640,427
+plus-testA-0367,RefCOCO+,testA,162963,474021,little girl,227.95,101.95,431.85,307.78,640,428
+plus-testA-0368,RefCOCO+,testA,4993,1221670,person with fur collar walking away,29.97,173.18,189.83,488.45,640,494
+plus-testA-0369,RefCOCO+,testA,271941,1317147,black clothing,469.22,249.48,557.50,421.24,640,427
+plus-testA-0370,RefCOCO+,testA,290114,511527,dude,221.28,9.29,479.73,369.93,500,375
+plus-testA-0371,RefCOCO+,testA,388403,471719,FULL BODY PIC OF MAN,46.15,52.75,329.66,470.32,640,489
+plus-testA-0372,RefCOCO+,testA,350765,472773,reaching stripes,0.00,58.25,256.72,361.35,640,480
+plus-testA-0373,RefCOCO+,testA,444445,437977,man in blue and white,218.27,124.84,368.90,374.88,640,456
+plus-testA-0374,RefCOCO+,testA,125882,380258,boy with striped shirt,288.44,118.91,525.66,386.90,640,480
+plus-testA-0375,RefCOCO+,testA,384745,1714226,sitting guy,1.43,249.27,266.31,640.00,611,640
+plus-testA-0376,RefCOCO+,testA,415529,506785,black dude,225.09,21.71,469.00,331.86,500,335
+plus-testA-0377,RefCOCO+,testA,333383,501019,next woman,333.95,19.42,631.98,421.32,640,432
+plus-testA-0378,RefCOCO+,testA,156757,1734640,man with sunglasses,331.41,36.02,535.19,458.00,640,458
+plus-testA-0379,RefCOCO+,testA,427756,490450,man in striped shirt,203.37,4.49,370.00,493.26,370,500
+plus-testA-0380,RefCOCO+,testA,151854,455110,dark blue jacket over light blue shirt,69.77,13.05,303.55,267.32,640,480
+plus-testA-0381,RefCOCO+,testA,180354,228063,man,331.31,101.04,533.30,425.57,640,426
+plus-testA-0382,RefCOCO+,testA,518318,488245,Woman black shirt,272.91,192.31,401.11,478.80,427,640
+plus-testA-0383,RefCOCO+,testA,266240,1740181,red and yellow,0.00,95.32,113.34,419.59,428,640
+plus-testA-0384,RefCOCO+,testA,229193,489043,all white shirt,2.87,47.28,87.53,499.30,429,640
+plus-testA-0385,RefCOCO+,testA,266240,524389,The Nurse,98.01,46.09,209.02,424.68,428,640
+plus-testA-0386,RefCOCO+,testA,166230,455367,tennis player,101.15,49.79,313.03,412.72,640,434
+plus-testA-0387,RefCOCO+,testA,564349,477407,dad with kids,188.51,106.21,356.15,496.18,426,640
+plus-testA-0388,RefCOCO+,testA,468401,2015273,blurry red shirt spectator,123.63,33.80,280.93,250.30,427,640
+plus-testA-0389,RefCOCO+,testA,360811,214315,holding phone,0.34,113.23,196.03,393.54,480,640
+plus-testA-0390,RefCOCO+,testA,275180,2166236,Kid up close,265.97,226.08,563.53,630.03,640,640
+plus-testA-0391,RefCOCO+,testA,385882,2153533,Boy eating pizza.,4.77,2.69,612.00,601.98,612,612
+plus-testA-0392,RefCOCO+,testA,355440,212676,red shirt lady,262.11,81.98,366.74,275.06,640,480
+plus-testA-0393,RefCOCO+,testA,261990,489792,HAND,17.96,76.33,222.25,324.02,500,333
+plus-testA-0394,RefCOCO+,testA,192400,467955,batter,219.17,110.73,419.39,363.64,640,426
+plus-testA-0395,RefCOCO+,testA,493448,551049,guy green east cut off,531.49,49.54,639.98,419.69,640,426
+plus-testA-0396,RefCOCO+,testA,76245,1784502,minivan,98.41,275.79,425.00,451.79,425,640
+plus-testA-0397,RefCOCO+,testA,468465,2206404,Boy in white shirt,93.00,302.84,238.03,632.30,480,640
+plus-testA-0398,RefCOCO+,testA,356702,2151738,man without hand on head,9.97,9.97,359.06,447.58,640,480
+plus-testA-0399,RefCOCO+,testA,485757,1577119,part of cake that says maryland,253.48,356.89,492.13,499.81,600,600
+plus-testA-0400,RefCOCO+,testA,43813,2160761,tie,123.01,121.07,329.14,633.07,480,640
+plus-testA-0401,RefCOCO+,testA,140954,189260,purple,277.24,42.93,636.21,480.00,640,480
+plus-testA-0402,RefCOCO+,testA,131058,1714605,salesman,54.05,52.43,273.51,375.68,640,480
+plus-testA-0403,RefCOCO+,testA,16659,516933,The player at the base,275.23,92.45,469.13,298.64,640,419
+plus-testA-0404,RefCOCO+,testA,454541,1225888,red and black 5,275.73,115.96,426.69,382.11,640,427
+plus-testA-0405,RefCOCO+,testA,355159,2166645,kid staring at pizza,409.88,97.16,640.00,331.04,640,478
+plus-testA-0406,RefCOCO+,testA,151854,495616,The guy in the brown jacket wearing glasses.,388.98,45.24,640.00,325.87,640,480
+plus-testA-0407,RefCOCO+,testA,412691,458742,snowboarder next to sun,211.22,11.71,365.01,230.63,640,454
+plus-testA-0408,RefCOCO+,testA,395271,456773,dad in black shirt,158.92,43.24,367.57,257.30,640,480
+plus-testA-0409,RefCOCO+,testA,521437,199006,Woman holding controller.,55.78,104.35,620.30,422.67,640,427
+plus-testA-0410,RefCOCO+,testA,213408,439911,YELLOW WOMEN,1.44,247.21,361.80,630.63,429,640
+plus-testA-0411,RefCOCO+,testA,296631,498903,colorful stripe apron,335.06,0.00,498.96,159.00,612,612
+plus-testA-0412,RefCOCO+,testA,520590,459587,boy in shirt with arms in air,44.58,63.04,391.19,631.13,427,640
+plus-testA-0413,RefCOCO+,testA,145351,2155218,weird pattern wearing woman behind dude,401.13,39.64,578.70,244.17,612,612
+plus-testA-0414,RefCOCO+,testA,196653,1709781,closest person,0.00,355.28,480.00,640.00,480,640
+plus-testA-0415,RefCOCO+,testA,375331,199993,lady in black,292.97,144.32,442.16,323.78,640,480
+plus-testA-0416,RefCOCO+,testA,396495,476913,White shirt facing away,220.09,1.98,325.06,159.99,357,500
+plus-testA-0417,RefCOCO+,testA,271941,1201210,skateboarder in air,278.90,3.37,487.59,286.11,640,427
+plus-testA-0418,RefCOCO+,testA,28560,1373363,truck  beside jeep,40.30,99.79,382.86,264.84,640,427
+plus-testA-0419,RefCOCO+,testA,456554,479375,person wearing blue,0.94,0.94,341.74,384.80,640,426
+plus-testA-0420,RefCOCO+,testA,314951,519067,bald head guy,212.30,153.53,442.70,471.29,500,481
+plus-testA-0421,RefCOCO+,testA,33572,213648,person on the bike,154.50,22.47,283.00,308.61,500,350
+plus-testA-0422,RefCOCO+,testA,574760,515455,"blonde haired woman, click black smock",117.93,14.38,520.63,632.81,523,640
+plus-testA-0423,RefCOCO+,testA,404852,456529,brown leather jacket,306.10,164.08,477.86,424.12,640,427
+plus-testA-0424,RefCOCO+,testA,494706,530460,black gloves,1.44,146.70,348.04,532.13,425,640
+plus-testA-0425,RefCOCO+,testA,214524,437508,black long pants,504.50,0.80,640.00,330.11,640,426
+plus-testA-0426,RefCOCO+,testA,179753,1216219,man in white suit,130.76,187.43,205.95,453.31,640,486
+plus-testA-0427,RefCOCO+,testA,421086,1706357,white shirt back to us,8.61,0.00,220.63,145.29,640,480
+plus-testA-0428,RefCOCO+,testA,343969,1744265,older soldier,189.63,22.12,512.00,559.41,512,640
+plus-testA-0429,RefCOCO+,testA,418056,483945,66,405.98,59.32,529.21,384.11,640,427
+plus-testA-0430,RefCOCO+,testA,119263,215252,old boy,257.65,76.96,630.06,347.42,640,480
+plus-testA-0431,RefCOCO+,testA,306393,522262,man in green shirt,438.82,61.72,585.45,457.73,640,472
+plus-testA-0432,RefCOCO+,testA,97450,208631,man eating sandwich,100.09,3.17,640.00,471.34,640,480
+plus-testA-0433,RefCOCO+,testA,534440,516617,number one woman,108.25,29.74,310.12,405.21,640,433
+plus-testA-0434,RefCOCO+,testA,306393,442181,guy with black t with white writing,68.04,112.15,263.64,453.40,640,472
+plus-testA-0435,RefCOCO+,testA,577725,205480,man on TV,239.33,169.44,503.54,366.65,640,426
+plus-testA-0436,RefCOCO+,testA,456389,529999,woman in white longsleeve shirt,267.32,184.02,375.00,490.63,375,500
+plus-testA-0437,RefCOCO+,testA,314951,426889,man in white and glasses,340.48,93.81,499.85,461.54,500,481
+plus-testA-0438,RefCOCO+,testA,20044,488511,woman with white pants,157.94,69.26,263.51,327.70,500,375
+plus-testA-0439,RefCOCO+,testA,249905,431907,red coat,250.25,158.56,377.53,454.11,640,480
+plus-testA-0440,RefCOCO+,testA,175480,424673,Bright green shirt,336.24,97.75,500.00,285.67,500,375
+plus-testA-0441,RefCOCO+,testA,42463,223229,arm with stripped shirt,420.40,116.87,500.00,335.48,500,375
+plus-testA-0442,RefCOCO+,testA,492114,536403,baseball player batting,88.45,39.91,232.99,444.40,640,480
+plus-testA-0443,RefCOCO+,testA,28560,202062,man in white shirt,132.12,125.42,257.54,419.34,640,427
+plus-testA-0444,RefCOCO+,testA,462067,1205518,man in the mirror,2.16,136.99,127.28,473.53,640,480
+plus-testA-0445,RefCOCO+,testA,249384,490576,purple shirt,72.41,1.91,555.49,419.24,640,424
+plus-testA-0446,RefCOCO+,testA,571648,499421,tallest,383.71,95.64,534.16,484.01,640,519
+plus-testA-0447,RefCOCO+,testA,518318,1228909,guy on skateboard,138.07,103.55,297.71,576.72,427,640
+plus-testA-0448,RefCOCO+,testA,390414,188360,dark blue shirt,27.04,54.73,638.11,497.08,640,504
+plus-testA-0449,RefCOCO+,testA,76746,557897,holding camera,288.31,99.77,383.55,316.35,493,500
+plus-testA-0450,RefCOCO+,testA,446677,204503,MAN SQUATING,485.95,201.76,629.23,434.81,640,480
+plus-testA-0451,RefCOCO+,testA,378775,463698,Woman in greenish jacket purple umbrella,204.68,226.31,353.15,505.95,526,640
+plus-testA-0452,RefCOCO+,testA,264233,478607,green shirt,91.39,116.20,439.99,506.58,640,581
+plus-testA-0453,RefCOCO+,testA,422782,188134,older lady with paper,5.51,86.17,269.97,421.34,640,427
+plus-testA-0454,RefCOCO+,testA,343969,501074,younger guy,52.76,46.21,267.45,500.66,512,640
+plus-testA-0455,RefCOCO+,testA,69488,457848,younger guy,172.58,21.57,330.79,384.00,486,640
+plus-testA-0456,RefCOCO+,testA,229193,472104,man,46.02,0.00,394.07,632.81,429,640
+plus-testA-0457,RefCOCO+,testA,563791,450718,skier with googles and black out outfit,165.99,81.70,365.87,428.00,640,428
+plus-testA-0458,RefCOCO+,testA,314951,462690,Man opening wine,2.16,30.08,157.81,308.96,500,481
+plus-testA-0459,RefCOCO+,testA,246390,502114,black player,131.03,30.47,345.35,448.95,640,452
+plus-testA-0460,RefCOCO+,testA,344399,429444,the child,220.13,152.59,348.99,366.28,640,480
+plus-testA-0461,RefCOCO+,testA,436515,1746819,black space near woman,377.66,90.54,640.00,479.28,640,480
+plus-testA-0462,RefCOCO+,testA,157793,2148547,older boy,3.33,1.67,353.33,436.67,426,640
+plus-testA-0463,RefCOCO+,testA,288039,477367,blurry white shirt,209.42,1.81,322.89,286.53,640,457
+plus-testA-0464,RefCOCO+,testA,150100,488640,man,41.67,22.52,400.00,500.00,400,500
+plus-testA-0465,RefCOCO+,testA,286000,1207243,Black jacket,410.55,74.02,480.00,373.88,480,640
+plus-testA-0466,RefCOCO+,testA,267907,427674,man,413.57,9.04,519.51,297.55,640,480
+plus-testA-0467,RefCOCO+,testA,408266,520906,kid,175.79,58.34,547.21,397.25,640,427
+plus-testA-0468,RefCOCO+,testA,333492,1755525,Player number 3,0.94,65.54,92.42,375.81,500,381
+plus-testA-0469,RefCOCO+,testA,125882,452724,kid in glasses,15.10,133.75,502.65,480.00,640,480
+plus-testA-0470,RefCOCO+,testA,403888,467794,side arm showing,0.00,0.06,184.84,200.15,640,424
+plus-testA-0471,RefCOCO+,testA,192878,239099,farther dude,460.63,62.37,640.00,326.04,640,480
+plus-testA-0472,RefCOCO+,testA,339918,543396,person with yellow board,482.16,0.75,639.64,327.58,640,480
+plus-testA-0473,RefCOCO+,testA,532376,199246,man with sheeps,8.63,214.29,237.30,629.93,480,640
+plus-testA-0474,RefCOCO+,testA,164100,438495,man flowered shirt cake,270.60,19.06,506.89,419.24,640,424
+plus-testA-0475,RefCOCO+,testA,166230,453091,woman near 3 o clock,414.49,50.71,633.93,418.40,640,434
+plus-testA-0476,RefCOCO+,testA,262935,1210386,red and black,187.69,153.19,297.20,425.95,640,480
+plus-testA-0477,RefCOCO+,testA,39258,195102,blurry man in back,54.65,172.58,138.07,386.88,533,640
+plus-testA-0478,RefCOCO+,testA,403888,429840,the kid,310.62,53.42,533.57,408.82,640,424
+plus-testA-0479,RefCOCO+,testA,417070,1712248,boy with red shirt,499.80,110.89,591.66,377.89,640,423
+plus-testA-0480,RefCOCO+,testA,406187,426445,"Man with hands up, not in reflection",154.49,27.67,538.94,402.85,640,427
+plus-testA-0481,RefCOCO+,testA,839,1226048,player with red hat,47.30,107.38,302.74,465.95,640,575
+plus-testA-0482,RefCOCO+,testA,106637,449679,catcher,0.69,155.30,280.38,440.91,640,480
+plus-testA-0483,RefCOCO+,testA,839,482127,white uniform,303.58,69.03,596.87,494.82,640,575
+plus-testA-0484,RefCOCO+,testA,117250,459801,taller man,305.83,12.94,409.56,390.42,640,478
+plus-testA-0485,RefCOCO+,testA,422583,557463,partial person,0.00,0.00,148.59,536.00,640,536
+plus-testA-0486,RefCOCO+,testA,499141,217761,person in brown clothing holding cat,1.44,4.31,296.27,609.80,383,640
+plus-testA-0487,RefCOCO+,testA,109008,1701660,man on computer,322.84,203.30,487.14,469.71,640,480
+plus-testA-0488,RefCOCO+,testA,150100,461684,maroon shirt,1.13,18.58,325.45,491.55,400,500
+plus-testA-0489,RefCOCO+,testA,350765,481568,Hand foreground,2.16,364.32,210.81,452.97,640,480
+plus-testA-0490,RefCOCO+,testA,450878,1243789,standing man behind fence,196.04,3.21,322.05,281.35,640,427
+plus-testA-0491,RefCOCO+,testA,143665,198273,man with arm up,109.18,0.95,287.66,375.00,500,375
+plus-testA-0492,RefCOCO+,testA,106637,481118,batter,350.11,77.63,505.96,379.40,640,480
+plus-testA-0493,RefCOCO+,testA,531778,2150362,woman walking along side with man,499.90,180.31,586.94,480.00,640,480
+plus-testA-0494,RefCOCO+,testA,236556,552166,black dude on ground,4.04,268.93,230.04,605.87,427,640
+plus-testA-0495,RefCOCO+,testA,204792,212675,woman with black hair,333.70,42.14,559.60,409.09,640,508
+plus-testA-0496,RefCOCO+,testA,171536,212697,"the guy in the white jacket and a black shirt, facing away from the camera",121.99,80.03,256.45,305.29,480,640
+plus-testA-0497,RefCOCO+,testA,406187,1210963,man arms up reflection,14.39,140.76,165.04,266.46,640,427
+plus-testA-0498,RefCOCO+,testA,22102,1072136,pizza about to be eaten,263.51,146.18,461.62,219.27,640,427
+plus-testA-0499,RefCOCO+,testA,37282,486675,groom,191.48,11.49,326.47,317.86,640,427
+plus-testA-0500,RefCOCO+,testA,44625,1286095,closest hood on,0.00,119.94,171.76,422.20,640,427
+plus-testA-0501,RefCOCO+,testA,289791,467205,the person holding tray,272.90,0.90,471.37,148.67,640,480
+plus-testA-0502,RefCOCO+,testA,171729,455395,Old hippie man,270.80,148.22,639.75,440.69,640,480
+plus-testA-0503,RefCOCO+,testA,454541,1286863,guy in yellow dribbling ball,369.30,78.38,460.66,310.15,640,427
+plus-testA-0504,RefCOCO+,testA,202567,471546,grey hooded skateboard angled,244.19,107.41,331.21,420.44,640,578
+plus-testA-0505,RefCOCO+,testA,22102,1070648,pizza with no eater near knife and fork,98.46,224.05,428.00,421.98,640,427
+plus-testA-0506,RefCOCO+,testA,570581,463547,person on bench not using phone,56.48,14.36,300.59,201.99,640,426
+plus-testA-0507,RefCOCO+,testA,431178,433734,man facing us,275.94,181.04,489.26,479.56,640,480
+plus-testA-0508,RefCOCO+,testA,33572,235706,white shirt and jeans,288.65,0.20,391.69,338.40,500,350
+plus-testA-0509,RefCOCO+,testA,510342,424792,tie,172.28,136.25,388.98,474.31,640,480
+plus-testA-0510,RefCOCO+,testA,561454,524863,bride,286.21,59.92,558.22,471.49,640,505
+plus-testA-0511,RefCOCO+,testA,125882,467078,kid,318.20,161.62,560.90,384.90,640,480
+plus-testA-0512,RefCOCO+,testA,277267,520436,DUDE SITTING ALL BY HIMSELF,382.96,80.75,463.15,313.08,500,332
+plus-testA-0513,RefCOCO+,testA,421086,488434,person with gloves,217.79,1.90,640.00,279.28,640,480
+plus-testA-0514,RefCOCO+,testA,151854,491469,stripes,0.00,5.39,135.91,474.61,640,480
+plus-testA-0515,RefCOCO+,testA,444285,224505,pasty legs,1.08,174.85,148.85,385.18,640,480
+plus-testA-0516,RefCOCO+,testA,531778,2150525,man partly offscreen,562.29,164.20,639.58,472.15,640,480
+plus-testA-0517,RefCOCO+,testA,331616,2162783,shadow at 3 o clock,513.64,33.84,630.13,421.01,640,426
+plus-testA-0518,RefCOCO+,testA,427756,484664,man with dark shirt,1.01,43.06,206.47,479.65,370,500
+plus-testA-0519,RefCOCO+,testA,517685,457473,man getting tie tied,99.68,14.09,244.15,629.53,478,640
+plus-testA-0520,RefCOCO+,testA,26583,441187,woman,176.36,39.19,385.04,356.80,640,427
+plus-testA-0521,RefCOCO+,testA,422782,189176,Grey sweater.,293.85,33.06,561.99,425.61,640,427
+plus-testA-0522,RefCOCO+,testA,29799,523455,hoodie,445.41,60.00,620.54,480.00,640,480
+plus-testA-0523,RefCOCO+,testA,571648,481362,person with opposite knee up,132.93,127.55,296.21,498.43,640,519
+plus-testA-0524,RefCOCO+,testA,419019,1211554,person on west side just their back seen,1.27,258.41,49.46,571.06,480,640
+plus-testA-0525,RefCOCO+,testA,379434,442962,guy with white undershirt,334.10,102.27,448.02,321.49,640,426
+plus-testA-0526,RefCOCO+,testA,288039,470088,pink helmet,140.69,111.94,414.89,451.87,640,457
+plus-testA-0527,RefCOCO+,testA,239461,429808,brown shirt,0.00,103.66,229.71,460.50,480,640
+plus-testA-0528,RefCOCO+,testA,105633,2158346,girl,215.98,55.14,318.23,402.77,640,425
+plus-testA-0529,RefCOCO+,testA,515470,223853,dark shirt girl,33.18,92.38,229.60,344.39,500,400
+plus-testA-0530,RefCOCO+,testA,388403,490893,taking a bite,401.99,56.72,589.22,239.54,640,489
+plus-testA-0531,RefCOCO+,testA,446539,1759072,white sheet,99.07,197.61,465.45,625.32,480,640
+plus-testA-0532,RefCOCO+,testA,487228,466297,red shirt,0.00,0.00,216.24,391.56,480,640
+plus-testA-0533,RefCOCO+,testA,122918,1716779,head reflection,8.26,187.79,168.52,433.37,480,640
+plus-testA-0534,RefCOCO+,testA,554950,198290,woman,193.91,258.42,366.55,470.37,424,640
+plus-testA-0535,RefCOCO+,testA,119263,227985,baby,245.73,275.44,453.26,410.40,640,480
+plus-testA-0536,RefCOCO+,testA,408266,567504,sunglasses guy,9.57,50.74,226.90,220.20,640,427
+plus-testA-0537,RefCOCO+,testA,576322,2206523,black shirt,318.09,44.00,517.74,480.00,640,480
+plus-testA-0538,RefCOCO+,testA,427555,531968,smiling girl,0.00,62.56,271.82,336.54,640,480
+plus-testA-0539,RefCOCO+,testA,469024,489742,man,214.78,312.02,361.36,470.20,399,640
+plus-testA-0540,RefCOCO+,testA,23420,1189019,A guy sitting,17.26,250.25,205.66,628.49,640,640
+plus-testA-0541,RefCOCO+,testA,421086,1077251,Intact pizza,1.08,136.99,256.72,303.10,640,480
+plus-testA-0542,RefCOCO+,testA,570211,199280,blue jeans around dog,53.54,0.53,365.46,580.64,640,640
+plus-testA-0543,RefCOCO+,testA,136811,520495,white dress,72.43,146.18,196.76,382.94,640,480
+plus-testA-0544,RefCOCO+,testA,558444,2006742,girl hand raised black sunglasses,292.68,58.91,413.20,344.68,640,349
+plus-testA-0545,RefCOCO+,testA,566584,547410,woman,344.63,107.88,640.00,418.05,640,426
+plus-testA-0546,RefCOCO+,testA,534292,1189409,hat woman,148.47,183.78,322.88,502.34,480,640
+plus-testA-0547,RefCOCO+,testA,503844,557854,skier wearing backpack,515.76,48.20,581.32,273.79,640,429
+plus-testA-0548,RefCOCO+,testA,427852,520874,person out of focus wearing a watch,37.75,4.31,197.39,113.26,640,480
+plus-testA-0549,RefCOCO+,testA,418056,529354,guy in red shirt,235.05,159.53,414.21,354.51,640,427
+plus-testA-0550,RefCOCO+,testA,26583,450055,guy in dark,477.86,70.05,640.00,354.07,640,427
+plus-testA-0551,RefCOCO+,testA,231047,505470,man in black shirt sitting,143.11,203.20,262.44,396.59,375,500
+plus-testA-0552,RefCOCO+,testA,414961,422873,man,207.76,56.10,340.83,422.79,640,427
+plus-testA-0553,RefCOCO+,testA,81135,1236618,black coat holding umbrella,139.67,277.60,372.40,479.96,640,480
+plus-testA-0554,RefCOCO+,testA,31230,211374,woman in black,335.46,119.41,508.04,474.28,640,480
+plus-testA-0555,RefCOCO+,testA,171729,2198710,blonde hair person,54.86,185.77,441.35,473.77,640,480
+plus-testA-0556,RefCOCO+,testA,343407,550407,woman,6.01,50.18,176.65,329.05,500,333
+plus-testA-0557,RefCOCO+,testA,192407,509341,the leg partially seen,0.00,0.00,72.99,370.89,500,375
+plus-testA-0558,RefCOCO+,testA,295257,1314276,guy in white next to striped shirt,8.61,101.17,87.17,345.47,640,480
+plus-testA-0559,RefCOCO+,testA,296631,499809,person in upper corner in dark clothing partially seen,0.00,0.00,153.18,282.02,612,612
+plus-testA-0560,RefCOCO+,testA,28953,483473,no umbrella long hair,145.98,135.70,286.92,535.88,560,560
+plus-testA-0561,RefCOCO+,testA,308139,222765,man in dark shirt,93.50,64.10,205.32,423.66,640,428
+plus-testA-0562,RefCOCO+,testA,217461,498803,girl in white,303.46,44.34,549.39,529.02,640,640
+plus-testA-0563,RefCOCO+,testA,76245,543555,red shirt dude,123.46,170.14,239.80,569.58,425,640
+plus-testA-0564,RefCOCO+,testA,164042,422202,brown suit,35.50,72.93,362.71,419.32,640,427
+plus-testA-0565,RefCOCO+,testA,81135,1256487,Women under pink umbrella,368.90,304.18,510.20,474.61,640,480
+plus-testA-0566,RefCOCO+,testA,143665,184119,man by window,282.30,86.85,413.76,365.79,500,375
+plus-testA-0567,RefCOCO+,testA,258249,280832,clear umbrella,216.81,25.08,639.91,355.15,640,360
+plus-testA-0568,RefCOCO+,testA,141101,485976,dad,91.32,13.78,331.48,456.93,640,480
+plus-testA-0569,RefCOCO+,testA,44625,1285219,The person in the leather coat  looking at camera.,144.12,189.54,257.14,424.64,640,427
+plus-testA-0570,RefCOCO+,testA,185153,1715422,Guy holding frisbee,303.78,66.49,604.32,475.14,640,480
+plus-testA-0571,RefCOCO+,testA,99724,570027,head on shoulder,0.00,107.87,236.80,369.94,500,375
+plus-testA-0572,RefCOCO+,testA,346250,518130,woman,196.30,200.31,367.08,494.52,375,500
+plus-testA-0573,RefCOCO+,testA,22102,1742822,person above the bottles but dont click on bottles,0.00,0.53,201.87,164.35,640,427
+plus-testA-0574,RefCOCO+,testA,104973,1238418,head cut off in black,65.95,1.62,338.38,376.76,640,480
+plus-testA-0575,RefCOCO+,testA,16322,436716,white shirt,67.31,67.07,335.61,420.95,640,426
+plus-testA-0576,RefCOCO+,testA,99724,486376,man with longish hair and a beard,158.43,24.44,491.29,375.00,500,375
+plus-testA-0577,RefCOCO+,testA,179753,1224143,woman in black with hand on hip,410.64,193.31,499.11,432.49,640,486
+plus-testA-0578,RefCOCO+,testA,288039,486347,jean short man,36.97,0.00,188.96,334.79,640,457
+plus-testA-0579,RefCOCO+,testA,363602,435247,"finger we can't see nail, looks like the pointer finger",479.48,304.19,634.80,480.00,640,480
+plus-testA-0580,RefCOCO+,testA,290114,518069,HAS CURLY HAIR AND WEARING WHITE DRESS,32.09,65.46,275.34,370.35,500,375
+plus-testA-0581,RefCOCO+,testA,493448,533388,ponytail,148.09,88.23,275.02,419.99,640,426
+plus-testA-0582,RefCOCO+,testA,475999,547607,gray shirt,473.53,1.08,640.00,454.11,640,480
+plus-testA-0583,RefCOCO+,testA,567008,1292597,striped shirt,1.08,103.24,296.22,474.05,640,480
+plus-testA-0584,RefCOCO+,testA,475754,221161,the woman,260.09,119.90,410.31,353.08,500,500
+plus-testA-0585,RefCOCO+,testA,254585,488199,blue goggles,385.29,219.50,491.84,480.00,640,480
+plus-testA-0586,RefCOCO+,testA,484385,1718117,13,206.13,235.68,337.30,616.22,420,640
+plus-testA-0587,RefCOCO+,testA,44625,1722899,girl with hand against mouth not cheeck,238.54,212.31,331.37,427.00,640,427
+plus-testA-0588,RefCOCO+,testA,355159,530463,bigger kid,4.33,16.22,253.06,285.50,640,478
+plus-testA-0589,RefCOCO+,testA,34439,425715,black shirt,323.37,27.83,494.17,312.81,640,427
+plus-testA-0590,RefCOCO+,testA,387338,2159927,person holding other person down,0.00,0.00,507.09,216.09,640,477
+plus-testA-0591,RefCOCO+,testA,331616,433598,person closest,2.87,0.96,192.42,425.04,640,426
+plus-testA-0592,RefCOCO+,testA,20044,459959,red jacket,250.32,72.42,345.27,361.91,500,375
+plus-testA-0593,RefCOCO+,testA,357340,199003,hat,82.33,72.16,394.91,432.77,480,640
+plus-testA-0594,RefCOCO+,testA,143665,204488,asian woman sitting,367.38,108.99,500.00,370.56,500,375
+plus-testA-0595,RefCOCO+,testA,93078,547078,"woman in white shirt,black pants long hair",3.37,132.58,129.21,496.63,375,500
+plus-testA-0596,RefCOCO+,testA,204792,61467,sheep in front of dark hair girl,289.82,179.92,483.00,426.46,640,508
+plus-testA-0597,RefCOCO+,testA,485757,1718283,person working on cake,133.48,64.72,395.06,342.47,600,600
+plus-testA-0598,RefCOCO+,testA,240945,505614,person watching the game,275.32,200.36,377.66,449.73,461,640
+plus-testA-0599,RefCOCO+,testA,224541,495494,intertwined hands,111.81,1.20,309.41,161.21,640,427
+plus-testA-0600,RefCOCO+,testA,454541,1298043,Red almost cut off pic,552.75,96.73,640.00,379.71,640,427

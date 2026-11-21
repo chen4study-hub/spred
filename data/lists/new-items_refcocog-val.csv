@@ -1,0 +1,601 @@
+item_id,dataset,split,coco_image_id,coco_annotation_id,expression,box_x1,box_y1,box_x2,box_y2,image_width,image_height
+new-refcocog-0001,RefCOCOg (UMD),val,48432,1834458,The bag with the nike swoosh on it.,194.71,303.94,395.05,502.26,427,640
+new-refcocog-0002,RefCOCOg (UMD),val,463224,540778,Man riding an elephant with his ankles crossed.,248.81,21.67,373.93,284.86,480,640
+new-refcocog-0003,RefCOCOg (UMD),val,223030,312632,sandwich with tomatoes,274.66,119.16,476.33,345.41,640,427
+new-refcocog-0004,RefCOCOg (UMD),val,297204,1798387,Black truck.,282.07,147.39,625.45,230.47,640,480
+new-refcocog-0005,RefCOCOg (UMD),val,9488,513613,Man with red shirt sitting in a chair drinking from a sports bottle,133.73,130.91,302.37,327.75,500,375
+new-refcocog-0006,RefCOCOg (UMD),val,222676,523278,The person to the right of the man not swinging his tennis racket.,375.97,103.83,533.60,461.11,640,486
+new-refcocog-0007,RefCOCOg (UMD),val,577416,1709252,A hand of a woman who is about to operate the mixie,0.00,195.24,535.01,480.00,640,480
+new-refcocog-0008,RefCOCOg (UMD),val,563110,584609,An adult elephant which is partly not in the picture.,71.91,0.00,427.00,454.83,427,640
+new-refcocog-0009,RefCOCOg (UMD),val,476520,588846,A zebra which is standing on the left side,183.58,59.49,257.25,187.53,640,259
+new-refcocog-0010,RefCOCOg (UMD),val,353072,587301,A baby polar bear standing next to it's mother.,321.93,177.79,434.68,298.50,640,427
+new-refcocog-0011,RefCOCOg (UMD),val,445768,598143,The shortest giraffe standing closest to the wall.,85.21,167.65,265.64,448.10,640,480
+new-refcocog-0012,RefCOCOg (UMD),val,561631,1804638,A stoplight above the P on the street sign.,24.73,49.22,222.04,331.78,640,428
+new-refcocog-0013,RefCOCOg (UMD),val,90569,663682,Wine glass on the left.,146.26,72.78,312.99,412.07,640,427
+new-refcocog-0014,RefCOCOg (UMD),val,302713,356359,the white car to the right of the red car,462.87,174.48,634.72,285.76,640,293
+new-refcocog-0015,RefCOCOg (UMD),val,444583,519475,"A walking man in a dirty white tank top, black gym shorts and white sandals.",290.37,143.27,403.28,378.59,424,640
+new-refcocog-0016,RefCOCOg (UMD),val,242090,550623,A merchant in a red plaid shirt.,200.81,60.14,319.91,320.99,640,440
+new-refcocog-0017,RefCOCOg (UMD),val,441205,101461,green chaor with blanket on back,0.00,160.72,188.99,416.09,640,425
+new-refcocog-0018,RefCOCOg (UMD),val,306342,1391578,An empty bench seat on a public transportation vehicle.,287.36,53.93,499.72,368.26,500,375
+new-refcocog-0019,RefCOCOg (UMD),val,35094,124146,computer monitor closest to the mouse,413.52,179.15,609.58,344.79,640,480
+new-refcocog-0020,RefCOCOg (UMD),val,568725,242699,A red box behind the teddy bear,0.00,0.00,301.55,417.38,640,426
+new-refcocog-0021,RefCOCOg (UMD),val,186317,1709232,The man with the red shirt holding the elephant.,308.37,201.03,445.37,480.00,640,480
+new-refcocog-0022,RefCOCOg (UMD),val,395097,1038858,A bowl of red stewed onions.,197.67,149.69,549.82,404.93,640,427
+new-refcocog-0023,RefCOCOg (UMD),val,222199,1817711,The head of the white animal looking at the dog.,447.25,27.75,558.47,140.25,640,373
+new-refcocog-0024,RefCOCOg (UMD),val,482326,2162637,A White woman looking at a phone,310.69,146.62,544.58,441.02,640,448
+new-refcocog-0025,RefCOCOg (UMD),val,380924,1713396,A person in black pants standing over a girl crammed in a suitcase.,193.79,0.92,414.43,180.45,500,375
+new-refcocog-0026,RefCOCOg (UMD),val,246728,348832,The back of a white honda civic,540.54,301.62,640.00,474.59,640,480
+new-refcocog-0027,RefCOCOg (UMD),val,130163,117372,the chair to the right of the fireplace,533.45,260.14,640.00,409.18,640,480
+new-refcocog-0028,RefCOCOg (UMD),val,403652,50668,A ginger cat,145.55,240.52,303.48,408.77,640,480
+new-refcocog-0029,RefCOCOg (UMD),val,158759,572718,An empty bench.,231.91,215.73,544.72,456.27,640,480
+new-refcocog-0030,RefCOCOg (UMD),val,449914,427516,A Giants pitcher strides forward to deliver the cocked-and-ready pitch from behind his head.,106.57,89.68,412.91,480.00,640,480
+new-refcocog-0031,RefCOCOg (UMD),val,314319,494745,baby being worn in an orange printed sling,185.74,218.38,388.70,423.27,640,427
+new-refcocog-0032,RefCOCOg (UMD),val,209166,1200931,A man in black pants sitting in a chair,121.79,172.31,234.32,314.11,480,361
+new-refcocog-0033,RefCOCOg (UMD),val,544701,523624,"Two hands, one with a silver bracelet, grabbing white plastic-ware forks.",536.22,327.03,640.00,475.14,640,480
+new-refcocog-0034,RefCOCOg (UMD),val,149202,1088030,A cupcake that looks like a hat with a bow in front.,352.43,120.00,540.54,285.41,640,480
+new-refcocog-0035,RefCOCOg (UMD),val,287585,1906903,Sliced plums in a tray compartment,309.88,279.41,524.44,479.84,640,546
+new-refcocog-0036,RefCOCOg (UMD),val,388962,591624,"A zebra that is behind the other zebra, it is also out of focus.",288.33,0.19,500.00,205.71,500,335
+new-refcocog-0037,RefCOCOg (UMD),val,438071,474256,"A woman pouring wine, a wine glass, and a basket are all within the red square. The woman is wearing an apron.",102.67,67.17,322.41,330.09,640,427
+new-refcocog-0038,RefCOCOg (UMD),val,266228,177927,Old boat in the middle.,102.21,195.92,345.80,366.91,640,427
+new-refcocog-0039,RefCOCOg (UMD),val,470414,1642874,A silver and black oven built into a row of cabinets.,241.48,167.75,372.53,358.14,612,612
+new-refcocog-0040,RefCOCOg (UMD),val,226176,221528,A man wearing blue shirt sitting in the back in the two weeler.,329.80,36.17,503.00,437.21,640,438
+new-refcocog-0041,RefCOCOg (UMD),val,396825,168799,The front of a beat-up red and yellow bus.,10.80,8.53,133.61,183.64,640,253
+new-refcocog-0042,RefCOCOg (UMD),val,482659,2150761,A lady with glasses.,352.92,54.03,541.75,426.49,640,428
+new-refcocog-0043,RefCOCOg (UMD),val,278549,1715706,A little boy putting finger into the mouth,0.00,69.62,174.45,383.56,640,426
+new-refcocog-0044,RefCOCOg (UMD),val,169726,1162923,A brown toy bear.,283.11,102.70,372.97,198.65,400,300
+new-refcocog-0045,RefCOCOg (UMD),val,26625,2154447,A person in a blue top and blue shorts reaching for something.,282.23,295.54,364.01,475.06,453,640
+new-refcocog-0046,RefCOCOg (UMD),val,306288,1060588,The broccoli pieces closest to the fork.,134.40,42.92,330.92,166.02,640,480
+new-refcocog-0047,RefCOCOg (UMD),val,355717,1718307,A man in the background jumping to return the tennis ball.,411.67,116.53,502.41,387.79,640,426
+new-refcocog-0048,RefCOCOg (UMD),val,144554,1043239,Unripe bananas hang on the banana tree.,164.86,60.45,278.08,326.77,425,640
+new-refcocog-0049,RefCOCOg (UMD),val,346132,1039727,Au jus is in a white bowl.,195.09,176.75,427.75,365.23,640,478
+new-refcocog-0050,RefCOCOg (UMD),val,136092,1652673,A book on a lady's lap,144.65,202.68,418.87,368.44,500,375
+new-refcocog-0051,RefCOCOg (UMD),val,68305,2140856,the white sink,177.69,252.87,370.46,356.78,640,480
+new-refcocog-0052,RefCOCOg (UMD),val,397058,328387,A phone with square and stripes on the case,13.49,109.09,312.45,447.49,640,464
+new-refcocog-0053,RefCOCOg (UMD),val,82894,1504009,Orange juice kept near the lap top along with other foods,210.06,71.46,285.56,294.74,640,480
+new-refcocog-0054,RefCOCOg (UMD),val,234006,627400,The silver baseball bat.,206.27,222.03,417.87,367.26,480,640
+new-refcocog-0055,RefCOCOg (UMD),val,447574,674038,Glass of water on a table,441.17,64.72,546.88,211.42,640,480
+new-refcocog-0056,RefCOCOg (UMD),val,27544,687756,A fork on the right on  tray.,199.25,281.29,431.03,339.69,640,427
+new-refcocog-0057,RefCOCOg (UMD),val,79611,1666607,reflection of clock,15.28,138.48,178.60,391.57,640,425
+new-refcocog-0058,RefCOCOg (UMD),val,169474,343198,A blue toothbrush.,15.78,57.33,304.22,629.88,480,640
+new-refcocog-0059,RefCOCOg (UMD),val,128282,2159266,left picture man on left jumping,19.80,57.91,142.17,355.99,640,431
+new-refcocog-0060,RefCOCOg (UMD),val,564271,332835,A black colored fridge which is kept at the left corner of the room,94.50,170.89,216.91,455.46,640,480
+new-refcocog-0061,RefCOCOg (UMD),val,429437,481631,A black dress.,363.67,0.00,598.76,134.34,640,427
+new-refcocog-0062,RefCOCOg (UMD),val,412555,1503488,white cup that has coffee in it,151.94,1.10,306.48,215.02,480,640
+new-refcocog-0063,RefCOCOg (UMD),val,386504,428175,an adult next to a child on skis,163.32,19.29,405.12,361.65,640,427
+new-refcocog-0064,RefCOCOg (UMD),val,449158,255756,The man with the green shirt and the wrist watch.,1.08,34.52,135.91,474.61,640,480
+new-refcocog-0065,RefCOCOg (UMD),val,562675,1084392,A pie with green topping on it.,289.78,87.32,492.25,297.46,640,427
+new-refcocog-0066,RefCOCOg (UMD),val,421677,621590,Red kite,96.04,0.27,261.68,372.62,640,534
+new-refcocog-0067,RefCOCOg (UMD),val,7852,398249,The old school fire truck with a blue engine top.,111.10,46.20,549.03,416.18,640,480
+new-refcocog-0068,RefCOCOg (UMD),val,578521,525163,Person holding tongs.,1.08,4.13,281.53,475.51,640,480
+new-refcocog-0069,RefCOCOg (UMD),val,325545,1066022,A carrot is to the left of the rest,270.00,210.00,377.00,381.00,640,425
+new-refcocog-0070,RefCOCOg (UMD),val,50410,653028,White surfboard laying in the sand with black straps on it.,57.27,323.10,204.74,543.59,360,640
+new-refcocog-0071,RefCOCOg (UMD),val,458166,100776,a chair sat on by a cat,10.32,24.89,619.31,472.86,640,481
+new-refcocog-0072,RefCOCOg (UMD),val,359951,1916970,Plate of shaved carrots,56.52,205.62,365.71,405.10,456,640
+new-refcocog-0073,RefCOCOg (UMD),val,574563,440446,a young dark haired asian girl about to take a bite out of a donut,135.14,41.39,482.26,369.93,500,375
+new-refcocog-0074,RefCOCOg (UMD),val,146589,191047,A lady with black sleeve less top and sandal color pant standing in front of a horse.,358.56,114.55,592.58,599.01,640,609
+new-refcocog-0075,RefCOCOg (UMD),val,357113,1162359,teddy bear farthest to the right,531.78,208.43,640.00,420.95,640,426
+new-refcocog-0076,RefCOCOg (UMD),val,420598,600931,Tall giraffe standing in front of two to other giraffes.,188.76,175.82,350.56,380.76,640,480
+new-refcocog-0077,RefCOCOg (UMD),val,576212,1116071,A white external keyboard.,66.88,328.99,481.08,443.33,640,480
+new-refcocog-0078,RefCOCOg (UMD),val,230436,173898,A blue and yellow train.,138.18,121.86,526.79,204.38,640,427
+new-refcocog-0079,RefCOCOg (UMD),val,382653,1101728,Laptop on stand sitting on desk.,311.73,46.38,597.57,232.99,640,480
+new-refcocog-0080,RefCOCOg (UMD),val,442518,226412,A person in a blue t shirt with a white long sleeved shirt underneath.,371.88,137.34,426.60,409.40,427,640
+new-refcocog-0081,RefCOCOg (UMD),val,329035,1099693,The middle laptop.,139.77,205.82,314.00,299.64,640,426
+new-refcocog-0082,RefCOCOg (UMD),val,420823,128392,A motorized bicycle behind a man in blue tracksuit bottoms.,390.18,214.72,603.20,339.57,640,480
+new-refcocog-0083,RefCOCOg (UMD),val,293853,282208,A black and white polka-dotted umbrella being held by a young woman wearing a blue denim jacket and gray leggings.,454.94,199.78,631.11,347.79,640,405
+new-refcocog-0084,RefCOCOg (UMD),val,22275,118084,orange placemat under lady's elbow,3.01,211.50,455.07,420.99,640,426
+new-refcocog-0085,RefCOCOg (UMD),val,269503,585212,The head of an individual that is to the right.,452.91,217.52,640.00,472.14,640,480
+new-refcocog-0086,RefCOCOg (UMD),val,128838,1184955,A closed suitcase sits under the near end of the table.,98.38,342.16,240.00,474.05,640,480
+new-refcocog-0087,RefCOCOg (UMD),val,383949,1979942,all purpose ovan,424.52,0.00,640.00,202.91,640,360
+new-refcocog-0088,RefCOCOg (UMD),val,369931,488441,The woman holding the glass,3.24,195.24,326.83,473.53,640,480
+new-refcocog-0089,RefCOCOg (UMD),val,140152,1738007,A skier looking at the camera,262.04,27.84,439.81,368.58,500,375
+new-refcocog-0090,RefCOCOg (UMD),val,419714,222482,An officer riding a horse and wearing a helmet.,217.14,37.25,298.00,293.97,500,448
+new-refcocog-0091,RefCOCOg (UMD),val,290460,476954,A man in a blue shirt going up a skateboard bowl.,179.97,103.12,377.87,443.78,428,640
+new-refcocog-0092,RefCOCOg (UMD),val,435029,475453,A woman in a green shirt is holding a frisbee,297.30,80.95,469.24,426.11,640,428
+new-refcocog-0093,RefCOCOg (UMD),val,544701,481846,A man with spiky hair looking at a box of desserts.,47.46,79.82,414.20,480.00,640,480
+new-refcocog-0094,RefCOCOg (UMD),val,205159,1184976,The rolling suitcase has a bag attached to it.,370.40,392.31,606.41,596.39,640,640
+new-refcocog-0095,RefCOCOg (UMD),val,240951,155869,The motorcycle closest to the motorcycle with skulls.,263.78,0.00,425.00,107.29,425,640
+new-refcocog-0096,RefCOCOg (UMD),val,75621,365883,A double decker bus designated 2246 headed to Arica,233.51,157.30,419.46,371.35,640,480
+new-refcocog-0097,RefCOCOg (UMD),val,97563,431724,A man wearing a gray shirt about to throw a Frisbee.,4.31,138.07,360.99,578.16,428,640
+new-refcocog-0098,RefCOCOg (UMD),val,413012,504168,A black haired Caucasian woman wearing a red maillot.,17.22,35.87,258.30,629.96,344,640
+new-refcocog-0099,RefCOCOg (UMD),val,299122,225001,A cute little girl with long hair,2.15,128.20,261.52,456.45,640,480
+new-refcocog-0100,RefCOCOg (UMD),val,232279,2226065,blue tray that has empty plate and a cell phone on it,83.54,239.94,500.00,370.82,500,375
+new-refcocog-0101,RefCOCOg (UMD),val,513221,1086833,A large sheet cake with a black dog on it.,242.25,261.49,487.36,321.81,640,428
+new-refcocog-0102,RefCOCOg (UMD),val,133486,436835,A man standing over a counter making food.,138.07,8.39,427.00,626.82,427,640
+new-refcocog-0103,RefCOCOg (UMD),val,265453,54124,A brown horse.,206.56,220.26,285.91,452.73,640,471
+new-refcocog-0104,RefCOCOg (UMD),val,317833,2217505,A small white dish containing green and orange vegetables.,2.11,147.23,582.28,422.38,640,428
+new-refcocog-0105,RefCOCOg (UMD),val,385157,584501,The baby elephant.,203.63,197.28,407.99,590.21,427,640
+new-refcocog-0106,RefCOCOg (UMD),val,266369,458941,Female standing outside on her phone.,245.84,41.61,430.97,329.66,500,331
+new-refcocog-0107,RefCOCOg (UMD),val,522074,1179610,a green purse,79.68,187.18,186.52,278.49,500,375
+new-refcocog-0108,RefCOCOg (UMD),val,395822,387662,A black chair sitting on the end of the table.,505.92,256.40,613.37,421.20,640,426
+new-refcocog-0109,RefCOCOg (UMD),val,90251,2162039,a lady with a lavender colored shirt on,0.00,88.10,347.43,631.69,427,640
+new-refcocog-0110,RefCOCOg (UMD),val,411738,1612655,A white carpet with a dog on top.,224.36,237.30,640.00,471.37,640,480
+new-refcocog-0111,RefCOCOg (UMD),val,92710,199092,Man on bike.,391.50,30.71,522.00,267.71,640,427
+new-refcocog-0112,RefCOCOg (UMD),val,313209,1040714,bread sandwich in table,102.81,183.71,371.63,370.79,500,375
+new-refcocog-0113,RefCOCOg (UMD),val,187784,185647,a man in a black and white shirt,257.27,91.05,334.32,337.24,640,426
+new-refcocog-0114,RefCOCOg (UMD),val,541690,232700,the man in blue jeans,531.61,108.99,640.00,380.97,640,480
+new-refcocog-0115,RefCOCOg (UMD),val,426838,1064786,The longer of the two carrots.,285.84,94.49,624.84,181.90,640,502
+new-refcocog-0116,RefCOCOg (UMD),val,557507,502911,A man wearing a white t shirt and orange pants hits a ball with a racket.,97.13,90.79,353.89,369.51,500,375
+new-refcocog-0117,RefCOCOg (UMD),val,466949,132398,a silver colored sedan,521.88,223.92,638.87,368.33,640,425
+new-refcocog-0118,RefCOCOg (UMD),val,69231,47368,A cat is lying on a white cover on a bed,42.41,125.69,582.41,441.21,640,480
+new-refcocog-0119,RefCOCOg (UMD),val,360002,13784,a dog coming towards camera,246.35,415.49,365.69,536.88,427,640
+new-refcocog-0120,RefCOCOg (UMD),val,276918,599679,A giraffe Whose head is obscured by a tree,142.82,38.76,343.62,445.74,640,480
+new-refcocog-0121,RefCOCOg (UMD),val,170451,161141,A United States fighter jet flying between two other similar fighter jets.,209.60,98.25,445.67,275.49,640,328
+new-refcocog-0122,RefCOCOg (UMD),val,167649,703856,a spoon beside a plate,503.14,116.16,606.73,301.72,640,427
+new-refcocog-0123,RefCOCOg (UMD),val,171581,212155,A man riding a horse.,107.32,136.19,206.42,326.39,640,428
+new-refcocog-0124,RefCOCOg (UMD),val,345185,426352,Person swimming in water with an arm extended.,187.11,223.28,500.89,338.43,640,427
+new-refcocog-0125,RefCOCOg (UMD),val,201530,2146572,The side of the vase facing the salt and pepper shakers,89.27,423.06,266.63,640.00,480,640
+new-refcocog-0126,RefCOCOg (UMD),val,271447,1879909,A cup of tea with the scosser  on the table,42.34,215.06,229.54,376.63,640,429
+new-refcocog-0127,RefCOCOg (UMD),val,125998,184275,Bare legs of person on left end of couch.,12.94,235.96,356.67,549.49,634,640
+new-refcocog-0128,RefCOCOg (UMD),val,93487,1080893,Donuts sitting in a white plate,272.31,270.93,517.11,466.22,612,612
+new-refcocog-0129,RefCOCOg (UMD),val,56594,284008,The purple umbrella.,403.20,113.26,639.91,441.71,640,504
+new-refcocog-0130,RefCOCOg (UMD),val,116854,507596,blur image of the boy in the far end of the ground,227.51,229.52,329.85,395.53,640,428
+new-refcocog-0131,RefCOCOg (UMD),val,399006,316307,the bed to the right,88.45,208.18,640.00,474.61,640,480
+new-refcocog-0132,RefCOCOg (UMD),val,319905,2123687,a brown chair,0.97,232.30,104.92,370.26,500,375
+new-refcocog-0133,RefCOCOg (UMD),val,124578,2162049,A person in a red shirt and black shorts.,578.16,115.96,640.00,419.38,640,427
+new-refcocog-0134,RefCOCOg (UMD),val,26985,479787,A boy on a snow scooter with a dark knit cap.,91.46,41.32,277.67,467.58,518,640
+new-refcocog-0135,RefCOCOg (UMD),val,258823,600234,a graffi is close her eyes,201.40,182.02,404.49,368.26,500,375
+new-refcocog-0136,RefCOCOg (UMD),val,119714,455161,Man on far right of photo in original shirt.,500.30,38.27,592.86,598.85,612,612
+new-refcocog-0137,RefCOCOg (UMD),val,426773,197753,The boy in a gray sweater.,123.75,3.07,431.52,270.66,640,360
+new-refcocog-0138,RefCOCOg (UMD),val,205223,2161944,The second suit.,160.11,0.62,317.13,233.67,640,238
+new-refcocog-0139,RefCOCOg (UMD),val,298262,282936,A black umbrella which a manis carrying,69.03,38.83,428.58,277.57,640,640
+new-refcocog-0140,RefCOCOg (UMD),val,228133,1079989,A donut with blue frosting and pink sprinkles.,51.11,139.59,287.87,340.98,640,480
+new-refcocog-0141,RefCOCOg (UMD),val,502183,245609,A black tire on a motorcycle.,404.15,0.00,480.00,129.92,480,384
+new-refcocog-0142,RefCOCOg (UMD),val,7393,595944,A large giraffe looking toward the camera,518.51,17.25,640.00,424.91,640,427
+new-refcocog-0143,RefCOCOg (UMD),val,327395,63340,The sheep on the right getting a hug from the girl.,258.64,215.70,479.70,419.66,640,427
+new-refcocog-0144,RefCOCOg (UMD),val,480864,209994,Woman in red shirt and glasses,328.27,80.02,438.69,221.77,500,332
+new-refcocog-0145,RefCOCOg (UMD),val,530132,248870,A parked bus behind another parked bus.,432.75,150.44,578.79,341.58,640,480
+new-refcocog-0146,RefCOCOg (UMD),val,249770,471504,Hand of the person eating the food,102.82,118.22,492.02,375.70,500,379
+new-refcocog-0147,RefCOCOg (UMD),val,459152,1922502,Gummy hotdog in the back of the box.,491.90,305.96,640.00,413.01,640,480
+new-refcocog-0148,RefCOCOg (UMD),val,414588,2120418,The bean bag the man wearing khakis is sitting on,446.73,262.97,610.10,400.99,640,423
+new-refcocog-0149,RefCOCOg (UMD),val,360002,133906,a red sedan.,149.93,321.16,373.45,393.35,427,640
+new-refcocog-0150,RefCOCOg (UMD),val,216985,1584880,The black chair with a white pillow on it,200.46,70.70,360.56,239.83,424,640
+new-refcocog-0151,RefCOCOg (UMD),val,318528,1151945,A yellow designer flower pot,111.98,138.03,287.46,387.22,403,500
+new-refcocog-0152,RefCOCOg (UMD),val,406560,366619,The red bus behind the blue bus.,407.76,100.97,613.58,351.45,640,433
+new-refcocog-0153,RefCOCOg (UMD),val,261765,1187040,orange suitcase between two black ones,327.91,100.31,480.00,230.83,640,480
+new-refcocog-0154,RefCOCOg (UMD),val,123247,434201,A baseball player in jersey number 43.,167.60,122.61,352.57,310.90,640,380
+new-refcocog-0155,RefCOCOg (UMD),val,490610,214754,A lady wearing a black dress side of the baby sitting in the ship.,43.15,37.39,235.87,562.34,427,640
+new-refcocog-0156,RefCOCOg (UMD),val,279883,1097667,A silver color laptop,12.61,174.67,193.30,307.46,500,374
+new-refcocog-0157,RefCOCOg (UMD),val,524476,252854,A woman holding the dog with both hands.,2.16,88.27,308.49,474.43,640,480
+new-refcocog-0158,RefCOCOg (UMD),val,44057,1451724,White skis stood on by a man in mid-air,180.74,93.51,347.00,167.30,500,333
+new-refcocog-0159,RefCOCOg (UMD),val,512282,448727,"A man talking on a mobile phone wearing an open suit coat, jeans and a blue shirt carrying a bag",67.37,101.78,381.50,639.09,575,640
+new-refcocog-0160,RefCOCOg (UMD),val,321011,508297,"A skateboarder with a black helmet, brown shirt, black shoes, and primarily green skateboard with yellow wheels doing a trick off of a ramp.",135.50,118.20,356.04,370.45,427,640
+new-refcocog-0161,RefCOCOg (UMD),val,339579,313437,The sandwich standing next to the man's thumb.,209.13,242.14,382.93,373.13,383,640
+new-refcocog-0162,RefCOCOg (UMD),val,7653,175779,the speedboat in the water,123.53,279.17,495.27,348.94,640,509
+new-refcocog-0163,RefCOCOg (UMD),val,132746,2171388,an aeroplane is standing behind another one,341.13,234.12,640.00,331.48,640,454
+new-refcocog-0164,RefCOCOg (UMD),val,421298,390392,A plate of food that is furthest from the viewer.,2.53,35.39,499.72,109.55,500,375
+new-refcocog-0165,RefCOCOg (UMD),val,210363,1860489,skateboard positioned upright in hands of person on top of ramp,1.57,185.00,104.29,536.00,640,536
+new-refcocog-0166,RefCOCOg (UMD),val,376505,2121477,The armchair with a bag in it.,157.60,111.41,294.37,236.05,640,480
+new-refcocog-0167,RefCOCOg (UMD),val,86654,1731018,An arm with dark blue sleeves.,1.03,143.31,404.48,426.00,640,426
+new-refcocog-0168,RefCOCOg (UMD),val,547974,1821220,butt of the farthest elephant,327.41,246.67,433.56,405.90,640,480
+new-refcocog-0169,RefCOCOg (UMD),val,85462,1085506,A tart with red and black fruit on top,416.75,222.46,604.85,305.16,640,427
+new-refcocog-0170,RefCOCOg (UMD),val,309280,582207,An adult elephant with its trunk through a fence,155.08,123.56,428.87,402.13,640,426
+new-refcocog-0171,RefCOCOg (UMD),val,419297,157102,The front of a blue plane.,186.24,2.87,570.17,401.12,640,425
+new-refcocog-0172,RefCOCOg (UMD),val,402297,1247107,Legs of a man wearing blue jans and brown shoes.,0.00,139.33,189.21,476.46,640,481
+new-refcocog-0173,RefCOCOg (UMD),val,218057,117591,A blue sofa with a man seated on it,1.03,279.76,221.46,398.21,640,480
+new-refcocog-0174,RefCOCOg (UMD),val,125063,1412034,A baby zebra standing in front of it's mother.,0.00,104.41,272.52,330.25,500,335
+new-refcocog-0175,RefCOCOg (UMD),val,372182,654438,A Gold Key surfboard is red and gold.,279.01,58.97,353.80,473.17,480,640
+new-refcocog-0176,RefCOCOg (UMD),val,449171,496060,"man with short hair, sun glasses, and black and white scarf",66.01,165.87,252.52,375.00,500,375
+new-refcocog-0177,RefCOCOg (UMD),val,119714,502659,A young man with a grey t-shirt on.,9.63,151.28,294.31,601.00,612,612
+new-refcocog-0178,RefCOCOg (UMD),val,33017,347810,Ford SUV,0.00,0.00,426.19,267.77,470,640
+new-refcocog-0179,RefCOCOg (UMD),val,472327,1169632,The black backpack and strap of a woman photographing in the rain.,250.73,228.39,315.21,479.42,457,640
+new-refcocog-0180,RefCOCOg (UMD),val,269171,470015,a bride,131.72,93.20,427.00,541.35,427,640
+new-refcocog-0181,RefCOCOg (UMD),val,556035,1064556,Three pice of carrot,0.00,83.00,147.00,224.00,640,425
+new-refcocog-0182,RefCOCOg (UMD),val,39360,1714641,"A woman's arm with a green shirt sleeve, holding a hotdog that is falling out of the bun.",1.08,1.08,241.62,378.61,640,480
+new-refcocog-0183,RefCOCOg (UMD),val,235949,523595,A child eating food.,97.13,17.79,384.68,414.02,640,427
+new-refcocog-0184,RefCOCOg (UMD),val,27829,599994,Smaller giraffe on right of larger giraffe.,326.73,96.10,613.91,404.00,640,419
+new-refcocog-0185,RefCOCOg (UMD),val,11426,149531,A black motorcycle on green grass near a sign that reads 141 parked near other vehicles.,37.84,85.95,595.68,414.59,640,480
+new-refcocog-0186,RefCOCOg (UMD),val,63860,515169,catcher behind plate making high catch,133.59,246.20,293.00,603.92,427,640
+new-refcocog-0187,RefCOCOg (UMD),val,171210,468285,Lady walking and talking on a cell phone.,53.21,132.31,235.87,619.87,256,640
+new-refcocog-0188,RefCOCOg (UMD),val,569750,156915,An airplane flying in the sky.,223.58,156.14,437.07,245.41,640,454
+new-refcocog-0189,RefCOCOg (UMD),val,41730,718077,A container of various foods sitting on a table next to other foods.,37.75,205.69,514.52,444.07,640,480
+new-refcocog-0190,RefCOCOg (UMD),val,350421,110866,A fancy chair away from the window.,482.50,149.09,619.44,319.06,640,427
+new-refcocog-0191,RefCOCOg (UMD),val,229002,1056870,Green broccoli on a plate of food.,367.94,187.94,499.41,370.59,500,375
+new-refcocog-0192,RefCOCOg (UMD),val,204379,57127,The horse that's getting kissed by the other horse.,100.35,321.86,251.03,466.52,480,640
+new-refcocog-0193,RefCOCOg (UMD),val,175021,582904,The elephant that is carrying a stick.,106.93,63.41,442.35,465.23,640,502
+new-refcocog-0194,RefCOCOg (UMD),val,360570,220430,A woman with pink and black hair walking a dog.,343.01,8.58,489.74,417.33,640,424
+new-refcocog-0195,RefCOCOg (UMD),val,183435,1592328,a chair at the front of a table.,395.34,0.00,640.00,84.65,640,427
+new-refcocog-0196,RefCOCOg (UMD),val,496261,1079850,A square doughnut.,5.75,281.89,251.69,517.75,478,640
+new-refcocog-0197,RefCOCOg (UMD),val,124349,480350,The person looking in the fridge,172.20,221.15,426.19,625.82,427,640
+new-refcocog-0198,RefCOCOg (UMD),val,328064,431867,A baby looking up smiling.,7.55,30.27,344.09,401.33,640,480
+new-refcocog-0199,RefCOCOg (UMD),val,79642,36779,A peacock that is behind the rest of the peacocks and is closest to the viewer.,1.64,5.39,357.49,413.00,640,413
+new-refcocog-0200,RefCOCOg (UMD),val,538210,1143796,The stack of papers on the farthest left,0.00,243.83,87.44,370.80,500,375
+new-refcocog-0201,RefCOCOg (UMD),val,198383,114041,The sofa on the right.,451.82,183.94,623.53,338.22,640,427
+new-refcocog-0202,RefCOCOg (UMD),val,445327,426501,The man in the brown skirt and lightblue shirt.,285.84,122.97,418.52,474.61,640,480
+new-refcocog-0203,RefCOCOg (UMD),val,89788,430394,the person in red,2.40,219.13,251.53,638.63,480,640
+new-refcocog-0204,RefCOCOg (UMD),val,175116,1062483,A long carrot that is slightly curved,55.72,427.67,368.94,630.96,427,640
+new-refcocog-0205,RefCOCOg (UMD),val,414314,452902,Boy is bluish green shirt with writing on the lower right side wearing long white shorts,293.39,86.37,422.76,332.16,640,391
+new-refcocog-0206,RefCOCOg (UMD),val,238630,315729,A made bed to the right of the photo.,286.09,291.25,640.00,479.99,640,480
+new-refcocog-0207,RefCOCOg (UMD),val,176342,491634,A woman wearing cream color dress and cutting cake with a men,217.24,96.23,414.47,354.44,640,424
+new-refcocog-0208,RefCOCOg (UMD),val,69344,1088521,a cake with candles in it,172.23,448.63,417.06,623.32,640,640
+new-refcocog-0209,RefCOCOg (UMD),val,34616,401734,A white truck trailer.,340.53,0.75,639.00,115.43,640,221
+new-refcocog-0210,RefCOCOg (UMD),val,430555,608516,the smaller white skis,366.74,397.12,600.54,466.92,640,480
+new-refcocog-0211,RefCOCOg (UMD),val,267256,599229,"A giraffe standing in a green field in the sun, next to another giraffe in the shade.",148.45,74.24,239.15,381.99,640,427
+new-refcocog-0212,RefCOCOg (UMD),val,568962,1392702,The bench with no one sitting on it,335.78,423.20,425.77,638.53,426,640
+new-refcocog-0213,RefCOCOg (UMD),val,544568,491861,a kid eating a donut,1.62,1.22,334.05,353.92,640,360
+new-refcocog-0214,RefCOCOg (UMD),val,360002,13784,a dog coming towards camera,246.35,415.49,365.69,536.88,427,640
+new-refcocog-0215,RefCOCOg (UMD),val,578369,433653,a woman in a white shirt,16.77,125.74,330.70,353.99,612,612
+new-refcocog-0216,RefCOCOg (UMD),val,12673,1184423,A black suitcase that is sitting upright with the handle partly pulled out.,6.77,199.49,153.50,348.48,375,500
+new-refcocog-0217,RefCOCOg (UMD),val,492769,224705,A  man in a light green shirt.,84.13,1.01,279.10,263.93,640,360
+new-refcocog-0218,RefCOCOg (UMD),val,393709,427890,A young boy wearing a red and grey coat.,150.65,188.87,302.26,422.04,640,427
+new-refcocog-0219,RefCOCOg (UMD),val,97563,1749635,a man in a white shirt with a red design,0.00,121.92,305.96,417.63,428,640
+new-refcocog-0220,RefCOCOg (UMD),val,481723,590068,A zebra grabbing another zebra from behind.,110.36,141.80,253.24,243.61,640,379
+new-refcocog-0221,RefCOCOg (UMD),val,306837,592693,A zebra that is eating while standing to the right of another zebra.,122.42,2.25,547.65,421.04,640,480
+new-refcocog-0222,RefCOCOg (UMD),val,470078,548670,A young child on skis in front of an adult on skis.,79.33,244.00,150.49,461.94,335,500
+new-refcocog-0223,RefCOCOg (UMD),val,163114,1790270,The silver motorcycle next to the tree,398.46,135.64,573.41,219.23,640,425
+new-refcocog-0224,RefCOCOg (UMD),val,17004,1949876,Far left of the couch the dog is laying on,0.00,25.33,208.46,286.38,500,376
+new-refcocog-0225,RefCOCOg (UMD),val,575768,207728,"A man in a white shirt and jeans holding a shepherd's crook, with four goats running around him.",252.88,38.71,343.61,287.75,640,484
+new-refcocog-0226,RefCOCOg (UMD),val,239616,1160422,a large stone bear,19.21,21.96,413.03,592.79,612,612
+new-refcocog-0227,RefCOCOg (UMD),val,171374,100704,An office chair with wheels,0.00,178.11,68.38,448.77,480,640
+new-refcocog-0228,RefCOCOg (UMD),val,477580,1056554,A group of broccoli,0.00,215.08,158.26,351.44,640,425
+new-refcocog-0229,RefCOCOg (UMD),val,166975,230146,man standing in front of  bus,203.60,92.21,346.60,409.08,640,427
+new-refcocog-0230,RefCOCOg (UMD),val,393629,1950031,The beige couch,244.33,296.95,424.03,507.69,425,640
+new-refcocog-0231,RefCOCOg (UMD),val,571653,515223,"A woman with pulled back black hair, wearing glasses, in a red shirt.",2.14,92.65,167.61,353.73,640,360
+new-refcocog-0232,RefCOCOg (UMD),val,295970,1053437,Rotten fruit with a face carved into it,134.11,307.34,313.90,502.06,480,640
+new-refcocog-0233,RefCOCOg (UMD),val,3478,489905,A woman in a green coat.,59.46,195.14,202.16,472.97,640,480
+new-refcocog-0234,RefCOCOg (UMD),val,198547,1794095,double decker bus,171.85,0.00,509.63,201.48,640,480
+new-refcocog-0235,RefCOCOg (UMD),val,337433,37644,A BIRD IS SITTING BETWEEN TWO BIRDS,157.20,166.34,308.92,379.30,640,425
+new-refcocog-0236,RefCOCOg (UMD),val,119267,1057835,Strapped together broccoli like green vegetables,279.36,2.88,434.88,175.68,612,612
+new-refcocog-0237,RefCOCOg (UMD),val,56677,1733214,This is a woman wearing a green shirt and black pants.,143.42,29.27,292.71,284.53,640,394
+new-refcocog-0238,RefCOCOg (UMD),val,427301,223368,Man in striped shirt.,85.98,106.74,469.40,640.00,480,640
+new-refcocog-0239,RefCOCOg (UMD),val,106660,1156050,A blue colour flower pot holding up a yellow rose,127.43,302.24,213.33,549.94,480,640
+new-refcocog-0240,RefCOCOg (UMD),val,12490,1554212,A sandwich beside a ceasar salad with a toothpick in it.,0.00,166.67,115.15,320.20,640,427
+new-refcocog-0241,RefCOCOg (UMD),val,286688,398456,an old time red car,17.30,17.84,640.00,480.00,640,480
+new-refcocog-0242,RefCOCOg (UMD),val,74201,1576777,Blue cupcakes sitting in a clear container,460.54,154.59,636.76,352.43,640,480
+new-refcocog-0243,RefCOCOg (UMD),val,369899,524174,A old man with yelow t-shirt,1.08,1.83,385.08,471.04,640,480
+new-refcocog-0244,RefCOCOg (UMD),val,326237,1415154,Backpack that police officer is wearing,66.42,206.36,330.07,403.33,427,640
+new-refcocog-0245,RefCOCOg (UMD),val,573107,2206224,A catcher in red and white.,362.84,112.47,550.81,281.19,640,312
+new-refcocog-0246,RefCOCOg (UMD),val,409108,1052243,yellow lemon which is on the lower part of the bark,79.29,409.55,240.54,564.89,426,640
+new-refcocog-0247,RefCOCOg (UMD),val,484260,592107,Two zebras side by side.,271.07,32.47,626.03,311.60,640,359
+new-refcocog-0248,RefCOCOg (UMD),val,206577,331667,The handle of the fridge with a note on it,444.33,0.00,500.00,322.74,500,334
+new-refcocog-0249,RefCOCOg (UMD),val,79873,1642095,a black oven,205.20,157.78,397.49,344.32,480,640
+new-refcocog-0250,RefCOCOg (UMD),val,337555,1080097,the front most doughnut in the right hand picture,210.75,370.13,364.48,532.87,426,640
+new-refcocog-0251,RefCOCOg (UMD),val,545948,189032,A person sitting in a chair.,45.00,279.39,168.05,421.72,640,427
+new-refcocog-0252,RefCOCOg (UMD),val,118682,2152123,person arm on left,0.00,0.00,106.11,210.83,640,480
+new-refcocog-0253,RefCOCOg (UMD),val,575971,1720455,a man flying a colorful kite,392.20,382.33,476.96,594.85,480,640
+new-refcocog-0254,RefCOCOg (UMD),val,3178,594602,The mother giraffe in the middle,156.83,0.44,422.61,382.19,640,443
+new-refcocog-0255,RefCOCOg (UMD),val,386211,501665,woman wearing pink shirt,206.08,122.30,500.00,224.22,500,375
+new-refcocog-0256,RefCOCOg (UMD),val,469495,26893,The white planter chair with the woman wearing dark clothes and white sneakers sitting in it.,27.69,1.58,142.38,318.78,500,352
+new-refcocog-0257,RefCOCOg (UMD),val,530535,583004,elephant wagging tail,99.24,157.56,318.20,319.35,640,480
+new-refcocog-0258,RefCOCOg (UMD),val,362643,108581,A wooden rocking chair with green cushions sits by a window.,126.62,130.33,541.00,518.46,541,640
+new-refcocog-0259,RefCOCOg (UMD),val,269983,1852179,The stone colored snowboard behind the woman.,86.44,512.00,480.00,626.70,480,640
+new-refcocog-0260,RefCOCOg (UMD),val,116832,2152590,a man with blue color shirt standing along with him friend,256.75,222.92,441.96,544.19,480,640
+new-refcocog-0261,RefCOCOg (UMD),val,533050,44145,the second bird  from the front,0.94,148.15,261.60,410.68,640,436
+new-refcocog-0262,RefCOCOg (UMD),val,268804,1609975,A green planter holds pink flowers and a large leafed plant.,491.84,145.29,640.00,354.08,640,480
+new-refcocog-0263,RefCOCOg (UMD),val,388823,1155752,A GLASS MODEL FLOWER POT WITH FLOWERS,86.52,279.43,193.26,488.42,332,500
+new-refcocog-0264,RefCOCOg (UMD),val,479578,589945,zebra on right,304.25,143.66,431.66,394.67,640,425
+new-refcocog-0265,RefCOCOg (UMD),val,178376,29418,monitor on right side back.,340.85,27.04,640.00,325.82,640,480
+new-refcocog-0266,RefCOCOg (UMD),val,197289,313700,the sandwich with no bread on top.,90.95,119.63,401.15,393.44,640,427
+new-refcocog-0267,RefCOCOg (UMD),val,308110,1366589,A yellow car on wheels to the left of the front of the train,2.42,107.30,89.55,245.25,640,359
+new-refcocog-0268,RefCOCOg (UMD),val,137690,186956,A man standing with wii controllers ans a gray jacket.,104.39,54.46,292.74,473.11,640,480
+new-refcocog-0269,RefCOCOg (UMD),val,390496,158601,An airplane with three windows and white and black rudder,2.87,140.10,300.91,216.52,640,427
+new-refcocog-0270,RefCOCOg (UMD),val,543838,2197336,the vase from the right,418.26,144.81,613.66,397.86,640,478
+new-refcocog-0271,RefCOCOg (UMD),val,170888,391431,The table with only two chairs near it.,16.85,332.66,293.26,407.94,375,500
+new-refcocog-0272,RefCOCOg (UMD),val,372790,283898,A blue and white striped umbrella.,0.03,0.00,204.92,209.12,480,640
+new-refcocog-0273,RefCOCOg (UMD),val,423107,521245,A blond woman wearing sunglasses and a black shirt.,456.00,319.67,640.00,420.67,640,427
+new-refcocog-0274,RefCOCOg (UMD),val,492638,442483,An overweight guy in a white sweater playing wii,345.98,189.60,515.94,479.09,640,480
+new-refcocog-0275,RefCOCOg (UMD),val,423815,1906182,The cut fruit in the bowl.,0.00,0.09,253.53,214.42,640,444
+new-refcocog-0276,RefCOCOg (UMD),val,570870,41048,the bird with its head not in the cup,106.49,88.43,265.10,243.88,640,640
+new-refcocog-0277,RefCOCOg (UMD),val,354480,213243,girl,332.15,190.42,591.61,304.72,640,427
+new-refcocog-0278,RefCOCOg (UMD),val,84273,687940,Fork on small plate.,245.95,210.81,395.19,415.14,640,480
+new-refcocog-0279,RefCOCOg (UMD),val,563584,1963988,A table with two laptops and a girl and boy sitting at them,77.47,273.37,382.94,417.25,640,425
+new-refcocog-0280,RefCOCOg (UMD),val,461027,448103,Empire squatting with a blue shirt and grey pants.,20.88,207.59,135.96,449.04,640,473
+new-refcocog-0281,RefCOCOg (UMD),val,4904,320030,An island in the middle of the kitchen with foil pan on top.,261.10,284.24,552.60,396.14,612,612
+new-refcocog-0282,RefCOCOg (UMD),val,221169,1729360,The man standing with umbrella,92.04,80.54,314.97,605.48,569,640
+new-refcocog-0283,RefCOCOg (UMD),val,172197,449201,a baseball umpire,45.20,195.87,151.75,431.57,640,480
+new-refcocog-0284,RefCOCOg (UMD),val,348637,1043018,"A pile of fruits including a red apple, green apple and a green banana.",3.20,77.38,102.94,244.19,640,391
+new-refcocog-0285,RefCOCOg (UMD),val,568117,1817307,black cat curled up next to person on bed by hand of person,309.35,239.32,529.25,412.60,543,640
+new-refcocog-0286,RefCOCOg (UMD),val,67615,1736047,umpire,0.00,166.96,84.44,406.85,640,427
+new-refcocog-0287,RefCOCOg (UMD),val,378921,439898,a baseball player in a gray and red uniform with the ball in his mitt,34.76,73.94,206.22,235.28,500,333
+new-refcocog-0288,RefCOCOg (UMD),val,431627,1719697,man testing snowboard.,67.42,24.72,333.71,369.66,375,500
+new-refcocog-0289,RefCOCOg (UMD),val,365696,57097,The horse on the left with a white stripe going down it's face.,32.22,138.98,302.82,380.14,640,428
+new-refcocog-0290,RefCOCOg (UMD),val,218237,116057,the brown couch the men are on,75.01,167.64,639.30,480.00,640,480
+new-refcocog-0291,RefCOCOg (UMD),val,477266,563218,The girl in the middle with the polka dot shirt.,112.08,20.25,321.30,334.00,500,334
+new-refcocog-0292,RefCOCOg (UMD),val,321150,597093,a giraffe stands in front of another giraffe,45.64,146.67,302.00,392.19,375,500
+new-refcocog-0293,RefCOCOg (UMD),val,86072,1540180,Blue bowl with green salad in it.,373.31,19.97,500.00,231.48,500,375
+new-refcocog-0294,RefCOCOg (UMD),val,579813,501466,the lady is sittig,414.33,139.19,542.98,286.62,640,480
+new-refcocog-0295,RefCOCOg (UMD),val,256643,523533,An umpire officiating a baseball game,20.15,227.33,162.15,364.53,640,426
+new-refcocog-0296,RefCOCOg (UMD),val,373664,289864,The chair with wooden arms to the right of the stuffed chair.,504.03,298.72,640.00,427.16,640,433
+new-refcocog-0297,RefCOCOg (UMD),val,213754,1965288,"The white table in the final cell, with the two deserts on them.",1.67,438.33,285.00,638.33,286,640
+new-refcocog-0298,RefCOCOg (UMD),val,82216,489852,tennis player,76.22,232.99,289.08,588.22,480,640
+new-refcocog-0299,RefCOCOg (UMD),val,455015,156747,"Portland timbers airplane.  It has Alaska written to the far right.  The colors are green, yellow and white.",0.00,106.57,627.55,318.63,640,427
+new-refcocog-0300,RefCOCOg (UMD),val,49904,428026,Little girl in a pink skii outfit learning to skii with her parent,189.84,263.29,302.02,506.34,480,640
+new-refcocog-0301,RefCOCOg (UMD),val,229149,127555,Bicycles on a car.,9.14,77.81,159.10,255.19,640,427
+new-refcocog-0302,RefCOCOg (UMD),val,213146,447746,An old woman playing tennis,260.38,164.44,490.87,471.77,640,477
+new-refcocog-0303,RefCOCOg (UMD),val,490507,46407,A cat to the left of two other cats.,137.83,128.80,292.26,304.95,640,427
+new-refcocog-0304,RefCOCOg (UMD),val,436797,61274,A big female sheep and her baby lamb,148.32,164.85,528.83,441.49,640,478
+new-refcocog-0305,RefCOCOg (UMD),val,578375,1810402,"a lone yellow chair in the midst of green, blue and pink chairs.",39.10,158.44,224.94,299.51,640,480
+new-refcocog-0306,RefCOCOg (UMD),val,428445,277930,Large cow in the front to the right of the other large one,195.10,150.66,285.81,237.94,426,255
+new-refcocog-0307,RefCOCOg (UMD),val,40338,461883,A man in camouflage with a tattoo.,4.79,1.91,196.25,419.30,640,426
+new-refcocog-0308,RefCOCOg (UMD),val,25,598548,A tall brown and tan giraffe eating from a tree,385.53,60.03,600.50,357.19,640,426
+new-refcocog-0309,RefCOCOg (UMD),val,78880,1943702,A wooden stool.,346.75,224.03,433.44,336.04,500,375
+new-refcocog-0310,RefCOCOg (UMD),val,267042,2136820,closest keyboard,179.43,223.56,439.21,335.84,640,426
+new-refcocog-0311,RefCOCOg (UMD),val,229247,1714106,A baseball player swinging a bat.,191.11,283.49,361.87,527.04,503,640
+new-refcocog-0312,RefCOCOg (UMD),val,353720,522176,A man in a suit sitting on a bench behind another man.,403.92,206.01,548.18,366.62,640,427
+new-refcocog-0313,RefCOCOg (UMD),val,560567,2151906,A child in a yellow jacket.,333.94,159.65,449.72,413.02,640,480
+new-refcocog-0314,RefCOCOg (UMD),val,66518,312376,A skewered half sandwich with its other half between it and a glass of red wine.,440.40,189.18,609.86,325.13,640,427
+new-refcocog-0315,RefCOCOg (UMD),val,119693,557545,A BASEBALL PLAYER WEARING RED AND WHITE SWINGING A BAT WITH A RED HELMET ON HIS HEAD,339.65,125.36,459.02,277.58,640,426
+new-refcocog-0316,RefCOCOg (UMD),val,125115,473827,people playing wii,181.98,68.86,454.57,330.22,500,334
+new-refcocog-0317,RefCOCOg (UMD),val,335376,1892617,The metal pizza knife with the wooden handle.,250.65,174.48,500.00,251.23,500,375
+new-refcocog-0318,RefCOCOg (UMD),val,253907,211403,"the person wearing the blue, white, and black shirt",217.83,8.46,303.26,155.84,500,380
+new-refcocog-0319,RefCOCOg (UMD),val,490356,1983835,portfolio folder on the bottom in the arrangement.,192.82,47.37,518.28,151.03,640,428
+new-refcocog-0320,RefCOCOg (UMD),val,7852,395111,firetruck in the right hand picture,302.02,85.21,640.00,283.69,640,480
+new-refcocog-0321,RefCOCOg (UMD),val,293466,1734266,A hand holding a bag of fries.,77.34,395.49,319.81,612.00,612,612
+new-refcocog-0322,RefCOCOg (UMD),val,122231,503508,The asian woman in blue.,212.20,140.46,293.96,338.95,640,427
+new-refcocog-0323,RefCOCOg (UMD),val,357470,671258,A cream color cup near a laptop,435.21,242.09,555.66,361.50,640,423
+new-refcocog-0324,RefCOCOg (UMD),val,121110,2131218,The table closest to the trash can.,135.55,113.96,300.78,215.85,425,640
+new-refcocog-0325,RefCOCOg (UMD),val,204746,1408749,A cow's ribs are exposed.,0.75,55.69,146.81,166.03,640,427
+new-refcocog-0326,RefCOCOg (UMD),val,388761,601117,Giraffe facing away from fence.,152.09,144.70,323.19,369.66,640,470
+new-refcocog-0327,RefCOCOg (UMD),val,435951,1741502,A man in a hat and red and black jacket holds a tennis racquet.,163.16,77.43,266.86,244.05,491,280
+new-refcocog-0328,RefCOCOg (UMD),val,222676,523278,The person to the right of the man not swinging his tennis racket.,375.97,103.83,533.60,461.11,640,486
+new-refcocog-0329,RefCOCOg (UMD),val,259060,188357,A WOMAN WEARING GREEN COLOUR T-SHIRT DRINKING BEER,106.52,87.24,416.90,421.49,640,427
+new-refcocog-0330,RefCOCOg (UMD),val,487284,114936,a sofa in a hall,20.98,269.27,369.44,424.35,640,426
+new-refcocog-0331,RefCOCOg (UMD),val,418517,200063,A young girl sitting on a man's lap.,14.38,138.07,425.00,632.81,425,640
+new-refcocog-0332,RefCOCOg (UMD),val,159299,710369,French fries occupy half of a white bowl.,471.97,7.52,639.77,142.65,640,425
+new-refcocog-0333,RefCOCOg (UMD),val,346562,2049492,The back of a white van.,415.42,118.06,546.91,234.13,640,385
+new-refcocog-0334,RefCOCOg (UMD),val,530649,591508,zebra on right,307.36,108.29,456.86,309.50,640,362
+new-refcocog-0335,RefCOCOg (UMD),val,146274,1124016,An oven filled with baking loaves.,3.24,297.30,185.95,480.00,640,480
+new-refcocog-0336,RefCOCOg (UMD),val,129951,1117727,black computer keyboard,404.66,372.38,639.28,473.54,640,480
+new-refcocog-0337,RefCOCOg (UMD),val,383768,553755,A man standing in the left corner,0.12,0.20,109.83,304.96,500,333
+new-refcocog-0338,RefCOCOg (UMD),val,545145,457359,A man wearing a hat.,254.67,3.94,488.27,422.32,640,427
+new-refcocog-0339,RefCOCOg (UMD),val,187914,225363,Person holding up the banana bike,295.09,199.79,368.18,412.34,640,427
+new-refcocog-0340,RefCOCOg (UMD),val,230275,465499,The catcher in blue uniform.,451.67,145.13,577.38,352.63,640,424
+new-refcocog-0341,RefCOCOg (UMD),val,416002,33881,high-tech computer monitor mounted on wall with plasma screen saver,134.70,81.00,345.12,265.00,640,427
+new-refcocog-0342,RefCOCOg (UMD),val,363752,499085,A baseball player sitting in the dugout,263.84,215.31,376.69,339.62,405,500
+new-refcocog-0343,RefCOCOg (UMD),val,100253,581966,The third elephant in a group of four with nothing in its trunk.,361.35,193.44,483.93,363.51,640,480
+new-refcocog-0344,RefCOCOg (UMD),val,74201,1899660,glass bowl right top corner,297.97,0.00,522.39,73.56,640,480
+new-refcocog-0345,RefCOCOg (UMD),val,480823,66278,A Sheep eating food in front of the net,355.06,121.51,462.05,339.16,640,427
+new-refcocog-0346,RefCOCOg (UMD),val,313873,487838,A boy in a red sweatshirt.,123.78,45.38,372.70,536.36,612,612
+new-refcocog-0347,RefCOCOg (UMD),val,154257,56473,the horse on the right in the right hand picture,388.97,225.00,552.41,416.38,640,480
+new-refcocog-0348,RefCOCOg (UMD),val,466519,711129,Blue bowl of soup on a table in the woods.,332.36,417.69,478.77,547.10,480,640
+new-refcocog-0349,RefCOCOg (UMD),val,321209,576809,A bench that is close to the mopads.,334.06,227.10,449.81,322.34,500,326
+new-refcocog-0350,RefCOCOg (UMD),val,459201,594022,The second largest zebra with its head and front legs visible.,201.81,98.50,370.98,307.35,500,348
+new-refcocog-0351,RefCOCOg (UMD),val,532711,100482,the chair behind the guy wearing the stripes.,300.39,171.35,448.00,321.03,640,480
+new-refcocog-0352,RefCOCOg (UMD),val,449850,197389,A man reclining on a bed.,133.38,167.92,322.41,422.20,640,427
+new-refcocog-0353,RefCOCOg (UMD),val,86708,423011,Full face of a man.,76.95,15.34,577.13,429.00,640,429
+new-refcocog-0354,RefCOCOg (UMD),val,28988,73373,A cow standing next to a tub,149.90,93.72,516.31,632.81,640,640
+new-refcocog-0355,RefCOCOg (UMD),val,538737,587134,polar bear on right,350.05,107.46,612.52,427.00,640,427
+new-refcocog-0356,RefCOCOg (UMD),val,305624,180315,A tugboat tied up at a dock in chilly weather,487.94,29.31,635.20,197.04,640,351
+new-refcocog-0357,RefCOCOg (UMD),val,44266,102210,a brown wicker chair sitting in front of a brown desk,395.72,85.41,524.20,262.20,640,480
+new-refcocog-0358,RefCOCOg (UMD),val,540520,582502,The elephant the woman is touching.,173.29,0.00,476.78,419.29,640,427
+new-refcocog-0359,RefCOCOg (UMD),val,156943,1900795,A small bowl of soup with chopsticks on the lid of the bowl to the left of a similar bowl.,128.65,222.93,356.02,401.49,640,427
+new-refcocog-0360,RefCOCOg (UMD),val,321173,1958617,table area behind the cup in the right hand picture,107.20,0.04,497.90,153.84,640,480
+new-refcocog-0361,RefCOCOg (UMD),val,160944,670377,a glass of water,3.03,0.00,232.58,226.52,600,450
+new-refcocog-0362,RefCOCOg (UMD),val,71229,1235740,A woman's reflection in the mirror.,165.03,122.79,278.29,296.45,328,480
+new-refcocog-0363,RefCOCOg (UMD),val,372198,1720854,"A small girl starring at something, along with her elder sister",167.31,100.26,259.08,236.10,500,333
+new-refcocog-0364,RefCOCOg (UMD),val,353701,413852,The wooden dinning table with full of objects,20.23,112.33,424.00,630.97,424,640
+new-refcocog-0365,RefCOCOg (UMD),val,174749,495747,A man wearing a black shirt and black watch standing at the back left of a commercial kitchen,0.00,116.99,64.15,383.18,640,428
+new-refcocog-0366,RefCOCOg (UMD),val,504982,1962763,The table behind the little girl.,1.11,290.58,640.00,382.64,640,427
+new-refcocog-0367,RefCOCOg (UMD),val,531910,1553841,A sandwich piece under another sandwich piece.,287.43,180.16,536.36,426.34,612,612
+new-refcocog-0368,RefCOCOg (UMD),val,43560,2152414,A person in pants near a table.,50.40,1.51,165.30,142.48,640,427
+new-refcocog-0369,RefCOCOg (UMD),val,276354,214939,A man holding an umbrella and kissing a woman.,380.10,166.24,504.83,427.00,640,427
+new-refcocog-0370,RefCOCOg (UMD),val,466580,1137708,violet color book,82.24,520.40,338.90,623.91,640,631
+new-refcocog-0371,RefCOCOg (UMD),val,382401,185248,The man wearing the shirt with the white buttons,16.19,122.36,93.13,368.96,640,375
+new-refcocog-0372,RefCOCOg (UMD),val,101573,507144,The woman sitting up holding the book.,96.22,34.19,427.00,623.12,427,640
+new-refcocog-0373,RefCOCOg (UMD),val,406579,164467,bus parked on side of street,47.17,78.04,560.57,392.95,640,480
+new-refcocog-0374,RefCOCOg (UMD),val,568788,3560,dog with purple collar looking in the mirror,12.66,249.98,286.25,473.91,640,480
+new-refcocog-0375,RefCOCOg (UMD),val,239596,1612803,A placemat is empty behind a placemat that is full,146.18,1.44,535.67,188.98,640,427
+new-refcocog-0376,RefCOCOg (UMD),val,409558,1934715,The red chair closest to the camera that has a pillow on it.,378.42,334.16,576.48,420.47,640,426
+new-refcocog-0377,RefCOCOg (UMD),val,147459,469802,A man riding on a skateboard.,300.90,94.55,548.16,499.25,640,519
+new-refcocog-0378,RefCOCOg (UMD),val,95185,2189977,A wood rocking chair painted red.,346.13,372.63,599.22,599.80,612,612
+new-refcocog-0379,RefCOCOg (UMD),val,510027,1536273,A green bowl of red apple slices.,374.01,258.14,552.63,476.80,640,480
+new-refcocog-0380,RefCOCOg (UMD),val,189156,102283,the black chair no one is sitting on.,178.20,349.53,345.06,475.19,640,480
+new-refcocog-0381,RefCOCOg (UMD),val,54083,25952,a plant on a filing cabinet,223.87,0.87,305.43,123.22,387,387
+new-refcocog-0382,RefCOCOg (UMD),val,137806,72086,A black cow standing a a grassy pasture between two other black cows,201.08,114.71,335.60,373.81,640,480
+new-refcocog-0383,RefCOCOg (UMD),val,497033,160836,The jet.,117.16,133.94,612.90,272.40,640,427
+new-refcocog-0384,RefCOCOg (UMD),val,346562,166296,The bak of a red and yellow bus.,277.52,74.07,415.04,258.78,640,385
+new-refcocog-0385,RefCOCOg (UMD),val,54141,180852,A speed boat on a lake.,144.88,261.45,380.91,324.78,640,426
+new-refcocog-0386,RefCOCOg (UMD),val,327209,2150594,a blonde young man,89.21,26.43,264.31,418.49,640,424
+new-refcocog-0387,RefCOCOg (UMD),val,228992,2223839,chair far right,528.03,240.70,639.53,362.71,640,426
+new-refcocog-0388,RefCOCOg (UMD),val,313148,1074246,A personal pizza with black olives.,236.05,62.37,637.14,248.52,640,427
+new-refcocog-0389,RefCOCOg (UMD),val,210187,392289,a book on table,81.13,353.34,627.48,450.91,640,457
+new-refcocog-0390,RefCOCOg (UMD),val,370727,469556,A man wearing glasses behind the left shoulder of the man in the red shirt.,0.40,122.74,133.27,381.57,375,500
+new-refcocog-0391,RefCOCOg (UMD),val,228560,590632,A zebra that is mostly white standing behind a zebra that is mostly black.,257.60,88.40,583.64,364.07,640,423
+new-refcocog-0392,RefCOCOg (UMD),val,527181,496632,A Father with his child watching Giraffe drinking water,247.54,161.67,563.20,420.72,640,426
+new-refcocog-0393,RefCOCOg (UMD),val,380007,456112,"a woman with a brown ponytail, looking down and wrapping herself with a bath towel",210.45,192.86,350.27,631.06,427,640
+new-refcocog-0394,RefCOCOg (UMD),val,508191,136380,red color car in the image,115.98,0.00,640.00,260.13,640,489
+new-refcocog-0395,RefCOCOg (UMD),val,101832,496306,A girl on a skateboard.,115.58,157.11,267.27,560.18,427,640
+new-refcocog-0396,RefCOCOg (UMD),val,22360,1202869,The person on the right standing in the shadows with something in her hand.,385.06,199.15,471.00,421.96,640,426
+new-refcocog-0397,RefCOCOg (UMD),val,88514,1188431,The tooth brushes in the woman's left hand,352.16,129.25,472.10,365.30,640,427
+new-refcocog-0398,RefCOCOg (UMD),val,64092,58314,The brown horse the woman is sitting on.,198.84,212.22,602.02,422.97,640,427
+new-refcocog-0399,RefCOCOg (UMD),val,24808,283834,umbrella white orange and black,242.79,136.83,391.54,250.97,640,426
+new-refcocog-0400,RefCOCOg (UMD),val,92988,2197145,The face of a large coco tower in a city.,300.42,132.07,427.00,274.82,427,640
+new-refcocog-0401,RefCOCOg (UMD),val,111000,488238,A blond male in a white t-shirt and gray pants running during a Frisbee game,81.00,141.38,147.00,283.88,500,333
+new-refcocog-0402,RefCOCOg (UMD),val,407963,1731945,A young child wearing a backwards ballcap eating a cheesy slice of pizza,142.82,60.24,587.38,474.73,640,480
+new-refcocog-0403,RefCOCOg (UMD),val,309,1161269,The torso of a brown furry teddy bear wearing a red ribbon.,153.18,213.25,287.75,426.27,600,600
+new-refcocog-0404,RefCOCOg (UMD),val,74663,599032,The giraffe that is on the other side of the fence and further from the camera. The giraffe is facing towards the left.,174.89,55.50,472.03,457.37,486,640
+new-refcocog-0405,RefCOCOg (UMD),val,295448,1184198,the gray suitcase the girl with two suitcases is pulling,96.69,177.79,186.37,321.27,500,347
+new-refcocog-0406,RefCOCOg (UMD),val,362657,418260,A parking meter on the right of another parking meter.,237.30,78.86,343.73,379.45,424,640
+new-refcocog-0407,RefCOCOg (UMD),val,396743,108195,a white purse sits on a grey chair,7.82,185.97,141.30,314.91,427,640
+new-refcocog-0408,RefCOCOg (UMD),val,125120,2204465,A man with gray hair seated with his arms crossed.,15.64,110.94,161.87,301.49,640,480
+new-refcocog-0409,RefCOCOg (UMD),val,442977,556658,"A man jumping in the air, midway through a skateboard trick.",2.88,4.31,326.47,340.85,480,640
+new-refcocog-0410,RefCOCOg (UMD),val,270844,470403,a man smiling at a restaurant,2.86,0.14,480.00,631.55,480,640
+new-refcocog-0411,RefCOCOg (UMD),val,66507,463271,The woman in the middle wearing yellow glasses frames,200.63,114.34,392.63,474.61,640,480
+new-refcocog-0412,RefCOCOg (UMD),val,349809,50319,A bit cat that is sitting in the front,153.04,318.76,413.04,460.93,492,500
+new-refcocog-0413,RefCOCOg (UMD),val,286292,144033,a brown car next to a cow,1.92,185.65,415.49,350.69,640,427
+new-refcocog-0414,RefCOCOg (UMD),val,328574,55947,The horse that is in front.,135.38,108.15,365.37,329.26,640,374
+new-refcocog-0415,RefCOCOg (UMD),val,50757,373989,A empty blue chair behind the plate of pizza,423.12,0.00,640.00,134.18,640,480
+new-refcocog-0416,RefCOCOg (UMD),val,260033,37566,A duck with its neck up to the left of a duck with its wings spread out.,74.63,134.21,167.16,367.86,640,512
+new-refcocog-0417,RefCOCOg (UMD),val,65198,38547,A bird being fed.,92.02,216.45,217.00,491.12,480,640
+new-refcocog-0418,RefCOCOg (UMD),val,334600,286487,A open red umbrella with a person laying on a towel in front of it.,262.75,334.93,494.19,420.21,640,424
+new-refcocog-0419,RefCOCOg (UMD),val,219966,503968,woman in white shirt holding baby,1.44,316.40,396.94,632.81,640,640
+new-refcocog-0420,RefCOCOg (UMD),val,250295,439918,A person with a tan hat and a striped shirt.,294.47,139.15,484.31,473.53,640,480
+new-refcocog-0421,RefCOCOg (UMD),val,65012,422638,A black-haired male wearing black shorts and a white shirt with a tennis racket in his hand.,248.31,67.87,411.63,415.51,640,425
+new-refcocog-0422,RefCOCOg (UMD),val,340412,484500,the man in the black shirt and the chair with the pants and no body,135.36,101.89,268.96,328.22,500,375
+new-refcocog-0423,RefCOCOg (UMD),val,140053,584504,the smallest elephant in the image,187.97,75.61,298.20,260.40,500,281
+new-refcocog-0424,RefCOCOg (UMD),val,317149,520579,A man with a baseball mit throwing a baseball to someone.,182.06,115.97,325.38,418.11,640,429
+new-refcocog-0425,RefCOCOg (UMD),val,197289,1055396,Green broccoli next to other assorted foods,372.49,125.98,640.00,403.72,640,427
+new-refcocog-0426,RefCOCOg (UMD),val,101892,280255,"Beach umbrella on the beach,",106.43,369.98,401.26,449.08,512,640
+new-refcocog-0427,RefCOCOg (UMD),val,278491,572834,park bench,356.13,319.83,640.00,401.35,640,439
+new-refcocog-0428,RefCOCOg (UMD),val,27826,427956,traveling lady,177.70,97.88,398.74,632.42,480,640
+new-refcocog-0429,RefCOCOg (UMD),val,222199,62028,The back end of a sheep.,370.60,138.95,640.00,338.26,640,373
+new-refcocog-0430,RefCOCOg (UMD),val,424485,124569,The left black computer screen.,38.40,89.22,152.47,252.99,640,480
+new-refcocog-0431,RefCOCOg (UMD),val,115511,661382,The empty clear glass,297.90,0.37,416.39,201.80,640,427
+new-refcocog-0432,RefCOCOg (UMD),val,349030,595866,A giraffe with it's neck up standing next to a giraffe with its neck down in front of a tree.,64.54,115.73,321.08,527.53,480,640
+new-refcocog-0433,RefCOCOg (UMD),val,338087,656585,the racket the woman in black is holding,363.00,180.64,546.41,303.86,640,427
+new-refcocog-0434,RefCOCOg (UMD),val,510027,2108780,a sweet foo in an orange bowl.,380.52,40.54,555.85,259.40,640,480
+new-refcocog-0435,RefCOCOg (UMD),val,245105,442548,A man in a green and white striped shirt getting his hat taken by an elephant.,378.06,57.41,621.79,422.04,640,427
+new-refcocog-0436,RefCOCOg (UMD),val,241851,116018,A grey color sofa and white paper on top,177.55,327.29,381.94,469.75,640,480
+new-refcocog-0437,RefCOCOg (UMD),val,129371,133165,A police SUV.,174.47,67.03,474.75,213.04,640,427
+new-refcocog-0438,RefCOCOg (UMD),val,333302,480921,a man in flannel smiles,409.81,168.22,622.83,422.32,640,427
+new-refcocog-0439,RefCOCOg (UMD),val,188854,1931931,A chair under a woman.,216.84,144.00,353.61,409.76,640,427
+new-refcocog-0440,RefCOCOg (UMD),val,240911,171692,The front train cart that's yellow and gray with a navy blue wavy banner painted on it.,11.51,211.10,462.50,364.63,640,427
+new-refcocog-0441,RefCOCOg (UMD),val,437632,99511,A purple velvet couch.,195.00,229.27,480.00,640.00,480,640
+new-refcocog-0442,RefCOCOg (UMD),val,16072,662914,wine glassing that is half full,38.66,277.90,257.72,640.00,480,640
+new-refcocog-0443,RefCOCOg (UMD),val,158853,637878,The skateboard that the skateboarder with blue and gray shoes is using.,285.41,211.93,462.87,383.76,640,458
+new-refcocog-0444,RefCOCOg (UMD),val,522897,319684,The bed that is closest to the window.,258.88,165.03,577.08,318.20,640,480
+new-refcocog-0445,RefCOCOg (UMD),val,396933,47924,Black cat lying down next to pink towel,20.01,15.56,314.58,343.48,640,518
+new-refcocog-0446,RefCOCOg (UMD),val,349793,184491,"Man in a white shirt, sitting on a motorcycle drinking",225.04,98.09,448.16,426.04,640,427
+new-refcocog-0447,RefCOCOg (UMD),val,86065,321042,White table with all the plates on it,0.95,164.81,409.32,386.00,640,386
+new-refcocog-0448,RefCOCOg (UMD),val,30997,48936,A black and grey cat.,117.50,117.01,385.84,278.85,640,480
+new-refcocog-0449,RefCOCOg (UMD),val,255786,137365,A silver car with a rear wind shield wiper.,44.18,278.56,242.46,436.96,366,500
+new-refcocog-0450,RefCOCOg (UMD),val,278097,575572,A bench with a bearded man a lady sat on it,188.77,205.61,640.00,426.25,640,503
+new-refcocog-0451,RefCOCOg (UMD),val,421298,1590507,A plastic chair behind the far table.,217.13,0.84,421.35,49.18,500,375
+new-refcocog-0452,RefCOCOg (UMD),val,145526,376578,the red chair the woman is not sitting on,0.00,192.14,137.53,387.51,640,427
+new-refcocog-0453,RefCOCOg (UMD),val,368659,1154136,A cream colored urn with burgundy floral designs.,173.88,198.22,313.13,338.13,640,427
+new-refcocog-0454,RefCOCOg (UMD),val,235582,557819,MAN ON RIGHT,482.91,61.45,637.13,316.88,640,427
+new-refcocog-0455,RefCOCOg (UMD),val,266515,511517,a blonde haired girl smiling at a giraffe,2.16,21.57,281.53,474.61,640,480
+new-refcocog-0456,RefCOCOg (UMD),val,360110,1165777,A light blue back pack.,0.00,250.20,78.81,424.43,400,500
+new-refcocog-0457,RefCOCOg (UMD),val,553758,1245187,BOY WAVING WITH BLACK SNEAKERS,375.95,95.16,470.03,345.41,640,480
+new-refcocog-0458,RefCOCOg (UMD),val,405604,1635093,Laptop keyboard with laptop screen.,0.00,205.84,363.51,349.30,640,480
+new-refcocog-0459,RefCOCOg (UMD),val,348865,2149160,Woman wearing black holding a pink umbrella.,18.66,194.76,233.89,480.00,640,480
+new-refcocog-0460,RefCOCOg (UMD),val,75120,443877,A lady in a lime green shirt and shorts leaning on a wall,0.00,360.10,86.03,640.00,480,640
+new-refcocog-0461,RefCOCOg (UMD),val,538861,1057455,Large pieces of broccoli sitting to the right and front side of a plate.,410.52,99.75,640.00,372.84,640,424
+new-refcocog-0462,RefCOCOg (UMD),val,97672,381279,Folding chair with a green bucket on it,100.99,146.83,223.09,264.01,640,427
+new-refcocog-0463,RefCOCOg (UMD),val,101467,2203936,A woman playing tennis,164.01,58.63,266.27,320.00,480,320
+new-refcocog-0464,RefCOCOg (UMD),val,183236,1625651,The largest monitor in between two smaller ones.,162.15,190.78,331.48,319.93,480,640
+new-refcocog-0465,RefCOCOg (UMD),val,386211,490212,The girl sitting on the bench.,43.82,9.27,316.01,369.10,500,375
+new-refcocog-0466,RefCOCOg (UMD),val,508821,1076818,PIZZA WITH PEPPERONI AND ONION,151.01,172.58,572.76,474.61,640,480
+new-refcocog-0467,RefCOCOg (UMD),val,237715,58337,A brown and white horse to the right side of two other horses.,514.63,0.66,633.59,282.65,640,408
+new-refcocog-0468,RefCOCOg (UMD),val,185248,1066940,A hot dog with onions.,52.00,18.10,548.00,417.10,640,427
+new-refcocog-0469,RefCOCOg (UMD),val,391703,712653,Cream colored dipping sauce.,34.08,128.22,156.92,255.67,640,480
+new-refcocog-0470,RefCOCOg (UMD),val,8602,292501,Tall green leaf plant behind couch with green pillow on it,331.16,19.72,470.01,175.27,490,490
+new-refcocog-0471,RefCOCOg (UMD),val,69047,309493,The right half of a long sandwich with banana peppers and green spices on the side.,322.52,107.06,580.31,297.98,640,480
+new-refcocog-0472,RefCOCOg (UMD),val,130366,129592,The handlebars closest to the camera.,25.45,284.55,266.76,375.00,500,375
+new-refcocog-0473,RefCOCOg (UMD),val,501549,210557,Man standing near chairs.,128.50,72.80,242.36,393.41,640,480
+new-refcocog-0474,RefCOCOg (UMD),val,167033,163864,the green bus,484.31,193.08,638.56,386.16,640,480
+new-refcocog-0475,RefCOCOg (UMD),val,243135,581690,Elephant walking left across the view.,256.88,174.76,474.61,314.18,640,424
+new-refcocog-0476,RefCOCOg (UMD),val,322695,60011,The horse with the rider furthest to the right,357.60,238.12,498.46,371.40,640,426
+new-refcocog-0477,RefCOCOg (UMD),val,413956,197780,The girl in the blue shirt that is riding on a blue bike,299.72,20.50,507.50,436.72,640,514
+new-refcocog-0478,RefCOCOg (UMD),val,90569,475144,The arm of the person on the left that is wearing a bracelet on their wrist,0.96,216.48,323.60,412.75,640,427
+new-refcocog-0479,RefCOCOg (UMD),val,10710,428800,"A man in a green jersey standing in the batter's box, and the front of the catcher.",293.89,108.07,447.38,415.68,640,427
+new-refcocog-0480,RefCOCOg (UMD),val,24030,1705648,A boy in a striped shirt.,221.12,129.26,380.92,480.00,640,480
+new-refcocog-0481,RefCOCOg (UMD),val,532744,1371453,The red Nissan pickup truck,280.40,334.67,492.63,479.56,640,480
+new-refcocog-0482,RefCOCOg (UMD),val,76802,117360,the white couch with the various colored pillows on it,263.85,223.29,441.32,304.87,640,427
+new-refcocog-0483,RefCOCOg (UMD),val,358599,160766,an air force plane with a red nose,0.80,114.95,573.89,381.34,640,480
+new-refcocog-0484,RefCOCOg (UMD),val,260206,1156901,A tall vase with trees painted on it.,444.40,24.63,563.06,384.90,640,480
+new-refcocog-0485,RefCOCOg (UMD),val,508561,1817001,A dog stuffed animal with light blue head.,44.64,255.25,165.97,336.00,448,336
+new-refcocog-0486,RefCOCOg (UMD),val,88671,17163,A larger dog staring at a smaller dog.,0.96,53.23,321.69,309.81,640,427
+new-refcocog-0487,RefCOCOg (UMD),val,418500,198685,The man with no shirt,117.95,14.90,530.45,427.00,640,427
+new-refcocog-0488,RefCOCOg (UMD),val,536570,212328,A little Asian boy looking,219.20,133.59,330.14,347.90,640,480
+new-refcocog-0489,RefCOCOg (UMD),val,320834,1709022,A person in a plaid shirt with blue pants,0.00,0.02,149.97,83.33,500,375
+new-refcocog-0490,RefCOCOg (UMD),val,253261,281840,A white umbrella below a museum sign.,459.69,189.10,640.00,402.00,640,402
+new-refcocog-0491,RefCOCOg (UMD),val,499532,1957160,two twin size beds on a larger base with blue sheets and maroon towels for pillows,0.24,535.24,281.51,640.00,480,640
+new-refcocog-0492,RefCOCOg (UMD),val,157049,353311,"light colored car seen behind umpire, catcher, and man on bleachers wearing blue",46.75,82.43,229.43,189.14,640,427
+new-refcocog-0493,RefCOCOg (UMD),val,551869,192216,Small Baby Eating banana with her mom,1.12,65.65,254.35,210.11,320,240
+new-refcocog-0494,RefCOCOg (UMD),val,354444,41917,the flying seagull,103.23,20.65,390.88,170.67,494,640
+new-refcocog-0495,RefCOCOg (UMD),val,32707,1715003,A skier in a green outfit.,239.40,226.73,332.67,414.53,426,640
+new-refcocog-0496,RefCOCOg (UMD),val,329343,107479,chair in the front,149.65,266.71,331.44,420.95,640,426
+new-refcocog-0497,RefCOCOg (UMD),val,339051,1240840,A woman or girl in a red shirt with brown hair,318.56,327.93,480.00,633.51,480,640
+new-refcocog-0498,RefCOCOg (UMD),val,316085,97720,the half of the couch with a laptop on it,232.26,47.48,542.97,361.29,640,480
+new-refcocog-0499,RefCOCOg (UMD),val,29538,433745,Man looking down at a bear,393.23,12.40,490.65,379.94,500,395
+new-refcocog-0500,RefCOCOg (UMD),val,506701,450427,an infant sleeping next to his mom and sister,419.93,70.29,558.96,170.28,640,427
+new-refcocog-0501,RefCOCOg (UMD),val,136331,525253,The woman in the background leaning on the counter.,170.43,118.47,284.76,359.01,640,480
+new-refcocog-0502,RefCOCOg (UMD),val,249974,1049457,the red apple on the right,282.69,58.57,416.56,166.74,500,254
+new-refcocog-0503,RefCOCOg (UMD),val,181064,175053,the #61 amtrak train waits at the platform,188.11,100.00,468.11,372.43,640,480
+new-refcocog-0504,RefCOCOg (UMD),val,79912,190993,a woman on a bike and her dog,292.42,72.22,394.38,276.15,500,375
+new-refcocog-0505,RefCOCOg (UMD),val,327271,399963,White pickup truck parked on the side of the road.,28.71,142.00,325.60,409.10,640,480
+new-refcocog-0506,RefCOCOg (UMD),val,72971,172615,A train with ET22-335 on the front.,44.66,42.13,368.26,289.89,500,375
+new-refcocog-0507,RefCOCOg (UMD),val,223595,424779,A GIRL BABY WAS STANDING  AND SHE SHOULDER  HOLDING THE ANOTHER HAND,53.35,70.40,133.95,314.89,640,426
+new-refcocog-0508,RefCOCOg (UMD),val,458631,2174556,A cat's reflection in a mirror where you can see both the cat and the reflection.,127.17,22.44,619.64,472.52,640,480
+new-refcocog-0509,RefCOCOg (UMD),val,235582,662369,An empty wine glass on the table with the birthday cake with candles.,121.86,235.09,230.29,427.00,640,427
+new-refcocog-0510,RefCOCOg (UMD),val,515871,428786,A woman in a white top.,1.08,57.84,640.00,470.81,640,480
+new-refcocog-0511,RefCOCOg (UMD),val,35817,289428,"A wooden chair with grey padding, on the right side of a table, with a woman wearing a green dress behind it",240.45,243.33,371.25,421.27,640,428
+new-refcocog-0512,RefCOCOg (UMD),val,224734,533995,sitting person in background,42.89,112.57,162.75,290.64,640,427
+new-refcocog-0513,RefCOCOg (UMD),val,561479,1117651,A white keyboard beneath a monitor.,360.76,204.36,585.27,309.91,640,426
+new-refcocog-0514,RefCOCOg (UMD),val,268428,153648,a blue motercycle,0.00,15.07,126.98,256.52,640,430
+new-refcocog-0515,RefCOCOg (UMD),val,427461,597696,girrafe in the back.,0.00,0.96,481.69,405.89,640,427
+new-refcocog-0516,RefCOCOg (UMD),val,45680,623700,"A bright, multi-colored windsock hanging from a tent.",11.19,120.43,310.96,470.54,375,500
+new-refcocog-0517,RefCOCOg (UMD),val,297984,1077479,A slice of pizza with ham on it.,25.28,156.74,242.70,260.39,500,375
+new-refcocog-0518,RefCOCOg (UMD),val,181316,655443,The racket held by a girl wearing dark skirt.,255.56,271.40,407.37,468.76,426,640
+new-refcocog-0519,RefCOCOg (UMD),val,433605,1137065,a magazine on the table,1.44,471.73,176.90,573.84,486,640
+new-refcocog-0520,RefCOCOg (UMD),val,309,1996153,The legs of a teddy bear laying on some grass.,73.10,235.33,194.52,493.35,600,600
+new-refcocog-0521,RefCOCOg (UMD),val,22195,2171674,The train cart in front of and to the side of the blue train.,0.00,164.87,119.50,287.69,640,426
+new-refcocog-0522,RefCOCOg (UMD),val,284510,1781735,Small red passenger car being splashed by water.,88.68,189.33,272.65,314.07,500,383
+new-refcocog-0523,RefCOCOg (UMD),val,9709,592777,The zebra reaching down to eat some food,146.04,109.63,587.38,397.42,640,480
+new-refcocog-0524,RefCOCOg (UMD),val,153814,1497237,Wine glass nearest the woman's pizza,410.40,1.44,571.68,302.40,612,612
+new-refcocog-0525,RefCOCOg (UMD),val,381759,353582,A grey VolkesWagon,215.31,289.62,461.40,419.92,640,480
+new-refcocog-0526,RefCOCOg (UMD),val,64259,98010,A long white couch with three pillows facing a television.,184.09,259.56,406.83,420.64,640,428
+new-refcocog-0527,RefCOCOg (UMD),val,329616,90970,pinot noir bottle,472.74,0.78,600.26,262.03,640,480
+new-refcocog-0528,RefCOCOg (UMD),val,203994,522056,Man with glasses and a white shirt.,122.39,55.57,491.50,416.97,640,425
+new-refcocog-0529,RefCOCOg (UMD),val,22926,177412,A small boat with an umbrella.,97.82,244.96,454.42,483.93,640,551
+new-refcocog-0530,RefCOCOg (UMD),val,183218,536181,Man in short sleeved white shirt with dark apron with left hand grasping a green towel.,250.19,108.12,453.55,357.08,640,427
+new-refcocog-0531,RefCOCOg (UMD),val,489844,451870,A man cutting a cake in a red shirt,238.88,17.24,383.39,481.42,640,543
+new-refcocog-0532,RefCOCOg (UMD),val,28988,1408066,A blurry part of an animal that is not completely visible.,1.44,463.10,186.97,629.93,640,640
+new-refcocog-0533,RefCOCOg (UMD),val,538108,87688,A FLOWER POT BOTTLE  NEAR BY THE KEYBOARD AND MUG,478.97,256.00,640.00,412.90,640,480
+new-refcocog-0534,RefCOCOg (UMD),val,333575,2157972,Skateboarder jumping on wall.,406.04,107.44,560.96,253.62,640,481
+new-refcocog-0535,RefCOCOg (UMD),val,542036,534286,AN ASIAN WOMAN IN A LONG GREEN SKIRT CARRYING AN UMBRELLA.,60.79,236.53,226.84,533.53,424,640
+new-refcocog-0536,RefCOCOg (UMD),val,566319,292128,The smaller of the two clay pots.,0.53,136.46,142.25,333.04,640,480
+new-refcocog-0537,RefCOCOg (UMD),val,458654,1817799,standing sheep with a cover on,100.99,2.49,640.00,467.53,640,480
+new-refcocog-0538,RefCOCOg (UMD),val,370523,515654,A skateboarder skateboarding in a city listening to his music while turning around a corner.,311.22,134.42,470.14,495.96,640,588
+new-refcocog-0539,RefCOCOg (UMD),val,197289,1552435,A piece of bread on top of some kind of meat which is half cut off from the picture,0.00,67.17,127.62,335.84,640,427
+new-refcocog-0540,RefCOCOg (UMD),val,539397,1408958,A steer with its head turned slightly to the right that is in between other steer.,115.12,149.38,321.53,253.75,640,425
+new-refcocog-0541,RefCOCOg (UMD),val,69432,521716,A man in a car.,0.00,81.98,480.00,640.00,480,640
+new-refcocog-0542,RefCOCOg (UMD),val,169988,1095642,COMODE IN THE BATHROOM,0.00,77.66,234.07,311.73,640,480
+new-refcocog-0543,RefCOCOg (UMD),val,58497,488246,A man wearing black or dark gray trousers and jacket with a green hat on skis holding two ski poles in his right hand.,258.93,96.37,371.00,403.60,640,428
+new-refcocog-0544,RefCOCOg (UMD),val,4555,175261,White and red boat.,26.74,298.93,535.79,404.94,640,425
+new-refcocog-0545,RefCOCOg (UMD),val,530097,1101044,a mini laptop sitting on a big laptop,153.20,61.83,378.70,297.65,640,383
+new-refcocog-0546,RefCOCOg (UMD),val,232311,640042,The green skateboard,300.34,293.62,494.17,376.14,640,427
+new-refcocog-0547,RefCOCOg (UMD),val,155645,1729344,The body of the person holding the colorful umbrella.,409.83,378.20,572.12,607.87,612,612
+new-refcocog-0548,RefCOCOg (UMD),val,364467,1578112,cake inside the cellophane wrapper,349.54,56.42,498.99,268.49,640,480
+new-refcocog-0549,RefCOCOg (UMD),val,562100,1549327,green apple next to a yellow banana.,8.46,333.11,237.22,481.00,640,481
+new-refcocog-0550,RefCOCOg (UMD),val,258538,282693,An umbrella in white over a table in an outdoor cafe area.,171.51,9.71,638.56,141.30,640,480
+new-refcocog-0551,RefCOCOg (UMD),val,56313,496367,A baseball player named Gonzalez.,92.25,115.70,230.05,458.71,427,640
+new-refcocog-0552,RefCOCOg (UMD),val,236961,186379,a boy wearing blue tshirt standing near a table with his friends celebrating birthday party,416.47,23.51,613.74,320.85,640,426
+new-refcocog-0553,RefCOCOg (UMD),val,148860,57206,A brown and black horse with a woman in a green shirt sitting on it.,109.42,152.77,324.13,380.90,640,480
+new-refcocog-0554,RefCOCOg (UMD),val,158293,673345,A glass of ice water.,23.01,0.00,153.89,202.79,448,640
+new-refcocog-0555,RefCOCOg (UMD),val,117578,1073951,A slice of combination pizza next in between two others.,138.07,145.02,566.65,590.86,640,640
+new-refcocog-0556,RefCOCOg (UMD),val,330683,74172,the brown cow,346.26,118.67,490.07,400.76,640,480
+new-refcocog-0557,RefCOCOg (UMD),val,376241,2154823,A man in a green shirt brushing his teeth.,136.42,15.53,349.36,421.45,640,427
+new-refcocog-0558,RefCOCOg (UMD),val,147615,595346,A giraffe reaches to eat some leaves from a tree.,172.75,54.63,269.66,279.63,500,375
+new-refcocog-0559,RefCOCOg (UMD),val,35322,26183,a potted tree leaning to the right.,89.99,0.00,527.47,269.96,640,426
+new-refcocog-0560,RefCOCOg (UMD),val,160313,174669,The red train car on the right sits at the platform.,509.84,133.34,640.00,269.41,640,427
+new-refcocog-0561,RefCOCOg (UMD),val,329527,1946839,Bench that a smiling woman is sitting on.,1.66,315.84,465.45,536.94,480,640
+new-refcocog-0562,RefCOCOg (UMD),val,351973,56494,the horse of the right that is further back,360.59,108.82,455.09,355.10,640,483
+new-refcocog-0563,RefCOCOg (UMD),val,536592,172040,Blue train on the far right rail driving ahead of two other trains,207.27,102.52,629.45,270.63,640,426
+new-refcocog-0564,RefCOCOg (UMD),val,21075,425949,The surfer standing on the surfboard.,176.17,80.81,300.45,464.08,640,496
+new-refcocog-0565,RefCOCOg (UMD),val,255214,166111,a blue bus parked to the left of two other busses,0.00,193.35,252.40,348.67,640,480
+new-refcocog-0566,RefCOCOg (UMD),val,127581,379118,blue armchair with cat sleeping,0.00,49.51,130.22,235.70,640,480
+new-refcocog-0567,RefCOCOg (UMD),val,342325,1607416,plant with red rose in a white flower pot,386.63,157.46,510.62,292.69,640,480
+new-refcocog-0568,RefCOCOg (UMD),val,381923,475521,A man with a white shirt and black shorts holding a tennis racket on the ground,30.20,163.52,306.34,508.68,425,640
+new-refcocog-0569,RefCOCOg (UMD),val,84034,1672570,A pair of red scissors that is to the left of the other pair of red scissors.,213.75,133.88,291.75,295.88,500,333
+new-refcocog-0570,RefCOCOg (UMD),val,314082,486592,man on right wearing black,339.84,207.92,536.67,458.60,640,640
+new-refcocog-0571,RefCOCOg (UMD),val,241491,1710109,the person on the far right in the right hand picture,599.48,1.13,640.00,423.23,640,424
+new-refcocog-0572,RefCOCOg (UMD),val,383884,596964,baby giraffee walking alone,288.42,147.74,412.28,318.17,640,425
+new-refcocog-0573,RefCOCOg (UMD),val,484369,19096,"Grass and other vegetation below the blue doll, parts of the feet of the doll.",21.45,356.50,204.75,472.95,640,473
+new-refcocog-0574,RefCOCOg (UMD),val,384888,1879710,a large glass with an amber liquid in it.,359.63,341.99,426.00,640.00,426,640
+new-refcocog-0575,RefCOCOg (UMD),val,44960,166332,The bus that is almost out of view.,0.00,55.24,173.63,268.04,640,439
+new-refcocog-0576,RefCOCOg (UMD),val,515064,503132,A man with a bow tie giving a thumbs up.,0.00,30.13,467.00,628.52,467,640
+new-refcocog-0577,RefCOCOg (UMD),val,341121,317541,the bed on the right side of the room.,211.31,121.87,572.91,406.19,640,481
+new-refcocog-0578,RefCOCOg (UMD),val,240304,588507,A zebra facing closing to the camera and front of the tree.,373.39,98.93,640.00,427.00,640,427
+new-refcocog-0579,RefCOCOg (UMD),val,514846,588541,The zebra is facing the camera.,83.92,98.11,265.96,359.33,640,526
+new-refcocog-0580,RefCOCOg (UMD),val,466825,1615834,the table behind the cake holding food dishes,2.39,135.94,156.65,295.02,428,640
+new-refcocog-0581,RefCOCOg (UMD),val,537986,473462,A girl in a striped gray and white shirt playing an interactive video game.,13.37,43.09,404.99,421.34,640,426
+new-refcocog-0582,RefCOCOg (UMD),val,534311,73881,A bull next to the left of a bull laying down.,86.56,45.30,357.57,326.83,640,360
+new-refcocog-0583,RefCOCOg (UMD),val,269483,2198285,A young man holding a camera at a skate park.,465.91,32.16,543.48,301.14,640,438
+new-refcocog-0584,RefCOCOg (UMD),val,486125,1940373,A black chair with arms between a table and dresser.,358.77,299.32,530.34,425.00,640,425
+new-refcocog-0585,RefCOCOg (UMD),val,145809,448817,A man standing in snow in red and black dress with black helmet in head and skiing board in hand.,137.53,233.26,199.55,428.76,400,600
+new-refcocog-0586,RefCOCOg (UMD),val,185991,1446307,A black suitcase underneath a medium blue one.,0.00,367.17,174.92,479.83,640,480
+new-refcocog-0587,RefCOCOg (UMD),val,235012,581444,The elephant with white on its face.,121.98,265.02,300.16,400.34,640,480
+new-refcocog-0588,RefCOCOg (UMD),val,51965,165853,bus reading NIS TRAINING VEHICLE,93.84,137.74,461.66,432.21,640,480
+new-refcocog-0589,RefCOCOg (UMD),val,125494,157279,A military airplane.,90.89,260.01,567.83,388.33,640,478
+new-refcocog-0590,RefCOCOg (UMD),val,183218,548485,A man with a tattoo on his right arm is wearing a black apron and has a beard.,80.78,89.38,202.92,355.77,640,427
+new-refcocog-0591,RefCOCOg (UMD),val,392167,308516,An egg salad sandwich with an orange toothpick holding it together.,19.25,278.95,445.59,554.01,612,612
+new-refcocog-0592,RefCOCOg (UMD),val,311067,157897,A silver airplane with AA on its tail.,43.55,73.31,496.48,201.06,640,323
+new-refcocog-0593,RefCOCOg (UMD),val,317997,506101,A tennis player with ball on his hand and discussing with his teammate,147.50,78.23,289.08,500.00,382,500
+new-refcocog-0594,RefCOCOg (UMD),val,139932,184833,a woman on the right side next to her horse.,362.24,128.46,609.90,506.90,640,515
+new-refcocog-0595,RefCOCOg (UMD),val,551244,668393,a glass of juice is placed on the table near pizza,96.85,95.34,190.96,286.07,428,640
+new-refcocog-0596,RefCOCOg (UMD),val,3178,597590,Baby giraffe to the right of its mother.,412.59,28.93,588.16,372.84,640,443
+new-refcocog-0597,RefCOCOg (UMD),val,275917,642651,The skateboard being held by the man in the white shirt.,191.55,336.18,443.67,524.92,640,531
+new-refcocog-0598,RefCOCOg (UMD),val,229352,425697,A guy wearing a blue shirt about to catch a yellor frizbee.,132.42,101.55,481.69,415.33,640,427
+new-refcocog-0599,RefCOCOg (UMD),val,412896,1399952,chicken walking the beach,51.78,185.53,158.78,352.36,640,512
+new-refcocog-0600,RefCOCOg (UMD),val,5288,457595,The right arm of the sleeping man.,340.54,0.86,508.11,136.00,640,480

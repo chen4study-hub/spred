@@ -1,0 +1,445 @@
+where,quantity,paper,decimals
+Table 2,lists|training items,2000,0
+Table 2,lists|replication items,1200,0
+Table 2,lists|replication images,901,0
+Table 2,lists|held-out items,1200,0
+Table 2,lists|held-out images,983,0
+Table 2,"lists|new items, RefCOCO testB",552,0
+Table 2,"lists|new items, RefCOCOg val",600,0
+Table 2,lists|RefCOCO+ items,1200,0
+Table 2,"lists|objects365 items scored, smallest",996,0
+Table 2,"lists|objects365 items scored, largest",1000,0
+Table 2,"lists|vrsbench items scored, smallest",997,0
+Table 2,"lists|vrsbench items scored, largest",1000,0
+Table 5,ablation|Qwen2.5-VL-3B|probe only|0,0.813,3
+Table 5,ablation|Qwen2.5-VL-3B|probe only|1,0.829,3
+Table 5,ablation|Qwen2.5-VL-3B|residual only|0,0.740,3
+Table 5,ablation|Qwen2.5-VL-3B|residual only|1,0.875,3
+Table 5,ablation|Qwen2.5-VL-3B|SPRED|0,0.831,3
+Table 5,ablation|Qwen2.5-VL-3B|SPRED|1,0.885,3
+Table 5,ablation|Qwen2.5-VL-3B|SPRED - probe only|0,0.018,3
+Table 5,ablation|Qwen2.5-VL-3B|SPRED - probe only|1,0.056,3
+Table 5,ablation|Qwen2.5-VL-3B|SPRED - residual only|0,0.091,3
+Table 5,ablation|Qwen2.5-VL-3B|SPRED - residual only|1,0.010,3
+Table 5,ablation|Qwen2.5-VL-3B|probe: two - shift teacher|0,0.016,3
+Table 5,ablation|Qwen2.5-VL-3B|probe: two - shift teacher|1,0.008,3
+Table 5,ablation|Qwen2.5-VL-3B|probe: two - sampling teacher|0,0.013,3
+Table 5,ablation|Qwen2.5-VL-3B|probe: two - sampling teacher|1,-0.019,3
+Table 5,ablation|Qwen2.5-VL-7B|probe only|0,0.833,3
+Table 5,ablation|Qwen2.5-VL-7B|probe only|1,0.818,3
+Table 5,ablation|Qwen2.5-VL-7B|residual only|0,0.725,3
+Table 5,ablation|Qwen2.5-VL-7B|residual only|1,0.833,3
+Table 5,ablation|Qwen2.5-VL-7B|SPRED|0,0.848,3
+Table 5,ablation|Qwen2.5-VL-7B|SPRED|1,0.866,3
+Table 5,ablation|Qwen2.5-VL-7B|SPRED - probe only|0,0.016,3
+Table 5,ablation|Qwen2.5-VL-7B|SPRED - probe only|1,0.049,3
+Table 5,ablation|Qwen2.5-VL-7B|SPRED - residual only|0,0.123,3
+Table 5,ablation|Qwen2.5-VL-7B|SPRED - residual only|1,0.033,3
+Table 5,ablation|Qwen2.5-VL-7B|probe: two - shift teacher|0,0.027,3
+Table 5,ablation|Qwen2.5-VL-7B|probe: two - shift teacher|1,-0.034,3
+Table 5,ablation|Qwen2.5-VL-7B|probe: two - sampling teacher|0,0.031,3
+Table 5,ablation|Qwen2.5-VL-7B|probe: two - sampling teacher|1,-0.040,3
+Table 5,ablation|Qwen3-VL-4B|probe only|0,0.831,3
+Table 5,ablation|Qwen3-VL-4B|probe only|1,0.805,3
+Table 5,ablation|Qwen3-VL-4B|residual only|0,0.773,3
+Table 5,ablation|Qwen3-VL-4B|residual only|1,0.867,3
+Table 5,ablation|Qwen3-VL-4B|SPRED|0,0.858,3
+Table 5,ablation|Qwen3-VL-4B|SPRED|1,0.867,3
+Table 5,ablation|Qwen3-VL-4B|SPRED - probe only|0,0.027,3
+Table 5,ablation|Qwen3-VL-4B|SPRED - probe only|1,0.063,3
+Table 5,ablation|Qwen3-VL-4B|SPRED - residual only|0,0.086,3
+Table 5,ablation|Qwen3-VL-4B|SPRED - residual only|1,-0.000,3
+Table 5,ablation|Qwen3-VL-4B|probe: two - shift teacher|0,0.028,3
+Table 5,ablation|Qwen3-VL-4B|probe: two - shift teacher|1,-0.017,3
+Table 5,ablation|Qwen3-VL-4B|probe: two - sampling teacher|0,0.007,3
+Table 5,ablation|Qwen3-VL-4B|probe: two - sampling teacher|1,0.022,3
+Table 4,table4|bicr|Qwen2.5-VL-3B|0,0.727,3
+Table 4,table4|bicr|Qwen2.5-VL-3B|1,0.787,3
+Table 4,table4|top fifth|Qwen2.5-VL-3B|SPRED|0,0.684,3
+Table 4,table4|top fifth|Qwen2.5-VL-3B|SPRED|1,4.62,2
+Table 4,table4|bicr|Qwen2.5-VL-7B|0,0.745,3
+Table 4,table4|bicr|Qwen2.5-VL-7B|1,0.774,3
+Table 4,table4|top fifth|Qwen2.5-VL-7B|SPRED|0,0.527,3
+Table 4,table4|top fifth|Qwen2.5-VL-7B|SPRED|1,8.28,2
+Table 4,table4|bicr|Qwen3-VL-4B|0,0.770,3
+Table 4,table4|bicr|Qwen3-VL-4B|1,0.819,3
+Table 4,table4|top fifth|Qwen3-VL-4B|SPRED|0,0.653,3
+Table 4,table4|top fifth|Qwen3-VL-4B|SPRED|1,5.11,2
+Table 4,table4|bicr|Qwen3-VL-8B|0,0.753,3
+Table 4,table4|bicr|Qwen3-VL-8B|1,0.826,3
+Table 4,table4|top fifth|Qwen3-VL-8B|SPRED|0,0.650,3
+Table 4,table4|top fifth|Qwen3-VL-8B|SPRED|1,6.15,2
+Table 4,table4|bicr|InternVL2.5-8B-MPO|0,0.684,3
+Table 4,table4|bicr|InternVL2.5-8B-MPO|1,0.639,3
+Table 4,table4|top fifth|InternVL2.5-8B-MPO|SPRED|0,0.511,3
+Table 4,table4|top fifth|InternVL2.5-8B-MPO|SPRED|1,10.43,2
+Table 4,table4|bicr|LLaVA-1.5-7B|0,0.765,3
+Table 4,table4|bicr|LLaVA-1.5-7B|1,0.832,3
+Table 4,table4|top fifth|LLaVA-1.5-7B|SPRED|0,0.614,3
+Table 4,table4|top fifth|LLaVA-1.5-7B|SPRED|1,3.08,2
+Table 4 caption,table4|mean SPRED|0,0.607,3
+Table 4 caption,table4|mean SPRED|1,6.28,2
+Table 4 caption,table4|mean probe alone|0,0.505,3
+Table 4 caption,table4|mean probe alone|1,7.59,2
+Table 4 caption,table4|mean random|0,0.200,3
+Table 4 caption,table4|mean random|1,18.37,2
+Section 5.2,margin|replication|probe alone|models within 0.03,4,0
+Section 5.2,margin|replication|SPRED|models within 0.03,6,0
+Section 5.2,margin|heldout|probe alone|models within 0.03,4,0
+Section 5.2,margin|heldout|SPRED|models within 0.03,4,0
+Figure 3,second-answer|new-items|Qwen2.5-VL-3B|changed,132,0
+Figure 3,second-answer|new-items|Qwen2.5-VL-3B|slope|0,1.086,3
+Figure 3,second-answer|new-items|Qwen2.5-VL-3B|slope|1,0.881,3
+Figure 3,second-answer|new-items|Qwen2.5-VL-3B|slope|2,1.276,3
+Figure 3,second-answer|new-items|Qwen2.5-VL-3B|permuted|0,0.018,3
+Figure 3,second-answer|new-items|Qwen2.5-VL-3B|permuted|1,-0.175,3
+Figure 3,second-answer|new-items|Qwen2.5-VL-3B|permuted|2,0.205,3
+Figure 3,second-answer|new-items|Qwen2.5-VL-7B|changed,109,0
+Figure 3,second-answer|new-items|Qwen2.5-VL-7B|slope|0,0.947,3
+Figure 3,second-answer|new-items|Qwen2.5-VL-7B|slope|1,0.765,3
+Figure 3,second-answer|new-items|Qwen2.5-VL-7B|slope|2,1.117,3
+Figure 3,second-answer|new-items|Qwen2.5-VL-7B|permuted|0,0.016,3
+Figure 3,second-answer|new-items|Qwen2.5-VL-7B|permuted|1,-0.148,3
+Figure 3,second-answer|new-items|Qwen2.5-VL-7B|permuted|2,0.191,3
+Figure 3,second-answer|new-items|Qwen3-VL-4B|changed,45,0
+Figure 3,second-answer|new-items|Qwen3-VL-4B|slope|0,1.022,3
+Figure 3,second-answer|new-items|Qwen3-VL-4B|slope|1,0.754,3
+Figure 3,second-answer|new-items|Qwen3-VL-4B|slope|2,1.293,3
+Figure 3,second-answer|new-items|Qwen3-VL-4B|permuted|0,0.083,3
+Figure 3,second-answer|new-items|Qwen3-VL-4B|permuted|1,-0.159,3
+Figure 3,second-answer|new-items|Qwen3-VL-4B|permuted|2,0.323,3
+Figure 3,second-answer|new-items|Qwen3-VL-8B|changed,41,0
+Figure 3,second-answer|new-items|Qwen3-VL-8B|slope|0,1.251,3
+Figure 3,second-answer|new-items|Qwen3-VL-8B|slope|1,0.859,3
+Figure 3,second-answer|new-items|Qwen3-VL-8B|slope|2,1.583,3
+Figure 3,second-answer|new-items|Qwen3-VL-8B|permuted|0,0.017,3
+Figure 3,second-answer|new-items|Qwen3-VL-8B|permuted|1,-0.282,3
+Figure 3,second-answer|new-items|Qwen3-VL-8B|permuted|2,0.331,3
+Figure 3,second-answer|new-items|InternVL2.5-8B-MPO|changed,103,0
+Figure 3,second-answer|new-items|InternVL2.5-8B-MPO|slope|0,0.942,3
+Figure 3,second-answer|new-items|InternVL2.5-8B-MPO|slope|1,0.792,3
+Figure 3,second-answer|new-items|InternVL2.5-8B-MPO|slope|2,1.084,3
+Figure 3,second-answer|new-items|InternVL2.5-8B-MPO|permuted|0,-0.001,3
+Figure 3,second-answer|new-items|InternVL2.5-8B-MPO|permuted|1,-0.139,3
+Figure 3,second-answer|new-items|InternVL2.5-8B-MPO|permuted|2,0.139,3
+Figure 3,second-answer|new-items|LLaVA-1.5-7B|changed,249,0
+Figure 3,second-answer|new-items|LLaVA-1.5-7B|slope|0,0.678,3
+Figure 3,second-answer|new-items|LLaVA-1.5-7B|slope|1,0.518,3
+Figure 3,second-answer|new-items|LLaVA-1.5-7B|slope|2,0.838,3
+Figure 3,second-answer|new-items|LLaVA-1.5-7B|permuted|0,-0.046,3
+Figure 3,second-answer|new-items|LLaVA-1.5-7B|permuted|1,-0.144,3
+Figure 3,second-answer|new-items|LLaVA-1.5-7B|permuted|2,0.054,3
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-3B|changed,144,0
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-3B|slope|0,1.197,3
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-3B|slope|1,0.999,3
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-3B|slope|2,1.394,3
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-3B|permuted|0,-0.001,3
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-3B|permuted|1,-0.165,3
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-3B|permuted|2,0.175,3
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-7B|changed,93,0
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-7B|slope|0,1.063,3
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-7B|slope|1,0.767,3
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-7B|slope|2,1.373,3
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-7B|permuted|0,-0.001,3
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-7B|permuted|1,-0.248,3
+Figure 3,second-answer|refcocoplus|Qwen2.5-VL-7B|permuted|2,0.229,3
+Figure 3,second-answer|refcocoplus|InternVL2.5-8B-MPO|changed,95,0
+Figure 3,second-answer|refcocoplus|InternVL2.5-8B-MPO|slope|0,1.063,3
+Figure 3,second-answer|refcocoplus|InternVL2.5-8B-MPO|slope|1,0.790,3
+Figure 3,second-answer|refcocoplus|InternVL2.5-8B-MPO|slope|2,1.308,3
+Figure 3,second-answer|refcocoplus|InternVL2.5-8B-MPO|permuted|0,0.010,3
+Figure 3,second-answer|refcocoplus|InternVL2.5-8B-MPO|permuted|1,-0.201,3
+Figure 3,second-answer|refcocoplus|InternVL2.5-8B-MPO|permuted|2,0.191,3
+Figure 3,second-answer|heldout|Qwen2.5-VL-3B|changed,138,0
+Figure 3,second-answer|heldout|Qwen2.5-VL-3B|slope|0,1.013,3
+Figure 3,second-answer|heldout|Qwen2.5-VL-3B|slope|1,0.790,3
+Figure 3,second-answer|heldout|Qwen2.5-VL-3B|slope|2,1.223,3
+Figure 3,second-answer|heldout|Qwen2.5-VL-3B|permuted|0,-0.016,3
+Figure 3,second-answer|heldout|Qwen2.5-VL-3B|permuted|1,-0.135,3
+Figure 3,second-answer|heldout|Qwen2.5-VL-3B|permuted|2,0.141,3
+Figure 3,second-answer|heldout|Qwen2.5-VL-7B|changed,109,0
+Figure 3,second-answer|heldout|Qwen2.5-VL-7B|slope|0,1.006,3
+Figure 3,second-answer|heldout|Qwen2.5-VL-7B|slope|1,0.798,3
+Figure 3,second-answer|heldout|Qwen2.5-VL-7B|slope|2,1.201,3
+Figure 3,second-answer|heldout|Qwen2.5-VL-7B|permuted|0,0.004,3
+Figure 3,second-answer|heldout|Qwen2.5-VL-7B|permuted|1,-0.198,3
+Figure 3,second-answer|heldout|Qwen2.5-VL-7B|permuted|2,0.187,3
+Figure 3,second-answer|heldout|Qwen3-VL-4B|changed,53,0
+Figure 3,second-answer|heldout|Qwen3-VL-4B|slope|0,1.100,3
+Figure 3,second-answer|heldout|Qwen3-VL-4B|slope|1,0.796,3
+Figure 3,second-answer|heldout|Qwen3-VL-4B|slope|2,1.417,3
+Figure 3,second-answer|heldout|Qwen3-VL-4B|permuted|0,0.085,3
+Figure 3,second-answer|heldout|Qwen3-VL-4B|permuted|1,-0.151,3
+Figure 3,second-answer|heldout|Qwen3-VL-4B|permuted|2,0.292,3
+Figure 3,second-answer|heldout|Qwen3-VL-8B|changed,39,0
+Figure 3,second-answer|heldout|Qwen3-VL-8B|slope|0,1.169,3
+Figure 3,second-answer|heldout|Qwen3-VL-8B|slope|1,0.839,3
+Figure 3,second-answer|heldout|Qwen3-VL-8B|slope|2,1.531,3
+Figure 3,second-answer|heldout|Qwen3-VL-8B|permuted|0,-0.016,3
+Figure 3,second-answer|heldout|Qwen3-VL-8B|permuted|1,-0.313,3
+Figure 3,second-answer|heldout|Qwen3-VL-8B|permuted|2,0.256,3
+Figure 3,second-answer|heldout|InternVL2.5-8B-MPO|changed,90,0
+Figure 3,second-answer|heldout|InternVL2.5-8B-MPO|slope|0,1.054,3
+Figure 3,second-answer|heldout|InternVL2.5-8B-MPO|slope|1,0.791,3
+Figure 3,second-answer|heldout|InternVL2.5-8B-MPO|slope|2,1.292,3
+Figure 3,second-answer|heldout|InternVL2.5-8B-MPO|permuted|0,0.052,3
+Figure 3,second-answer|heldout|InternVL2.5-8B-MPO|permuted|1,-0.120,3
+Figure 3,second-answer|heldout|InternVL2.5-8B-MPO|permuted|2,0.228,3
+Figure 3,second-answer|heldout|LLaVA-1.5-7B|changed,271,0
+Figure 3,second-answer|heldout|LLaVA-1.5-7B|slope|0,0.502,3
+Figure 3,second-answer|heldout|LLaVA-1.5-7B|slope|1,0.322,3
+Figure 3,second-answer|heldout|LLaVA-1.5-7B|slope|2,0.708,3
+Figure 3,second-answer|heldout|LLaVA-1.5-7B|permuted|0,-0.073,3
+Figure 3,second-answer|heldout|LLaVA-1.5-7B|permuted|1,-0.179,3
+Figure 3,second-answer|heldout|LLaVA-1.5-7B|permuted|2,0.022,3
+Figure 3,second-answer|objects365|Qwen2.5-VL-3B|changed,190,0
+Figure 3,second-answer|objects365|Qwen2.5-VL-3B|slope|0,0.542,3
+Figure 3,second-answer|objects365|Qwen2.5-VL-3B|slope|1,0.365,3
+Figure 3,second-answer|objects365|Qwen2.5-VL-3B|slope|2,0.693,3
+Figure 3,second-answer|objects365|Qwen2.5-VL-3B|permuted|0,-0.037,3
+Figure 3,second-answer|objects365|Qwen2.5-VL-3B|permuted|1,-0.144,3
+Figure 3,second-answer|objects365|Qwen2.5-VL-3B|permuted|2,0.059,3
+Figure 3,second-answer|objects365|Qwen2.5-VL-7B|changed,134,0
+Figure 3,second-answer|objects365|Qwen2.5-VL-7B|slope|0,0.771,3
+Figure 3,second-answer|objects365|Qwen2.5-VL-7B|slope|1,0.565,3
+Figure 3,second-answer|objects365|Qwen2.5-VL-7B|slope|2,0.993,3
+Figure 3,second-answer|objects365|Qwen2.5-VL-7B|permuted|0,0.027,3
+Figure 3,second-answer|objects365|Qwen2.5-VL-7B|permuted|1,-0.121,3
+Figure 3,second-answer|objects365|Qwen2.5-VL-7B|permuted|2,0.179,3
+Figure 3,second-answer|objects365|Qwen3-VL-4B|changed,58,0
+Figure 3,second-answer|objects365|Qwen3-VL-4B|slope|0,0.577,3
+Figure 3,second-answer|objects365|Qwen3-VL-4B|slope|1,0.266,3
+Figure 3,second-answer|objects365|Qwen3-VL-4B|slope|2,0.878,3
+Figure 3,second-answer|objects365|Qwen3-VL-4B|permuted|0,0.022,3
+Figure 3,second-answer|objects365|Qwen3-VL-4B|permuted|1,-0.157,3
+Figure 3,second-answer|objects365|Qwen3-VL-4B|permuted|2,0.187,3
+Figure 3,second-answer|replication|Qwen2.5-VL-3B|changed,139,0
+Figure 3,second-answer|replication|Qwen2.5-VL-3B|slope|0,0.976,3
+Figure 3,second-answer|replication|Qwen2.5-VL-3B|slope|1,0.721,3
+Figure 3,second-answer|replication|Qwen2.5-VL-3B|slope|2,1.229,3
+Figure 3,second-answer|replication|Qwen2.5-VL-3B|permuted|0,-0.014,3
+Figure 3,second-answer|replication|Qwen2.5-VL-7B|changed,98,0
+Figure 3,second-answer|replication|Qwen2.5-VL-7B|slope|0,0.971,3
+Figure 3,second-answer|replication|Qwen2.5-VL-7B|slope|1,0.712,3
+Figure 3,second-answer|replication|Qwen2.5-VL-7B|slope|2,1.172,3
+Figure 3,second-answer|replication|Qwen2.5-VL-7B|permuted|0,0.097,3
+Figure 3,second-answer|replication|Qwen3-VL-4B|changed,49,0
+Figure 3,second-answer|replication|Qwen3-VL-4B|slope|0,1.562,3
+Figure 3,second-answer|replication|Qwen3-VL-4B|slope|1,1.298,3
+Figure 3,second-answer|replication|Qwen3-VL-4B|slope|2,1.829,3
+Figure 3,second-answer|replication|Qwen3-VL-4B|permuted|0,0.170,3
+Figure 3,second-answer|replication|Qwen3-VL-8B|changed,45,0
+Figure 3,second-answer|replication|Qwen3-VL-8B|slope|0,1.482,3
+Figure 3,second-answer|replication|Qwen3-VL-8B|slope|1,1.236,3
+Figure 3,second-answer|replication|Qwen3-VL-8B|slope|2,1.771,3
+Figure 3,second-answer|replication|Qwen3-VL-8B|permuted|0,0.018,3
+Figure 3,second-answer|replication|InternVL2.5-8B-MPO|changed,95,0
+Figure 3,second-answer|replication|InternVL2.5-8B-MPO|slope|0,0.942,3
+Figure 3,second-answer|replication|InternVL2.5-8B-MPO|slope|1,0.640,3
+Figure 3,second-answer|replication|InternVL2.5-8B-MPO|slope|2,1.209,3
+Figure 3,second-answer|replication|InternVL2.5-8B-MPO|permuted|0,-0.035,3
+Figure 3,second-answer|replication|LLaVA-1.5-7B|changed,266,0
+Figure 3,second-answer|replication|LLaVA-1.5-7B|slope|0,0.661,3
+Figure 3,second-answer|replication|LLaVA-1.5-7B|slope|1,0.477,3
+Figure 3,second-answer|replication|LLaVA-1.5-7B|slope|2,0.864,3
+Figure 3,second-answer|replication|LLaVA-1.5-7B|permuted|0,-0.052,3
+Figure 4,pull|new-items|Qwen2.5-VL-3B|errors,64,0
+Figure 4,pull|new-items|Qwen2.5-VL-3B|towards the annotated object|0,0.269,3
+Figure 4,pull|new-items|Qwen2.5-VL-3B|towards the annotated box of another wrong-object item|0,-0.011,3
+Figure 4,pull|new-items|Qwen2.5-VL-3B|towards the annotated object|1,0.209,3
+Figure 4,pull|new-items|Qwen2.5-VL-3B|towards the annotated box of another wrong-object item|1,-0.086,3
+Figure 4,pull|new-items|Qwen2.5-VL-3B|towards the annotated object|2,0.331,3
+Figure 4,pull|new-items|Qwen2.5-VL-3B|towards the annotated box of another wrong-object item|2,0.068,3
+Figure 4,pull|new-items|Qwen2.5-VL-7B|errors,52,0
+Figure 4,pull|new-items|Qwen2.5-VL-7B|towards the annotated object|0,0.275,3
+Figure 4,pull|new-items|Qwen2.5-VL-7B|towards the annotated box of another wrong-object item|0,0.006,3
+Figure 4,pull|new-items|Qwen2.5-VL-7B|towards the annotated object|1,0.183,3
+Figure 4,pull|new-items|Qwen2.5-VL-7B|towards the annotated box of another wrong-object item|1,-0.075,3
+Figure 4,pull|new-items|Qwen2.5-VL-7B|towards the annotated object|2,0.365,3
+Figure 4,pull|new-items|Qwen2.5-VL-7B|towards the annotated box of another wrong-object item|2,0.117,3
+Figure 4,pull|new-items|Qwen3-VL-4B|errors,51,0
+Figure 4,pull|new-items|Qwen3-VL-4B|towards the annotated object|0,0.317,3
+Figure 4,pull|new-items|Qwen3-VL-4B|towards the annotated box of another wrong-object item|0,-0.003,3
+Figure 4,pull|new-items|Qwen3-VL-4B|towards the annotated object|1,0.241,3
+Figure 4,pull|new-items|Qwen3-VL-4B|towards the annotated box of another wrong-object item|1,-0.107,3
+Figure 4,pull|new-items|Qwen3-VL-4B|towards the annotated object|2,0.390,3
+Figure 4,pull|new-items|Qwen3-VL-4B|towards the annotated box of another wrong-object item|2,0.080,3
+Figure 4,pull|new-items|Qwen3-VL-8B|errors,45,0
+Figure 4,pull|new-items|Qwen3-VL-8B|towards the annotated object|0,0.210,3
+Figure 4,pull|new-items|Qwen3-VL-8B|towards the annotated box of another wrong-object item|0,-0.007,3
+Figure 4,pull|new-items|Qwen3-VL-8B|towards the annotated object|1,0.115,3
+Figure 4,pull|new-items|Qwen3-VL-8B|towards the annotated box of another wrong-object item|1,-0.098,3
+Figure 4,pull|new-items|Qwen3-VL-8B|towards the annotated object|2,0.314,3
+Figure 4,pull|new-items|Qwen3-VL-8B|towards the annotated box of another wrong-object item|2,0.093,3
+Figure 4,pull|new-items|InternVL2.5-8B-MPO|errors,48,0
+Figure 4,pull|new-items|InternVL2.5-8B-MPO|towards the annotated object|0,0.382,3
+Figure 4,pull|new-items|InternVL2.5-8B-MPO|towards the annotated box of another wrong-object item|0,0.017,3
+Figure 4,pull|new-items|InternVL2.5-8B-MPO|towards the annotated object|1,0.286,3
+Figure 4,pull|new-items|InternVL2.5-8B-MPO|towards the annotated box of another wrong-object item|1,-0.089,3
+Figure 4,pull|new-items|InternVL2.5-8B-MPO|towards the annotated object|2,0.481,3
+Figure 4,pull|new-items|InternVL2.5-8B-MPO|towards the annotated box of another wrong-object item|2,0.124,3
+Figure 4,pull|new-items|LLaVA-1.5-7B|errors,91,0
+Figure 4,pull|new-items|LLaVA-1.5-7B|towards the annotated object|0,0.314,3
+Figure 4,pull|new-items|LLaVA-1.5-7B|towards the annotated box of another wrong-object item|0,0.016,3
+Figure 4,pull|new-items|LLaVA-1.5-7B|towards the annotated object|1,0.244,3
+Figure 4,pull|new-items|LLaVA-1.5-7B|towards the annotated box of another wrong-object item|1,-0.065,3
+Figure 4,pull|new-items|LLaVA-1.5-7B|towards the annotated object|2,0.387,3
+Figure 4,pull|new-items|LLaVA-1.5-7B|towards the annotated box of another wrong-object item|2,0.085,3
+Figure 4,pull|heldout|Qwen2.5-VL-3B|errors,68,0
+Figure 4,pull|heldout|Qwen2.5-VL-3B|towards the annotated object|0,0.251,3
+Figure 4,pull|heldout|Qwen2.5-VL-3B|towards the annotated box of another wrong-object item|0,-0.007,3
+Figure 4,pull|heldout|Qwen2.5-VL-3B|towards the annotated object|1,0.177,3
+Figure 4,pull|heldout|Qwen2.5-VL-3B|towards the annotated box of another wrong-object item|1,-0.082,3
+Figure 4,pull|heldout|Qwen2.5-VL-3B|towards the annotated object|2,0.326,3
+Figure 4,pull|heldout|Qwen2.5-VL-3B|towards the annotated box of another wrong-object item|2,0.071,3
+Figure 4,pull|heldout|Qwen2.5-VL-7B|errors,52,0
+Figure 4,pull|heldout|Qwen2.5-VL-7B|towards the annotated object|0,0.164,3
+Figure 4,pull|heldout|Qwen2.5-VL-7B|towards the annotated box of another wrong-object item|0,-0.001,3
+Figure 4,pull|heldout|Qwen2.5-VL-7B|towards the annotated object|1,0.080,3
+Figure 4,pull|heldout|Qwen2.5-VL-7B|towards the annotated box of another wrong-object item|1,-0.091,3
+Figure 4,pull|heldout|Qwen2.5-VL-7B|towards the annotated object|2,0.249,3
+Figure 4,pull|heldout|Qwen2.5-VL-7B|towards the annotated box of another wrong-object item|2,0.092,3
+Figure 4,pull|heldout|Qwen3-VL-4B|errors,64,0
+Figure 4,pull|heldout|Qwen3-VL-4B|towards the annotated object|0,0.192,3
+Figure 4,pull|heldout|Qwen3-VL-4B|towards the annotated box of another wrong-object item|0,-0.006,3
+Figure 4,pull|heldout|Qwen3-VL-4B|towards the annotated object|1,0.125,3
+Figure 4,pull|heldout|Qwen3-VL-4B|towards the annotated box of another wrong-object item|1,-0.076,3
+Figure 4,pull|heldout|Qwen3-VL-4B|towards the annotated object|2,0.260,3
+Figure 4,pull|heldout|Qwen3-VL-4B|towards the annotated box of another wrong-object item|2,0.048,3
+Figure 4,pull|heldout|Qwen3-VL-8B|errors,57,0
+Figure 4,pull|heldout|Qwen3-VL-8B|towards the annotated object|0,0.167,3
+Figure 4,pull|heldout|Qwen3-VL-8B|towards the annotated box of another wrong-object item|0,-0.006,3
+Figure 4,pull|heldout|Qwen3-VL-8B|towards the annotated object|1,0.097,3
+Figure 4,pull|heldout|Qwen3-VL-8B|towards the annotated box of another wrong-object item|1,-0.087,3
+Figure 4,pull|heldout|Qwen3-VL-8B|towards the annotated object|2,0.242,3
+Figure 4,pull|heldout|Qwen3-VL-8B|towards the annotated box of another wrong-object item|2,0.071,3
+Figure 4,pull|heldout|InternVL2.5-8B-MPO|errors,63,0
+Figure 4,pull|heldout|InternVL2.5-8B-MPO|towards the annotated object|0,0.279,3
+Figure 4,pull|heldout|InternVL2.5-8B-MPO|towards the annotated box of another wrong-object item|0,0.026,3
+Figure 4,pull|heldout|InternVL2.5-8B-MPO|towards the annotated object|1,0.202,3
+Figure 4,pull|heldout|InternVL2.5-8B-MPO|towards the annotated box of another wrong-object item|1,-0.049,3
+Figure 4,pull|heldout|InternVL2.5-8B-MPO|towards the annotated object|2,0.354,3
+Figure 4,pull|heldout|InternVL2.5-8B-MPO|towards the annotated box of another wrong-object item|2,0.102,3
+Figure 4,pull|heldout|LLaVA-1.5-7B|errors,121,0
+Figure 4,pull|heldout|LLaVA-1.5-7B|towards the annotated object|0,0.286,3
+Figure 4,pull|heldout|LLaVA-1.5-7B|towards the annotated box of another wrong-object item|0,0.036,3
+Figure 4,pull|heldout|LLaVA-1.5-7B|towards the annotated object|1,0.215,3
+Figure 4,pull|heldout|LLaVA-1.5-7B|towards the annotated box of another wrong-object item|1,-0.030,3
+Figure 4,pull|heldout|LLaVA-1.5-7B|towards the annotated object|2,0.358,3
+Figure 4,pull|heldout|LLaVA-1.5-7B|towards the annotated box of another wrong-object item|2,0.104,3
+Figure 4,pull|replication|Qwen2.5-VL-3B|errors,76,0
+Figure 4,pull|replication|Qwen2.5-VL-3B|towards the annotated object|0,0.214,3
+Figure 4,pull|replication|Qwen2.5-VL-3B|towards the annotated box of another wrong-object item|0,0.017,3
+Figure 4,pull|replication|Qwen2.5-VL-3B|towards the annotated object|1,0.149,3
+Figure 4,pull|replication|Qwen2.5-VL-3B|towards the annotated box of another wrong-object item|1,-0.056,3
+Figure 4,pull|replication|Qwen2.5-VL-3B|towards the annotated object|2,0.277,3
+Figure 4,pull|replication|Qwen2.5-VL-3B|towards the annotated box of another wrong-object item|2,0.082,3
+Figure 4,pull|replication|Qwen2.5-VL-7B|errors,55,0
+Figure 4,pull|replication|Qwen2.5-VL-7B|towards the annotated object|0,0.245,3
+Figure 4,pull|replication|Qwen2.5-VL-7B|towards the annotated box of another wrong-object item|0,0.002,3
+Figure 4,pull|replication|Qwen2.5-VL-7B|towards the annotated object|1,0.168,3
+Figure 4,pull|replication|Qwen2.5-VL-7B|towards the annotated box of another wrong-object item|1,-0.100,3
+Figure 4,pull|replication|Qwen2.5-VL-7B|towards the annotated object|2,0.321,3
+Figure 4,pull|replication|Qwen2.5-VL-7B|towards the annotated box of another wrong-object item|2,0.102,3
+Figure 4,pull|replication|Qwen3-VL-4B|errors,72,0
+Figure 4,pull|replication|Qwen3-VL-4B|towards the annotated object|0,0.223,3
+Figure 4,pull|replication|Qwen3-VL-4B|towards the annotated box of another wrong-object item|0,0.017,3
+Figure 4,pull|replication|Qwen3-VL-4B|towards the annotated object|1,0.162,3
+Figure 4,pull|replication|Qwen3-VL-4B|towards the annotated box of another wrong-object item|1,-0.057,3
+Figure 4,pull|replication|Qwen3-VL-4B|towards the annotated object|2,0.285,3
+Figure 4,pull|replication|Qwen3-VL-4B|towards the annotated box of another wrong-object item|2,0.080,3
+Figure 4,pull|replication|Qwen3-VL-8B|errors,60,0
+Figure 4,pull|replication|Qwen3-VL-8B|towards the annotated object|0,0.192,3
+Figure 4,pull|replication|Qwen3-VL-8B|towards the annotated box of another wrong-object item|0,0.000,3
+Figure 4,pull|replication|Qwen3-VL-8B|towards the annotated object|1,0.096,3
+Figure 4,pull|replication|Qwen3-VL-8B|towards the annotated box of another wrong-object item|1,-0.081,3
+Figure 4,pull|replication|Qwen3-VL-8B|towards the annotated object|2,0.284,3
+Figure 4,pull|replication|Qwen3-VL-8B|towards the annotated box of another wrong-object item|2,0.083,3
+Figure 4,pull|replication|InternVL2.5-8B-MPO|errors,45,0
+Figure 4,pull|replication|InternVL2.5-8B-MPO|towards the annotated object|0,0.264,3
+Figure 4,pull|replication|InternVL2.5-8B-MPO|towards the annotated box of another wrong-object item|0,0.019,3
+Figure 4,pull|replication|InternVL2.5-8B-MPO|towards the annotated object|1,0.177,3
+Figure 4,pull|replication|InternVL2.5-8B-MPO|towards the annotated box of another wrong-object item|1,-0.095,3
+Figure 4,pull|replication|InternVL2.5-8B-MPO|towards the annotated object|2,0.347,3
+Figure 4,pull|replication|InternVL2.5-8B-MPO|towards the annotated box of another wrong-object item|2,0.105,3
+Figure 4,pull|replication|LLaVA-1.5-7B|errors,127,0
+Figure 4,pull|replication|LLaVA-1.5-7B|towards the annotated object|0,0.313,3
+Figure 4,pull|replication|LLaVA-1.5-7B|towards the annotated box of another wrong-object item|0,0.049,3
+Figure 4,pull|replication|LLaVA-1.5-7B|towards the annotated object|1,0.248,3
+Figure 4,pull|replication|LLaVA-1.5-7B|towards the annotated box of another wrong-object item|1,-0.015,3
+Figure 4,pull|replication|LLaVA-1.5-7B|towards the annotated object|2,0.375,3
+Figure 4,pull|replication|LLaVA-1.5-7B|towards the annotated box of another wrong-object item|2,0.118,3
+Figure 4,pull|same image|new-items+heldout|towards the annotated object|0,0.303,3
+Figure 4,pull|same image|new-items+heldout|towards another annotated object of the image|0,-0.034,3
+Figure 4,pull|same image|new-items+heldout|towards the annotated object|1,0.241,3
+Figure 4,pull|same image|new-items+heldout|towards another annotated object of the image|1,-0.094,3
+Figure 4,pull|same image|new-items+heldout|towards the annotated object|2,0.376,3
+Figure 4,pull|same image|new-items+heldout|towards another annotated object of the image|2,0.019,3
+Figure 4,pull|same class|new-items|towards the annotated object|0,0.293,3
+Figure 4,pull|same class|new-items|towards the nearest same-class object|0,-0.009,3
+Figure 4,pull|same class|new-items|towards the annotated object|1,0.240,3
+Figure 4,pull|same class|new-items|towards the nearest same-class object|1,-0.070,3
+Figure 4,pull|same class|new-items|towards the annotated object|2,0.357,3
+Figure 4,pull|same class|new-items|towards the nearest same-class object|2,0.053,3
+Figure 4,pull|same class|heldout|towards the annotated object|0,0.220,3
+Figure 4,pull|same class|heldout|towards the nearest same-class object|0,0.028,3
+Figure 4,pull|same class|heldout|towards the annotated object|1,0.178,3
+Figure 4,pull|same class|heldout|towards the nearest same-class object|1,-0.011,3
+Figure 4,pull|same class|heldout|towards the annotated object|2,0.268,3
+Figure 4,pull|same class|heldout|towards the nearest same-class object|2,0.070,3
+Figure 4,pull|same class|replication|towards the annotated object|0,0.253,3
+Figure 4,pull|same class|replication|towards the nearest same-class object|0,0.064,3
+Figure 4,pull|same class|replication|towards the annotated object|1,0.211,3
+Figure 4,pull|same class|replication|towards the nearest same-class object|1,0.011,3
+Figure 4,pull|same class|replication|towards the annotated object|2,0.304,3
+Figure 4,pull|same class|replication|towards the nearest same-class object|2,0.116,3
+Table S9.2,table4|bicr heldout|Qwen2.5-VL-3B|all errors,0.746,3
+Table S9.2,table4|bicr heldout|Qwen2.5-VL-3B|wrong object,0.778,3
+Table S9.2,table4|bicr heldout|Qwen2.5-VL-3B|detector - bicr,0.091,3
+Table S9.2,"table4|bicr heldout|Qwen2.5-VL-3B|bicr + residual - bicr, wrong object",0.090,3
+Table S9.2,table4|bicr heldout|Qwen2.5-VL-7B|all errors,0.747,3
+Table S9.2,table4|bicr heldout|Qwen2.5-VL-7B|wrong object,0.802,3
+Table S9.2,table4|bicr heldout|Qwen2.5-VL-7B|detector - bicr,0.018,3
+Table S9.2,"table4|bicr heldout|Qwen2.5-VL-7B|bicr + residual - bicr, wrong object",0.030,3
+Table S9.2,table4|bicr heldout|Qwen3-VL-4B|all errors,0.794,3
+Table S9.2,table4|bicr heldout|Qwen3-VL-4B|wrong object,0.806,3
+Table S9.2,table4|bicr heldout|Qwen3-VL-4B|detector - bicr,0.022,3
+Table S9.2,"table4|bicr heldout|Qwen3-VL-4B|bicr + residual - bicr, wrong object",0.066,3
+Table S9.2,table4|bicr heldout|Qwen3-VL-8B|all errors,0.770,3
+Table S9.2,table4|bicr heldout|Qwen3-VL-8B|wrong object,0.772,3
+Table S9.2,table4|bicr heldout|Qwen3-VL-8B|detector - bicr,0.052,3
+Table S9.2,"table4|bicr heldout|Qwen3-VL-8B|bicr + residual - bicr, wrong object",0.045,3
+Table S9.2,table4|bicr heldout|InternVL2.5-8B-MPO|all errors,0.725,3
+Table S9.2,table4|bicr heldout|InternVL2.5-8B-MPO|wrong object,0.705,3
+Table S9.2,table4|bicr heldout|InternVL2.5-8B-MPO|detector - bicr,0.104,3
+Table S9.2,"table4|bicr heldout|InternVL2.5-8B-MPO|bicr + residual - bicr, wrong object",0.116,3
+Table S9.2,table4|bicr heldout|LLaVA-1.5-7B|all errors,0.742,3
+Table S9.2,table4|bicr heldout|LLaVA-1.5-7B|wrong object,0.814,3
+Table S9.2,table4|bicr heldout|LLaVA-1.5-7B|detector - bicr,0.038,3
+Table S9.2,"table4|bicr heldout|LLaVA-1.5-7B|bicr + residual - bicr, wrong object",0.045,3
+Section 7,narrow|sigma|RefCOCO|min,0.069,3
+Section 7,narrow|sigma|RefCOCO|max,0.081,3
+Section 3.6 (sigma larger on Objects365),narrow|sigma|Objects365|min,0.100,3
+Section 3.6 (sigma larger on Objects365),narrow|sigma|Objects365|max,0.116,3
+Section 3.6 (sigma larger on remote-sensing images),narrow|sigma|VRSBench|min,0.124,3
+Section 3.6 (sigma larger on remote-sensing images),narrow|sigma|VRSBench|max,0.146,3
+Section 3.6,narrow|share|heldout|max,0.015,3
+"Section 3.6 (RefCOCO family, at most)",narrow|share|new-items|max,0.010,3
+Section 3.6; Section 7,narrow|share|objects365|min,0.599,3
+Section 3.6; Section 7,narrow|share|objects365|max,0.665,3
+Section 7,narrow|share|vrsbench|min,0.543,3
+Section 7,narrow|share|vrsbench|max,0.590,3
+Section S7,narrow|share|vrsbench|Qwen2.5-VL-3B,0.543,3
+Section S7,narrow|share|vrsbench|Qwen3-VL-4B,0.590,3
+Introduction; Section 6.3,instances|share percent,72.6,1
+Section 6.3,instances|SPRED minus probe,0.048,3
+Section 3.3,readout-accuracy|read-out|min,0.391,3
+Section 3.3,readout-accuracy|read-out|max,0.467,3
+Section 3.3,readout-accuracy|written|min,0.853,3
+Section 3.3,readout-accuracy|written|max,0.876,3
+Section 7 (limitations),domains|auroc|objects365|min,0.692,3
+Section 7 (limitations),domains|auroc|objects365|max,0.762,3
+Section 7 (limitations),domains|auroc|vrsbench|min,0.752,3
+Section 7 (limitations),domains|auroc|vrsbench|max,0.784,3
+Section 3.6,domains|width strata|r < 2|0,0.013,3
+Section 3.6,domains|width strata|r >= 2|0,0.005,3

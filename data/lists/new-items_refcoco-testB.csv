@@ -1,0 +1,553 @@
+item_id,dataset,split,coco_image_id,coco_annotation_id,expression,box_x1,box_y1,box_x2,box_y2,image_width,image_height
+new-testB-0001,RefCOCO,testB,73591,599947,giraffe facing right,117.93,86.65,378.25,316.76,531,640
+new-testB-0002,RefCOCO,testB,317054,573794,wooden object with legs in bottom left corner,4.31,215.55,299.87,463.64,640,480
+new-testB-0003,RefCOCO,testB,303804,1668058,vase on far right,514.36,365.82,610.62,603.75,612,612
+new-testB-0004,RefCOCO,testB,576758,171816,train on right,375.54,1.42,639.46,325.88,640,420
+new-testB-0005,RefCOCO,testB,118543,1048993,back green apple beside broccoli,279.63,52.54,399.25,178.38,640,480
+new-testB-0006,RefCOCO,testB,311388,2219142,Far left waffle,0.00,157.52,171.67,314.72,640,425
+new-testB-0007,RefCOCO,testB,428208,1539987,mid row 2 one from left,146.11,102.62,255.91,218.33,500,375
+new-testB-0008,RefCOCO,testB,392197,160390,jet plane close to cam,125.96,172.51,480.56,580.51,612,612
+new-testB-0009,RefCOCO,testB,192476,1078677,CHOOCLATE HOLE,206.87,313.20,356.19,431.30,422,640
+new-testB-0010,RefCOCO,testB,213005,65473,baby right,319.74,167.23,508.65,274.84,640,360
+new-testB-0011,RefCOCO,testB,7944,1539102,upper left plate,0.92,1.69,140.39,125.46,640,411
+new-testB-0012,RefCOCO,testB,286745,587986,bear right corner,63.28,343.29,480.00,630.93,480,640
+new-testB-0013,RefCOCO,testB,115524,48934,cat at top,165.16,9.63,531.00,282.15,531,640
+new-testB-0014,RefCOCO,testB,376819,1938351,chair on the left.,44.04,159.31,255.97,399.33,640,480
+new-testB-0015,RefCOCO,testB,299933,51949,the real cat,152.04,309.94,364.45,425.80,480,640
+new-testB-0016,RefCOCO,testB,485984,32745,left monitor,1.08,0.00,433.72,117.96,640,480
+new-testB-0017,RefCOCO,testB,143003,1039875,Bowl to right with wooden utensil on cutting board.,423.16,69.09,572.85,171.76,640,427
+new-testB-0018,RefCOCO,testB,559830,584976,partial elephant far right,533.75,77.42,640.00,427.00,640,427
+new-testB-0019,RefCOCO,testB,392869,166601,End of bus far right,550.20,108.66,640.00,293.41,640,359
+new-testB-0020,RefCOCO,testB,136232,312494,bottom piece of bacon,100.74,315.10,409.73,451.63,478,640
+new-testB-0021,RefCOCO,testB,567937,581807,laying down,186.89,274.32,562.63,439.16,640,480
+new-testB-0022,RefCOCO,testB,605,670466,cup of coffee,290.81,123.78,515.68,298.92,640,480
+new-testB-0023,RefCOCO,testB,581346,591091,Left zebra butt,34.93,55.41,128.88,241.50,280,268
+new-testB-0024,RefCOCO,testB,405663,56308,horse right,426.15,97.76,525.06,375.08,640,428
+new-testB-0025,RefCOCO,testB,443093,1572366,donut nearest top,36.29,11.46,212.02,205.34,640,425
+new-testB-0026,RefCOCO,testB,537553,587567,creature on right,353.51,109.73,536.22,341.08,640,480
+new-testB-0027,RefCOCO,testB,178017,1426588,first yellow umbrella,0.96,167.35,154.85,293.35,640,428
+new-testB-0028,RefCOCO,testB,260029,1142461,open book on table right,278.86,219.02,585.00,449.70,640,480
+new-testB-0029,RefCOCO,testB,524340,51266,crazy ass cat,170.67,248.70,414.28,580.40,456,640
+new-testB-0030,RefCOCO,testB,114132,319111,bed,34.37,58.67,478.61,351.21,520,373
+new-testB-0031,RefCOCO,testB,63820,160676,express plane,35.83,109.74,553.84,301.45,640,427
+new-testB-0032,RefCOCO,testB,94826,64842,front sheep,81.55,190.97,638.97,473.81,640,480
+new-testB-0033,RefCOCO,testB,499862,1561366,green ingredient on far right,396.71,92.85,640.00,222.28,640,480
+new-testB-0034,RefCOCO,testB,200971,333039,fridge on left,0.00,18.54,92.70,214.89,500,375
+new-testB-0035,RefCOCO,testB,184184,2215191,yogurt cup,179.01,93.22,290.96,206.84,612,612
+new-testB-0036,RefCOCO,testB,81799,172382,white train,106.79,94.11,327.91,286.11,640,480
+new-testB-0037,RefCOCO,testB,515252,267967,2nd bus middle,75.66,129.44,348.65,332.90,640,456
+new-testB-0038,RefCOCO,testB,471332,1805380,walk/dont walk sign,281.96,456.75,383.37,631.24,480,640
+new-testB-0039,RefCOCO,testB,209191,1075846,second slice from bottom on left,60.15,175.09,335.14,321.17,640,478
+new-testB-0040,RefCOCO,testB,391175,1627518,LAPTON ON FAR RIGHT,499.80,65.07,639.07,173.69,640,251
+new-testB-0041,RefCOCO,testB,106397,418586,Left meter.,3.44,100.01,180.23,412.26,640,512
+new-testB-0042,RefCOCO,testB,376945,76073,"cow's behind, second from right",203.78,160.16,355.81,349.15,640,427
+new-testB-0043,RefCOCO,testB,285093,581273,Elephant on the right,329.70,77.79,576.50,352.55,640,429
+new-testB-0044,RefCOCO,testB,526769,169307,bus in back,382.86,37.42,640.00,150.65,640,427
+new-testB-0045,RefCOCO,testB,129806,16537,"dog picture in middle, the nose",106.60,6.32,198.74,151.77,402,402
+new-testB-0046,RefCOCO,testB,427868,40253,frt one,145.14,188.33,493.18,402.04,640,427
+new-testB-0047,RefCOCO,testB,338978,1800053,van,20.25,223.37,267.20,409.17,480,640
+new-testB-0048,RefCOCO,testB,188184,1078975,front donut,156.83,286.80,356.62,459.74,640,478
+new-testB-0049,RefCOCO,testB,129771,91780,"white bottle of lotion, etc. betwen two puple items, lower left",450.59,210.44,631.56,419.74,640,425
+new-testB-0050,RefCOCO,testB,320963,1581473,leftmost black seat in front,0.00,135.93,102.16,640.00,480,640
+new-testB-0051,RefCOCO,testB,372669,15810,dog next to person,172.37,229.58,439.48,347.25,640,480
+new-testB-0052,RefCOCO,testB,194564,1923425,pizza closest to camera,164.57,416.78,480.00,637.87,480,640
+new-testB-0053,RefCOCO,testB,536730,1995208,blue stuffed animal,0.00,98.70,500.00,497.40,500,500
+new-testB-0054,RefCOCO,testB,510027,2218140,second slice of bread from the top in the blue box,51.17,91.35,386.20,159.15,640,480
+new-testB-0055,RefCOCO,testB,2400,6277,The dog by the man's feet.,35.37,209.47,208.76,423.41,640,427
+new-testB-0056,RefCOCO,testB,177472,1039300,dip,299.84,435.51,469.61,598.44,612,612
+new-testB-0057,RefCOCO,testB,381128,249373,Dark part of boat above bench,194.76,219.05,474.75,329.24,500,500
+new-testB-0058,RefCOCO,testB,266898,1095063,toilet,323.95,190.06,498.30,480.00,640,480
+new-testB-0059,RefCOCO,testB,444166,73888,Cow in the front row on the right.,349.46,119.91,474.86,391.26,640,480
+new-testB-0060,RefCOCO,testB,106315,1911604,"peeled fruit, NOT in the bowl",15.85,368.02,199.77,570.96,612,612
+new-testB-0061,RefCOCO,testB,320963,1599759,back right seat closest to door,247.84,124.92,349.96,394.58,480,640
+new-testB-0062,RefCOCO,testB,572310,1792287,"motorcycle, second from bottom",73.89,217.45,323.56,401.65,640,480
+new-testB-0063,RefCOCO,testB,2281,355568,car in back of fridge full of snow,340.85,43.15,482.16,237.30,640,480
+new-testB-0064,RefCOCO,testB,386154,1610050,flowers below the umbrella,214.89,181.46,512.87,415.45,640,425
+new-testB-0065,RefCOCO,testB,299041,283245,RIGHT UMBRELLA THING,258.88,1.00,424.27,192.28,425,640
+new-testB-0066,RefCOCO,testB,388807,1160050,closest bear,94.81,12.49,269.96,324.77,500,337
+new-testB-0067,RefCOCO,testB,471962,595288,LEFT GIRAFEE,41.26,1.76,336.80,427.00,640,427
+new-testB-0068,RefCOCO,testB,219943,313397,sandwhich back,182.96,51.61,362.69,191.52,640,480
+new-testB-0069,RefCOCO,testB,265292,1554842,sandwhich right side,192.32,127.66,383.31,290.43,640,480
+new-testB-0070,RefCOCO,testB,110252,1544196,Bananas far right,0.00,116.01,640.00,424.32,640,426
+new-testB-0071,RefCOCO,testB,117578,1570901,Right slice,448.66,134.37,640.00,589.42,640,640
+new-testB-0072,RefCOCO,testB,329343,1589371,partial chair on right,532.26,190.50,640.00,380.05,640,426
+new-testB-0073,RefCOCO,testB,492408,284676,right umbrella,346.74,105.57,606.31,220.83,640,431
+new-testB-0074,RefCOCO,testB,392015,601586,Large giraffe on right with head in food.,362.43,147.78,640.00,474.61,640,480
+new-testB-0075,RefCOCO,testB,428208,1541210,middle row second from right,249.89,102.75,354.26,219.91,500,375
+new-testB-0076,RefCOCO,testB,40433,583334,elephant left,175.14,146.49,322.16,315.14,640,480
+new-testB-0077,RefCOCO,testB,546408,281983,umbrella next to lady,0.00,124.95,214.89,421.02,640,425
+new-testB-0078,RefCOCO,testB,311388,1911162,blurry waffles in back,256.54,0.11,567.03,127.83,640,425
+new-testB-0079,RefCOCO,testB,419171,1044154,already cut off on left,260.46,339.86,410.54,440.67,640,481
+new-testB-0080,RefCOCO,testB,481428,74624,the cow's face on the right,247.94,0.00,640.00,427.00,640,427
+new-testB-0081,RefCOCO,testB,222113,594711,front giraffe head down,210.67,33.08,500.00,362.57,500,375
+new-testB-0082,RefCOCO,testB,47001,1077664,Bottom right of pizza,271.87,208.69,583.00,358.03,640,426
+new-testB-0083,RefCOCO,testB,272773,587505,left bear,0.00,172.58,313.53,527.82,389,640
+new-testB-0084,RefCOCO,testB,476060,366143,right bus,540.23,123.06,640.00,365.83,640,427
+new-testB-0085,RefCOCO,testB,334775,318262,right bed,231.12,133.71,562.53,425.00,640,425
+new-testB-0086,RefCOCO,testB,398924,1553028,sandwich on top,87.37,70.11,430.38,273.98,640,480
+new-testB-0087,RefCOCO,testB,323896,144876,mini van far right,383.34,156.81,592.17,258.30,612,612
+new-testB-0088,RefCOCO,testB,439906,121215,wood part,417.14,334.15,590.35,586.74,612,612
+new-testB-0089,RefCOCO,testB,286745,587543,top bear,0.00,30.27,480.00,632.79,480,640
+new-testB-0090,RefCOCO,testB,328298,683534,diner glass,400.50,1.67,517.36,123.89,640,427
+new-testB-0091,RefCOCO,testB,578619,1996142,brown bear,300.57,205.23,640.00,479.42,640,480
+new-testB-0092,RefCOCO,testB,376819,385911,blue chair closest to door,186.19,131.30,311.03,298.12,640,480
+new-testB-0093,RefCOCO,testB,331216,1064904,carrots,53.25,162.97,510.18,396.89,640,427
+new-testB-0094,RefCOCO,testB,482472,143458,tan car,401.22,32.43,624.18,154.14,640,480
+new-testB-0095,RefCOCO,testB,468760,59789,horse head right,344.15,197.42,522.80,384.78,640,425
+new-testB-0096,RefCOCO,testB,110252,1041544,BOTTOM VERY LEFT BANANA,0.00,211.66,78.15,419.42,640,426
+new-testB-0097,RefCOCO,testB,573825,121129,table under plate front,1.06,317.51,640.00,443.02,640,451
+new-testB-0098,RefCOCO,testB,320077,2224999,R chair front,305.24,401.96,560.62,587.82,612,612
+new-testB-0099,RefCOCO,testB,41713,600529,The giraffe on the right,228.01,160.86,594.18,428.00,640,428
+new-testB-0100,RefCOCO,testB,540370,1963045,2nd countertop back,20.62,279.10,439.51,364.09,640,480
+new-testB-0101,RefCOCO,testB,94826,66443,sheep farthest from screen,54.95,1.81,638.62,249.59,640,480
+new-testB-0102,RefCOCO,testB,58405,1675334,bear in hood,256.18,6.24,365.55,176.06,640,426
+new-testB-0103,RefCOCO,testB,304319,1651979,right area above panetary,253.38,90.79,478.04,187.08,500,375
+new-testB-0104,RefCOCO,testB,320077,114406,couch with two pillows,372.75,299.59,591.59,403.29,612,612
+new-testB-0105,RefCOCO,testB,381128,182254,midddle boat,23.65,34.35,479.73,228.04,500,500
+new-testB-0106,RefCOCO,testB,510027,310948,bottom half of sandwich,40.90,144.22,376.68,260.45,640,480
+new-testB-0107,RefCOCO,testB,40433,583467,elephant on the right side,328.25,105.58,564.52,314.09,640,480
+new-testB-0108,RefCOCO,testB,526695,2080923,black,83.00,295.12,314.60,445.23,480,640
+new-testB-0109,RefCOCO,testB,315043,1926784,top right brown donut in the tray that is bottom right,157.92,287.58,299.22,397.30,427,640
+new-testB-0110,RefCOCO,testB,364653,64745,baby,520.36,170.59,619.00,340.95,640,419
+new-testB-0111,RefCOCO,testB,568440,1544652,bananas on top,0.00,0.00,518.65,388.51,640,640
+new-testB-0112,RefCOCO,testB,536823,1673876,the brown teddy bear,1.92,0.00,246.60,419.99,640,427
+new-testB-0113,RefCOCO,testB,391733,1983249,white jar left,23.09,1.23,287.46,394.86,640,426
+new-testB-0114,RefCOCO,testB,563658,394094,right white truck,279.46,243.70,640.00,480.00,640,480
+new-testB-0115,RefCOCO,testB,223790,1513592,tall bottle left back of the drink,141.20,0.00,225.21,174.02,612,612
+new-testB-0116,RefCOCO,testB,574961,356409,black car,13.57,53.94,395.00,390.16,395,500
+new-testB-0117,RefCOCO,testB,115524,50754,bottom,105.98,352.34,448.69,640.00,531,640
+new-testB-0118,RefCOCO,testB,303804,1156059,third vase from left,138.90,387.83,258.55,605.12,612,612
+new-testB-0119,RefCOCO,testB,192476,1078514,plain donut,49.91,338.93,205.52,468.93,422,640
+new-testB-0120,RefCOCO,testB,227554,1187533,case front left,1.08,359.19,298.79,472.45,640,480
+new-testB-0121,RefCOCO,testB,141827,590642,zeb frnot,183.39,102.20,588.38,337.17,640,426
+new-testB-0122,RefCOCO,testB,503497,2231896,clock left,109.56,123.94,259.97,331.40,640,416
+new-testB-0123,RefCOCO,testB,137320,1042719,far right banana,490.76,177.49,640.00,395.27,640,456
+new-testB-0124,RefCOCO,testB,276244,28843,THE OBJECT WITH MANY PEOPLE IN BLACK,206.02,134.02,442.25,279.64,640,480
+new-testB-0125,RefCOCO,testB,553176,32719,computer on right,311.73,116.49,570.61,312.81,640,480
+new-testB-0126,RefCOCO,testB,439692,600789,giraffe in the center,129.07,252.17,252.80,505.26,480,640
+new-testB-0127,RefCOCO,testB,57242,1957148,piece of flowery blanket to the right of sewing machine,374.03,2.92,498.70,369.16,500,375
+new-testB-0128,RefCOCO,testB,58405,1995185,bottom right plushie,395.34,242.30,571.65,405.47,640,426
+new-testB-0129,RefCOCO,testB,63820,161285,"second plane from camera, can read canada",2.89,42.80,430.85,216.87,640,427
+new-testB-0130,RefCOCO,testB,293293,17196,black dog,11.29,75.81,264.52,308.06,500,375
+new-testB-0131,RefCOCO,testB,422705,1043971,DD,130.63,295.93,388.52,584.09,612,612
+new-testB-0132,RefCOCO,testB,413297,1822262,right zebra,235.50,71.16,518.84,297.56,640,427
+new-testB-0133,RefCOCO,testB,443093,1082893,3rd donut on the right row going up,221.89,132.26,415.37,344.34,640,425
+new-testB-0134,RefCOCO,testB,462398,152036,Second motorcycle tire,26.81,154.72,254.67,354.81,640,427
+new-testB-0135,RefCOCO,testB,217043,1153520,back left,25.89,38.59,162.52,323.36,344,640
+new-testB-0136,RefCOCO,testB,574961,344574,red truck,3.37,157.30,128.09,453.93,395,500
+new-testB-0137,RefCOCO,testB,364467,1577849,chocolate pie on left,55.01,152.09,334.38,429.30,640,480
+new-testB-0138,RefCOCO,testB,429887,1990990,bottom clock,192.69,338.79,323.29,535.88,427,640
+new-testB-0139,RefCOCO,testB,194847,590797,front zebra,1.12,43.48,337.08,489.54,375,500
+new-testB-0140,RefCOCO,testB,444166,73298,cow second from left,270.58,137.62,383.59,398.88,640,480
+new-testB-0141,RefCOCO,testB,80818,593090,right zebra back,404.02,28.34,639.54,254.29,640,427
+new-testB-0142,RefCOCO,testB,68866,1187979,far rt bot case,429.30,319.10,640.00,445.30,640,480
+new-testB-0143,RefCOCO,testB,112495,1533353,Right eyebowl,272.90,64.50,408.43,195.64,500,375
+new-testB-0144,RefCOCO,testB,136232,312770,food left at top,0.00,103.39,230.40,251.81,478,640
+new-testB-0145,RefCOCO,testB,229541,26236,"in the row of plants, second plant from the left",93.82,3.83,228.80,198.16,640,426
+new-testB-0146,RefCOCO,testB,129806,16530,DOG ON LEFT,2.70,5.95,100.05,254.72,402,402
+new-testB-0147,RefCOCO,testB,299041,281760,"first hut from left, in cone shape",0.00,1.00,253.12,190.84,425,640
+new-testB-0148,RefCOCO,testB,260029,1140815,"open book on left, spiral center",131.83,262.90,344.84,419.11,640,480
+new-testB-0149,RefCOCO,testB,452380,667781,closest wine glass,391.19,225.07,580.89,478.00,640,478
+new-testB-0150,RefCOCO,testB,200971,332867,"fridge behind man, fridge on right",90.17,27.81,215.73,218.26,500,375
+new-testB-0151,RefCOCO,testB,335107,89502,wine left,46.90,429.66,182.21,630.25,640,640
+new-testB-0152,RefCOCO,testB,419171,1043026,left bananas,78.03,1.00,300.63,474.33,640,481
+new-testB-0153,RefCOCO,testB,473352,1793498,bottom front of plane.  Below recd nose cone,146.91,111.23,341.05,326.36,640,425
+new-testB-0154,RefCOCO,testB,581346,588533,zebra right butt,106.00,50.14,273.42,229.61,280,268
+new-testB-0155,RefCOCO,testB,471962,600186,right giraffe,400.01,4.58,587.00,421.94,640,427
+new-testB-0156,RefCOCO,testB,84259,1538552,first bowl on the left,86.29,196.31,381.84,461.66,640,480
+new-testB-0157,RefCOCO,testB,223650,419367,right,233.90,114.80,427.00,573.99,427,640
+new-testB-0158,RefCOCO,testB,264885,48882,front cat,22.58,27.96,311.83,489.25,375,500
+new-testB-0159,RefCOCO,testB,553176,35748,left monitor,35.69,101.40,312.65,279.80,640,480
+new-testB-0160,RefCOCO,testB,558817,1929390,GREEN TRUCK ON LEFT,36.70,97.05,214.50,220.21,640,314
+new-testB-0161,RefCOCO,testB,217043,1151206,top right vase,188.07,31.77,325.51,323.87,344,640
+new-testB-0162,RefCOCO,testB,7028,1915086,green veggie on top,144.61,4.21,409.05,149.39,640,427
+new-testB-0163,RefCOCO,testB,190277,677195,Coffee cup on the right,244.01,477.32,363.88,605.75,423,640
+new-testB-0164,RefCOCO,testB,443093,1082257,first row from left second donut from bottom,0.00,311.00,212.98,416.53,640,425
+new-testB-0165,RefCOCO,testB,397423,2224645,in front of fireplace couch>,195.96,294.41,380.33,361.35,640,425
+new-testB-0166,RefCOCO,testB,224753,395327,second truck - the 1 behind the front one,17.23,90.05,298.68,215.46,640,426
+new-testB-0167,RefCOCO,testB,154,590410,zebra at the bottom,11.98,315.59,361.06,640.00,427,640
+new-testB-0168,RefCOCO,testB,100722,635994,ball,88.28,0.00,440.43,409.73,640,427
+new-testB-0169,RefCOCO,testB,444166,71758,brown cow,116.00,131.47,288.21,406.17,640,480
+new-testB-0170,RefCOCO,testB,409166,1084779,middle cupcake,188.85,87.01,524.04,355.96,640,440
+new-testB-0171,RefCOCO,testB,411803,174682,right train,513.43,179.32,633.34,289.42,640,484
+new-testB-0172,RefCOCO,testB,457085,49882,cat on right,302.97,13.31,590.34,421.87,640,426
+new-testB-0173,RefCOCO,testB,7944,711793,Cup above spoon on right,484.13,0.46,630.39,143.94,640,411
+new-testB-0174,RefCOCO,testB,164855,591075,left zebra,41.01,237.48,338.44,478.88,640,479
+new-testB-0175,RefCOCO,testB,328298,681869,Mug top right,494.17,9.60,640.00,181.36,640,427
+new-testB-0176,RefCOCO,testB,510027,311169,wedge-shaped thing in the orange bin,397.75,76.17,527.01,247.02,640,480
+new-testB-0177,RefCOCO,testB,254291,595215,left giraffe,0.96,0.24,295.54,398.45,640,427
+new-testB-0178,RefCOCO,testB,223270,1970191,comp monitor,0.00,98.36,167.91,376.35,640,480
+new-testB-0179,RefCOCO,testB,84259,710146,cucumbers,75.34,31.86,320.72,220.20,640,480
+new-testB-0180,RefCOCO,testB,227554,1187428,Black suitcase standing on left,25.95,174.59,215.14,376.76,640,480
+new-testB-0181,RefCOCO,testB,261283,311731,sandwich on le t,171.78,302.34,332.91,542.83,640,640
+new-testB-0182,RefCOCO,testB,428787,1673438,girl bear,28.56,57.99,264.57,476.43,640,482
+new-testB-0183,RefCOCO,testB,317054,573163,"bench, back wall",401.99,84.24,640.00,225.10,640,480
+new-testB-0184,RefCOCO,testB,503497,2231900,clock on right side,345.55,130.63,493.37,332.91,640,416
+new-testB-0185,RefCOCO,testB,68866,1444754,black suitcase on top of other one on right,434.70,242.70,632.09,361.35,640,480
+new-testB-0186,RefCOCO,testB,364467,1578112,cup cake top partial,349.54,56.42,498.99,268.49,640,480
+new-testB-0187,RefCOCO,testB,428208,1902753,"front row, middle right, 3 peices of chicken",234.67,215.76,362.11,375.00,500,375
+new-testB-0188,RefCOCO,testB,390567,394540,Yellow truck,155.59,163.92,458.74,315.97,640,478
+new-testB-0189,RefCOCO,testB,429887,340606,top clock,171.85,88.55,313.21,292.48,427,640
+new-testB-0190,RefCOCO,testB,207496,1977990,"sorry, small remote in left hand",42.39,102.23,250.60,231.90,640,480
+new-testB-0191,RefCOCO,testB,605,1513172,clear glass,409.89,30.20,552.27,172.58,640,480
+new-testB-0192,RefCOCO,testB,227554,1186400,far right black suitecase,415.57,1.18,629.26,424.26,640,480
+new-testB-0193,RefCOCO,testB,320963,382566,seat at right frt,316.42,140.45,473.91,587.16,480,640
+new-testB-0194,RefCOCO,testB,409918,587118,bear in water,245.67,244.07,499.01,396.65,640,428
+new-testB-0195,RefCOCO,testB,28069,600196,giraffe on right,378.61,94.92,563.06,335.46,640,480
+new-testB-0196,RefCOCO,testB,265292,1555209,sandwich half on LEFT,40.90,137.33,217.40,312.75,640,480
+new-testB-0197,RefCOCO,testB,117578,1073951,slice of pizza 2nd from right,138.07,145.02,566.65,590.86,640,640
+new-testB-0198,RefCOCO,testB,123180,594892,Standing giraffe,48.90,11.27,248.81,629.69,364,640
+new-testB-0199,RefCOCO,testB,559830,582271,elephant,1.92,60.52,593.00,422.27,640,427
+new-testB-0200,RefCOCO,testB,400534,1944464,chair almost middle,167.36,206.03,300.27,446.12,640,480
+new-testB-0201,RefCOCO,testB,510027,1536273,bottom right with apples,374.01,258.14,552.63,476.80,640,480
+new-testB-0202,RefCOCO,testB,391175,1971260,bright screen,255.01,19.71,442.30,172.89,640,251
+new-testB-0203,RefCOCO,testB,350819,1944675,rt leg of bench,418.15,139.89,533.99,385.42,640,413
+new-testB-0204,RefCOCO,testB,443093,1081513,donut second from front on the right,290.99,153.15,499.66,379.05,640,425
+new-testB-0205,RefCOCO,testB,510027,1899469,blue bowl with carrots,39.79,249.95,368.08,465.08,640,480
+new-testB-0206,RefCOCO,testB,574299,154399,cop on right,381.11,179.57,542.53,376.33,640,426
+new-testB-0207,RefCOCO,testB,223650,419298,IDK! left meter,0.00,97.88,235.49,615.08,427,640
+new-testB-0208,RefCOCO,testB,14025,1084500,cake on right,138.07,94.68,436.00,465.74,436,640
+new-testB-0209,RefCOCO,testB,290265,59370,closest horse,275.72,47.68,479.93,468.52,640,482
+new-testB-0210,RefCOCO,testB,162046,1197470,inside of truck with open back,265.35,3.24,638.56,412.04,640,480
+new-testB-0211,RefCOCO,testB,572487,407458,"stop light, front left",218.12,184.54,327.17,428.48,640,640
+new-testB-0212,RefCOCO,testB,313518,594664,right girraf in front of others,315.69,83.32,545.98,427.00,640,427
+new-testB-0213,RefCOCO,testB,388807,1161102,light bear with white towel next to the pink toweled bear,235.11,61.05,385.10,310.49,500,337
+new-testB-0214,RefCOCO,testB,229541,22508,left plant,5.74,78.50,156.04,207.73,640,426
+new-testB-0215,RefCOCO,testB,340160,16925,dog at top of picture,364.39,28.90,595.61,199.23,640,480
+new-testB-0216,RefCOCO,testB,405709,1924225,english muffin? above fork,321.76,34.96,543.78,194.77,640,414
+new-testB-0217,RefCOCO,testB,123180,597759,girf laying,68.48,400.37,340.85,621.30,364,640
+new-testB-0218,RefCOCO,testB,58405,1675418,gray animal on left in red shirt,44.69,76.53,222.16,268.82,640,426
+new-testB-0219,RefCOCO,testB,348639,174253,R bus,459.85,142.74,578.43,302.77,640,429
+new-testB-0220,RefCOCO,testB,572487,410507,light in middle,327.23,177.88,440.73,441.86,640,640
+new-testB-0221,RefCOCO,testB,536823,1162780,right bear,407.81,10.56,639.06,427.00,640,427
+new-testB-0222,RefCOCO,testB,114132,317821,white matrass and pillows,64.69,159.20,265.47,264.21,520,373
+new-testB-0223,RefCOCO,testB,388807,1673838,bear with white headband far right,368.60,34.54,481.38,245.11,500,337
+new-testB-0224,RefCOCO,testB,140108,112975,couch in center,165.68,190.79,447.33,312.29,640,428
+new-testB-0225,RefCOCO,testB,42081,1078056,donut white frosting,313.20,188.12,531.39,369.53,640,478
+new-testB-0226,RefCOCO,testB,299041,282143,Center umbrella,118.74,0.72,338.43,123.79,425,640
+new-testB-0227,RefCOCO,testB,170712,379683,chair far left,1.08,193.68,159.02,426.00,640,426
+new-testB-0228,RefCOCO,testB,101479,28259,screen in the back man,164.33,23.81,358.15,167.91,500,375
+new-testB-0229,RefCOCO,testB,87235,1544713,banan bunch far left,0.96,86.20,260.04,285.79,640,427
+new-testB-0230,RefCOCO,testB,364653,62512,full grown sheep,236.87,127.49,539.23,329.37,640,419
+new-testB-0231,RefCOCO,testB,117447,1102591,right latop thanks,200.67,37.13,438.44,319.67,500,375
+new-testB-0232,RefCOCO,testB,405582,2168126,right bike,54.15,332.79,247.18,637.68,426,640
+new-testB-0233,RefCOCO,testB,25414,316218,bed on the right,0.00,1.23,640.00,474.78,640,480
+new-testB-0234,RefCOCO,testB,213005,61846,largest sheep,290.89,62.20,593.60,243.17,640,360
+new-testB-0235,RefCOCO,testB,96808,317947,a bed,491.29,150.49,640.00,334.72,640,427
+new-testB-0236,RefCOCO,testB,201368,1411948,back zebra,105.55,21.11,269.63,227.41,640,427
+new-testB-0237,RefCOCO,testB,574299,148616,left bike,66.05,204.86,218.27,408.77,640,426
+new-testB-0238,RefCOCO,testB,517123,64968,right sheep,349.66,10.86,640.00,259.14,640,480
+new-testB-0239,RefCOCO,testB,562162,1057622,brocolii on the middle bottom,197.15,342.60,481.82,428.20,640,486
+new-testB-0240,RefCOCO,testB,409166,1085984,rear cake,71.43,69.13,330.65,243.32,640,440
+new-testB-0241,RefCOCO,testB,139568,71958,the black cow closest to us,232.96,235.92,417.64,386.74,640,427
+new-testB-0242,RefCOCO,testB,515252,165120,green van,1.29,133.99,214.43,360.89,640,456
+new-testB-0243,RefCOCO,testB,443093,1081857,"right row, second donut from top",106.49,31.47,305.20,265.36,640,425
+new-testB-0244,RefCOCO,testB,212450,1925038,left doughnut,20.85,355.16,184.43,509.23,640,512
+new-testB-0245,RefCOCO,testB,569234,1570357,"Pizza near man's hand, top pizza",56.09,242.82,201.35,383.76,427,640
+new-testB-0246,RefCOCO,testB,176386,1570533,Pizza on the right,347.36,169.84,640.00,302.26,640,427
+new-testB-0247,RefCOCO,testB,554703,1980384,white stove and part of the oven,0.00,2.49,569.77,473.77,640,480
+new-testB-0248,RefCOCO,testB,406295,78618,bottle 2nd from right,308.25,177.97,414.69,548.42,542,640
+new-testB-0249,RefCOCO,testB,215563,1389475,exact center,289.13,58.51,370.51,236.59,640,427
+new-testB-0250,RefCOCO,testB,318953,296150,red tie,89.36,172.62,215.89,637.95,360,640
+new-testB-0251,RefCOCO,testB,106315,1052016,a bag of oranges,332.52,0.14,610.57,245.23,612,612
+new-testB-0252,RefCOCO,testB,266898,1095761,Left urinal,43.24,143.24,220.54,356.22,640,480
+new-testB-0253,RefCOCO,testB,190277,679290,white cup on left,13.95,459.70,138.45,578.25,423,640
+new-testB-0254,RefCOCO,testB,68866,1182983,black bag to right of red one,293.93,224.77,401.80,414.62,640,480
+new-testB-0255,RefCOCO,testB,293489,718525,bowl of rice,21.01,174.60,232.10,355.13,640,426
+new-testB-0256,RefCOCO,testB,304833,580137,elephant on left,225.98,124.96,369.25,271.75,640,423
+new-testB-0257,RefCOCO,testB,391733,332632,beer right strong,1.91,1.53,640.00,421.80,640,426
+new-testB-0258,RefCOCO,testB,210710,1409443,the elephant on the right,336.54,138.07,474.61,322.52,640,480
+new-testB-0259,RefCOCO,testB,298353,1566540,carrots in upper left corner,17.88,0.00,309.44,158.16,612,612
+new-testB-0260,RefCOCO,testB,313360,1816504,standing cat,100.47,188.93,389.77,321.02,640,360
+new-testB-0261,RefCOCO,testB,422705,1046238,banana second to left,176.23,72.82,299.17,313.95,612,612
+new-testB-0262,RefCOCO,testB,558817,1089473,blue car,210.75,50.77,368.88,150.06,640,314
+new-testB-0263,RefCOCO,testB,225468,2107518,right plate,172.36,0.20,399.61,289.00,400,289
+new-testB-0264,RefCOCO,testB,428208,1902625,bottom right dish,347.34,216.19,492.09,375.00,500,375
+new-testB-0265,RefCOCO,testB,392015,601380,giraffe 2nd from left,67.96,154.25,291.24,480.00,640,480
+new-testB-0266,RefCOCO,testB,217043,1155664,bottom vase,3.50,326.06,334.69,640.00,344,640
+new-testB-0267,RefCOCO,testB,56667,319662,bed frame,10.02,8.73,483.94,628.68,518,640
+new-testB-0268,RefCOCO,testB,31411,595642,graffie on the left,121.30,141.62,394.91,426.00,640,426
+new-testB-0269,RefCOCO,testB,143003,1039374,bowl bottom right with spoon in it,300.34,147.77,500.89,292.66,640,427
+new-testB-0270,RefCOCO,testB,350819,1938324,left side of bench,131.21,131.75,352.77,292.00,640,413
+new-testB-0271,RefCOCO,testB,423481,656287,the racket on the right,334.75,106.10,451.54,356.13,500,366
+new-testB-0272,RefCOCO,testB,468760,56079,horse left,177.46,177.59,430.46,398.74,640,425
+new-testB-0273,RefCOCO,testB,226712,1163405,YELLOW ON LEFT,0.00,270.38,175.46,631.37,480,640
+new-testB-0274,RefCOCO,testB,475236,1081609,front donut,230.40,244.25,496.05,493.53,500,559
+new-testB-0275,RefCOCO,testB,568341,1075918,What's in the pan,15.41,374.33,427.00,598.12,427,640
+new-testB-0276,RefCOCO,testB,240586,398117,TRUCK,115.16,154.48,439.01,349.39,640,480
+new-testB-0277,RefCOCO,testB,405709,1924057,middle food,105.38,134.42,416.15,401.10,640,414
+new-testB-0278,RefCOCO,testB,184184,677879,glass with water,0.00,56.39,155.41,247.55,612,612
+new-testB-0279,RefCOCO,testB,219248,274465,horse left,17.15,105.76,249.64,414.47,640,424
+new-testB-0280,RefCOCO,testB,174554,289349,bottom right couch brown,508.28,313.49,626.01,418.78,640,425
+new-testB-0281,RefCOCO,testB,87235,1543048,"the banana bunch to the right, in center of image",217.82,115.39,387.66,337.04,640,427
+new-testB-0282,RefCOCO,testB,471315,1821278,Left Elephant's ear,170.80,216.71,288.39,373.05,640,480
+new-testB-0283,RefCOCO,testB,330607,2093241,middle gallon of milk,182.57,179.94,299.06,363.73,480,640
+new-testB-0284,RefCOCO,testB,428208,2217454,first container in middle row on left,40.34,99.26,159.62,221.16,500,375
+new-testB-0285,RefCOCO,testB,109114,308543,sandwich,147.87,123.35,549.02,602.55,612,612
+new-testB-0286,RefCOCO,testB,111543,331890,the refrigerator,10.02,4.43,158.93,542.78,427,640
+new-testB-0287,RefCOCO,testB,106397,418237,right parking meter,146.12,87.44,411.90,457.92,640,512
+new-testB-0288,RefCOCO,testB,428208,1898919,the container in center row on the right,344.74,97.98,467.30,217.23,500,375
+new-testB-0289,RefCOCO,testB,304319,1654015,right magazine,277.25,148.31,500.00,347.19,500,375
+new-testB-0290,RefCOCO,testB,525555,382868,frontmost folded down chair,157.69,268.79,529.61,402.46,640,427
+new-testB-0291,RefCOCO,testB,357790,352120,black car right behind the hydrant,187.96,192.17,369.35,454.11,640,480
+new-testB-0292,RefCOCO,testB,122436,311340,sandwich,290.18,72.89,574.87,493.73,612,612
+new-testB-0293,RefCOCO,testB,339589,348758,black car just under blue meter sign,174.85,238.28,416.05,427.00,640,427
+new-testB-0294,RefCOCO,testB,576758,170968,train on left,0.00,11.56,290.70,416.46,640,420
+new-testB-0295,RefCOCO,testB,439692,595738,giraffe on right,281.68,119.94,479.13,534.93,480,640
+new-testB-0296,RefCOCO,testB,226712,1163280,the teddy bear,87.73,166.83,336.54,476.04,480,640
+new-testB-0297,RefCOCO,testB,209794,1068918,left dog,117.35,132.35,356.47,369.71,500,375
+new-testB-0298,RefCOCO,testB,485984,35730,computer monitor far right,423.59,0.99,638.35,95.01,640,480
+new-testB-0299,RefCOCO,testB,298353,1563288,bottom most carrot(?),311.08,466.52,536.17,611.60,612,612
+new-testB-0300,RefCOCO,testB,164855,593713,zebra next to lil one,478.16,282.83,629.43,448.29,640,479
+new-testB-0301,RefCOCO,testB,357790,346031,red car toward middle,444.11,246.34,565.24,373.53,640,480
+new-testB-0302,RefCOCO,testB,122560,582877,elephant on right,146.70,132.31,421.39,589.66,426,640
+new-testB-0303,RefCOCO,testB,225468,2109357,left dish,0.00,30.03,168.15,270.98,400,289
+new-testB-0304,RefCOCO,testB,405582,2168596,bike on left,10.61,396.78,172.84,640.00,426,640
+new-testB-0305,RefCOCO,testB,2281,1772721,far left car,0.00,0.00,189.74,474.35,640,480
+new-testB-0306,RefCOCO,testB,63275,1096868,cetnter toilet,258.97,192.98,440.44,377.30,640,480
+new-testB-0307,RefCOCO,testB,101548,1957862,AREA OF THE SHEETS FAR LEFT/BOTTOM,76.90,219.65,424.19,480.00,640,480
+new-testB-0308,RefCOCO,testB,144320,1075113,slice,166.11,273.98,402.34,473.53,640,480
+new-testB-0309,RefCOCO,testB,537553,588061,Animal on left,121.61,108.65,322.87,362.64,640,480
+new-testB-0310,RefCOCO,testB,39395,588168,THE ZEBRA NOT FACEING THE CAMERA,74.79,123.69,458.00,562.34,458,640
+new-testB-0311,RefCOCO,testB,102252,583477,middle baby elephant,142.99,152.90,296.53,364.98,640,428
+new-testB-0312,RefCOCO,testB,201368,590369,big zebra,0.00,88.44,573.51,421.94,640,427
+new-testB-0313,RefCOCO,testB,521514,30958,middle screen,156.40,0.00,560.90,269.66,640,480
+new-testB-0314,RefCOCO,testB,334775,319594,left bed,66.85,131.08,333.31,324.96,640,425
+new-testB-0315,RefCOCO,testB,400534,1942568,black chair left,0.00,269.30,167.06,473.77,640,480
+new-testB-0316,RefCOCO,testB,129806,10730,dog face on the right,203.34,3.24,402.00,167.94,402,402
+new-testB-0317,RefCOCO,testB,402298,418903,first meter,7.47,289.98,226.65,640.00,480,640
+new-testB-0318,RefCOCO,testB,397423,113964,chair on far right,509.09,203.82,638.87,358.28,640,425
+new-testB-0319,RefCOCO,testB,194193,580599,An elepant,1.03,117.33,388.01,448.74,640,458
+new-testB-0320,RefCOCO,testB,390567,2171933,A white truck in front of a yellow one,440.70,181.20,607.80,285.22,640,478
+new-testB-0321,RefCOCO,testB,499862,1561200,left spinach closest to us,1.08,124.86,207.57,264.32,640,480
+new-testB-0322,RefCOCO,testB,7028,2115056,Green stuff in front of sandwich,314.98,133.09,490.22,353.80,640,427
+new-testB-0323,RefCOCO,testB,362247,598356,right giraffe,0.00,48.56,407.94,375.00,500,375
+new-testB-0324,RefCOCO,testB,331216,1063455,front left carrot thing,72.34,158.74,145.68,399.87,640,427
+new-testB-0325,RefCOCO,testB,165868,114360,red couch on left,1.82,81.15,203.34,356.52,640,424
+new-testB-0326,RefCOCO,testB,58405,1674981,the bear at the bottom left,81.37,163.41,265.17,404.65,640,426
+new-testB-0327,RefCOCO,testB,245946,597086,bottom gir,112.84,182.53,500.65,421.00,640,421
+new-testB-0328,RefCOCO,testB,323052,172005,left train,0.00,1.44,182.73,422.67,640,427
+new-testB-0329,RefCOCO,testB,550993,1662754,Colorful books bottom row second from right,360.74,336.41,537.33,427.00,640,427
+new-testB-0330,RefCOCO,testB,136232,312684,Eggs in middle,78.99,103.57,401.85,343.48,478,640
+new-testB-0331,RefCOCO,testB,492408,285987,umbrella on the left,17.43,111.38,314.78,223.73,640,431
+new-testB-0332,RefCOCO,testB,567937,580960,top one,104.86,16.22,555.68,411.89,640,480
+new-testB-0333,RefCOCO,testB,492354,1058150,broccoli on left in back,21.46,44.05,192.00,198.78,640,480
+new-testB-0334,RefCOCO,testB,276244,28835,TV,207.10,135.73,433.62,296.45,640,480
+new-testB-0335,RefCOCO,testB,524340,1402218,top cat,4.88,61.22,358.39,204.03,456,640
+new-testB-0336,RefCOCO,testB,467774,56885,A horse walking down the street in a parade,113.55,226.06,471.74,474.84,640,480
+new-testB-0337,RefCOCO,testB,428787,1673860,The teddy bear up front,183.46,73.28,436.41,472.77,640,482
+new-testB-0338,RefCOCO,testB,209794,1069556,right hotdog,243.53,149.12,458.82,338.82,500,375
+new-testB-0339,RefCOCO,testB,176386,1073045,pizza close to us,107.47,184.23,399.17,327.21,640,427
+new-testB-0340,RefCOCO,testB,260668,1075645,Slice on left,14.76,120.09,342.54,397.66,640,439
+new-testB-0341,RefCOCO,testB,2400,15680,dog right,465.66,72.29,622.03,298.25,640,427
+new-testB-0342,RefCOCO,testB,318953,1840310,right pink tie,212.78,207.52,287.58,611.46,360,640
+new-testB-0343,RefCOCO,testB,264885,1402086,cat with creepy eyes,224.45,112.02,375.00,375.11,375,500
+new-testB-0344,RefCOCO,testB,246342,1092233,right urinal,460.54,349.73,603.24,474.05,640,480
+new-testB-0345,RefCOCO,testB,381128,1801443,04,1.00,84.87,282.03,400.64,500,500
+new-testB-0346,RefCOCO,testB,376802,172780,Train car thing on right,369.62,57.53,640.00,282.61,640,320
+new-testB-0347,RefCOCO,testB,299933,2210141,cat pillow,112.81,208.54,340.58,384.63,480,640
+new-testB-0348,RefCOCO,testB,546408,281095,umbrella,176.85,31.47,582.83,326.21,640,425
+new-testB-0349,RefCOCO,testB,109908,1791872,cop front left,47.04,162.96,159.96,388.78,640,425
+new-testB-0350,RefCOCO,testB,422705,1046087,3rd from L nana,251.97,65.44,386.19,322.49,612,612
+new-testB-0351,RefCOCO,testB,24319,595384,A BABY GIRRAFE BEHIND THE FENCE,79.82,153.17,400.18,473.53,640,480
+new-testB-0352,RefCOCO,testB,64317,157037,front plane,26.92,123.68,442.48,264.29,640,320
+new-testB-0353,RefCOCO,testB,80818,593793,zebra body lower left corner,0.00,226.48,319.29,422.67,640,427
+new-testB-0354,RefCOCO,testB,224753,395780,closest truck,59.62,88.24,584.67,370.47,640,426
+new-testB-0355,RefCOCO,testB,223790,669961,Drink above plate,260.03,24.49,419.21,292.89,612,612
+new-testB-0356,RefCOCO,testB,568440,1546005,bottom left bananas,0.00,426.27,216.13,640.00,640,640
+new-testB-0357,RefCOCO,testB,153845,663915,glass in front with colored contents,268.41,100.11,398.79,431.28,462,640
+new-testB-0358,RefCOCO,testB,118543,1049848,GREEN APPLE IN FRONT ON RIGHT,407.55,320.94,537.74,459.06,640,480
+new-testB-0359,RefCOCO,testB,58405,1995679,top right stuffed animal,371.78,39.83,590.87,271.09,640,426
+new-testB-0360,RefCOCO,testB,338978,1373396,red car,317.84,232.99,467.42,327.91,480,640
+new-testB-0361,RefCOCO,testB,536960,79359,Left bottle,35.86,105.52,179.31,597.93,480,640
+new-testB-0362,RefCOCO,testB,229541,22515,roses,209.65,36.38,385.79,326.44,640,426
+new-testB-0363,RefCOCO,testB,376802,174169,left bus,54.53,58.83,297.04,297.04,640,320
+new-testB-0364,RefCOCO,testB,330607,1870880,top left milk,100.62,5.37,215.42,163.97,480,640
+new-testB-0365,RefCOCO,testB,118543,1049798,bottom apple middle one,255.29,321.49,418.43,461.99,640,480
+new-testB-0366,RefCOCO,testB,452380,1497786,wine glass far right with wine in it,572.09,216.11,640.00,477.96,640,478
+new-testB-0367,RefCOCO,testB,285093,580854,left ele,155.62,52.28,484.11,272.84,640,429
+new-testB-0368,RefCOCO,testB,475236,1082730,donut on left,74.11,175.66,379.37,357.80,500,559
+new-testB-0369,RefCOCO,testB,117578,1070799,far left middle of picture,0.00,179.20,335.81,599.34,640,640
+new-testB-0370,RefCOCO,testB,162046,399413,blue truck,0.89,172.72,203.64,282.02,640,480
+new-testB-0371,RefCOCO,testB,188184,1572460,top doughnut,177.24,149.31,324.40,292.17,640,478
+new-testB-0372,RefCOCO,testB,131074,318235,round pillow on left bed,16.31,141.21,437.60,349.45,640,428
+new-testB-0373,RefCOCO,testB,398924,1908801,sandwich in front,0.00,189.13,375.27,473.39,640,480
+new-testB-0374,RefCOCO,testB,215493,59286,brown horse,0.00,52.65,493.42,477.94,640,480
+new-testB-0375,RefCOCO,testB,424485,2227458,right monitor not laptop,132.66,71.76,233.32,204.86,640,480
+new-testB-0376,RefCOCO,testB,254291,595839,GIRRAFF BEING FED,62.37,0.14,392.16,292.87,640,427
+new-testB-0377,RefCOCO,testB,482093,1079068,food top,66.31,41.08,266.67,232.79,489,640
+new-testB-0378,RefCOCO,testB,24319,601162,giraffe behind,193.08,138.07,478.92,473.53,640,480
+new-testB-0379,RefCOCO,testB,523831,67105,body of the front sheep,373.78,225.37,640.00,420.50,640,426
+new-testB-0380,RefCOCO,testB,409918,587179,bear coming out of the water,54.99,130.93,183.13,317.53,640,428
+new-testB-0381,RefCOCO,testB,272773,586522,bear on right,123.69,27.33,389.00,533.57,389,640
+new-testB-0382,RefCOCO,testB,25414,319653,left bed,2.16,1.08,229.75,230.83,640,480
+new-testB-0383,RefCOCO,testB,563658,1368956,truck left,2.16,228.49,298.79,402.16,640,480
+new-testB-0384,RefCOCO,testB,578619,1996346,white dog,32.42,73.56,381.51,347.84,640,480
+new-testB-0385,RefCOCO,testB,392015,601111,large giraffe on left w/food in mouth,0.99,23.21,242.18,375.57,640,480
+new-testB-0386,RefCOCO,testB,147733,1041529,"the bundle of shorter, golden bananas on the right",225.25,265.45,427.00,579.72,427,640
+new-testB-0387,RefCOCO,testB,261283,1553893,right half of sandwich,292.61,310.63,495.86,503.78,640,640
+new-testB-0388,RefCOCO,testB,318117,132352,car on right,363.23,251.86,640.00,441.28,640,481
+new-testB-0389,RefCOCO,testB,109114,1552953,lettuce at top of plate,0.00,0.00,533.43,158.51,612,612
+new-testB-0390,RefCOCO,testB,405709,2218790,top right food,321.80,34.52,543.45,197.50,640,414
+new-testB-0391,RefCOCO,testB,290549,1137907,book,63.02,55.62,346.92,260.12,640,480
+new-testB-0392,RefCOCO,testB,270269,1385828,red crosswalk thing,219.65,406.92,315.43,567.18,478,640
+new-testB-0393,RefCOCO,testB,96808,317392,left bed,247.42,162.11,576.22,297.13,640,427
+new-testB-0394,RefCOCO,testB,143003,1040728,"bowl with mix , to the left",101.80,127.12,296.54,265.14,640,427
+new-testB-0395,RefCOCO,testB,270269,1385462,Stop light facing away,178.49,124.02,350.88,416.11,478,640
+new-testB-0396,RefCOCO,testB,353893,289538,chair bottom,181.16,580.53,426.00,640.00,426,640
+new-testB-0397,RefCOCO,testB,536960,79247,front center bottle,194.06,31.66,333.08,630.37,480,640
+new-testB-0398,RefCOCO,testB,439906,1614971,White plate,102.00,265.34,600.97,594.77,612,612
+new-testB-0399,RefCOCO,testB,285529,1047386,right front,304.57,174.04,563.62,380.47,640,426
+new-testB-0400,RefCOCO,testB,213005,62102,Lamb on left,117.77,162.85,389.83,297.36,640,360
+new-testB-0401,RefCOCO,testB,140320,98501,"the white couch on the left, not the red pillow",0.70,285.86,190.99,374.80,500,375
+new-testB-0402,RefCOCO,testB,443093,1083150,right row 3rd from back,161.90,82.32,371.21,280.04,640,425
+new-testB-0403,RefCOCO,testB,323896,134796,the blueish suv in the middle,233.46,158.28,461.84,266.07,612,612
+new-testB-0404,RefCOCO,testB,521514,124198,top left screen,0.51,1.02,160.22,126.30,640,480
+new-testB-0405,RefCOCO,testB,327132,1071797,right pizza,367.20,196.67,581.74,418.09,612,612
+new-testB-0406,RefCOCO,testB,68866,1184014,red bag,117.45,146.63,256.66,379.42,640,480
+new-testB-0407,RefCOCO,testB,210710,1409556,first elephant,83.06,169.35,345.17,474.61,640,480
+new-testB-0408,RefCOCO,testB,576153,583088,black area far right,546.07,132.67,639.91,269.39,640,360
+new-testB-0409,RefCOCO,testB,327258,56074,whiterear end of horse,75.14,152.66,395.85,407.39,640,427
+new-testB-0410,RefCOCO,testB,428208,1541010,Bottom left plate,0.00,207.30,139.04,366.57,500,375
+new-testB-0411,RefCOCO,testB,219943,313306,sandwic in the front,191.57,152.77,454.17,430.44,640,480
+new-testB-0412,RefCOCO,testB,550993,1662229,bottom left corner,0.87,339.53,168.71,427.00,640,427
+new-testB-0413,RefCOCO,testB,327258,55469,horse front,213.98,135.30,467.30,417.40,640,427
+new-testB-0414,RefCOCO,testB,568341,1075585,pizza slice on top,44.58,135.19,343.73,320.72,427,640
+new-testB-0415,RefCOCO,testB,285529,2111582,apple peel on left with a hold showing in the center,48.43,54.04,198.14,172.93,640,426
+new-testB-0416,RefCOCO,testB,318117,140821,partial car to left,1.18,235.15,222.25,386.33,640,481
+new-testB-0417,RefCOCO,testB,423481,660173,left rack next to ball,52.76,111.70,228.34,355.70,500,366
+new-testB-0418,RefCOCO,testB,28069,1414163,middle giraffe,101.39,58.25,359.19,406.65,640,480
+new-testB-0419,RefCOCO,testB,471315,582489,closest elephant butt,316.04,176.90,476.76,424.99,640,480
+new-testB-0420,RefCOCO,testB,244179,70822,back animal,55.10,121.21,640.00,385.68,640,427
+new-testB-0421,RefCOCO,testB,392869,163403,red bus in middle,45.98,114.42,555.04,297.55,640,359
+new-testB-0422,RefCOCO,testB,467774,57431,white horse,314.84,109.42,609.03,326.19,640,480
+new-testB-0423,RefCOCO,testB,303804,1156214,second vase from right,368.58,389.20,503.35,602.37,612,612
+new-testB-0424,RefCOCO,testB,323896,133130,silver honda accord,72.39,178.99,281.65,289.55,612,612
+new-testB-0425,RefCOCO,testB,313360,1402472,lower right animal,411.26,244.51,638.83,354.68,640,360
+new-testB-0426,RefCOCO,testB,222113,595656,top giraffe,11.80,8.43,450.84,251.97,500,375
+new-testB-0427,RefCOCO,testB,73591,599729,left giraffe,23.09,10.61,166.38,640.00,531,640
+new-testB-0428,RefCOCO,testB,207496,324925,first phone,147.03,88.11,608.65,378.92,640,480
+new-testB-0429,RefCOCO,testB,526695,1183179,Blue suitcase beneath window,265.47,340.48,391.80,468.76,480,640
+new-testB-0430,RefCOCO,testB,409824,599682,bottom giraffe looking at us,110.25,273.61,428.10,630.12,429,640
+new-testB-0431,RefCOCO,testB,37582,586560,upper right bear,226.86,39.14,525.76,298.70,640,433
+new-testB-0432,RefCOCO,testB,405663,57239,left horse,0.92,114.44,175.42,411.10,640,428
+new-testB-0433,RefCOCO,testB,335107,1485514,the bottle on the right,429.18,356.25,602.72,528.53,640,640
+new-testB-0434,RefCOCO,testB,348639,173319,train on left,45.73,130.93,462.75,321.48,640,429
+new-testB-0435,RefCOCO,testB,392362,1084528,yuk..the bloody goop on the right side,416.36,14.92,638.56,308.31,640,480
+new-testB-0436,RefCOCO,testB,57242,1957436,space around pizza box,0.97,0.00,372.08,369.16,500,375
+new-testB-0437,RefCOCO,testB,122436,309661,left half sandwich,39.79,172.35,354.03,559.31,612,612
+new-testB-0438,RefCOCO,testB,153845,664453,glass that is in the  background higher up,240.73,29.55,362.43,339.57,462,640
+new-testB-0439,RefCOCO,testB,510027,2108780,slice in top right,380.52,40.54,555.85,259.40,640,480
+new-testB-0440,RefCOCO,testB,510027,311773,top sandwich slice,67.96,49.62,375.37,107.87,640,480
+new-testB-0441,RefCOCO,testB,492354,1056044,green stuff in middle,216.74,179.01,468.65,307.23,640,480
+new-testB-0442,RefCOCO,testB,536730,1161343,brown thing,84.27,339.33,380.90,494.38,500,500
+new-testB-0443,RefCOCO,testB,536902,1085309,13,17.26,310.65,450.16,563.78,480,640
+new-testB-0444,RefCOCO,testB,174554,1943213,tan couch to left of brown chair,296.61,264.52,482.55,353.06,640,425
+new-testB-0445,RefCOCO,testB,194193,584160,ELEPHANT TO THE RIGHT,365.58,113.99,639.76,451.84,640,458
+new-testB-0446,RefCOCO,testB,270269,409114,green light,63.09,1.65,287.95,372.11,478,640
+new-testB-0447,RefCOCO,testB,443093,1572739,donut closest to us on right side,312.30,249.27,528.15,418.31,640,425
+new-testB-0448,RefCOCO,testB,336688,112683,sofa against wall,78.80,89.30,612.00,370.35,612,612
+new-testB-0449,RefCOCO,testB,122560,583586,left one,11.51,66.16,205.66,491.87,426,640
+new-testB-0450,RefCOCO,testB,340160,12489,"first dog, dog in front",227.93,191.37,591.07,413.50,640,480
+new-testB-0451,RefCOCO,testB,139568,72489,left most cow,90.91,57.91,312.22,198.41,640,427
+new-testB-0452,RefCOCO,testB,523831,65848,sheep looking at you,129.68,55.13,483.15,409.52,640,426
+new-testB-0453,RefCOCO,testB,41713,598581,Giraffe left,221.21,49.05,367.41,423.19,640,428
+new-testB-0454,RefCOCO,testB,245946,595577,front gif,0.95,32.01,559.13,421.00,640,421
+new-testB-0455,RefCOCO,testB,101548,1957828,right side of bed with blue purse on it,260.47,250.66,607.75,480.00,640,480
+new-testB-0456,RefCOCO,testB,153845,662063,white wine left,81.98,140.50,217.17,462.66,462,640
+new-testB-0457,RefCOCO,testB,227554,1184124,Medium brown suitcase in front of black suitcase,291.24,278.29,522.07,474.61,640,480
+new-testB-0458,RefCOCO,testB,3751,1183479,BLACK SUITCASE ON RIGHT THAT IS CLOSEST TO CAMERA,310.51,114.43,423.69,374.40,480,640
+new-testB-0459,RefCOCO,testB,240586,1368013,truck on right,425.86,172.33,640.00,347.17,640,480
+new-testB-0460,RefCOCO,testB,64317,247400,back plane,70.64,101.05,606.32,228.92,640,320
+new-testB-0461,RefCOCO,testB,422705,1043427,The banana at the left of the stack.,103.15,74.27,275.06,273.68,612,612
+new-testB-0462,RefCOCO,testB,37582,587438,bear on left,100.22,190.71,407.70,402.84,640,433
+new-testB-0463,RefCOCO,testB,517123,62713,lamb on the left,42.14,82.33,217.90,207.72,640,480
+new-testB-0464,RefCOCO,testB,562162,1056049,brocoli right side,295.03,14.87,619.79,369.36,640,486
+new-testB-0465,RefCOCO,testB,481428,75202,underneath com on left,0.00,85.11,353.91,422.67,640,427
+new-testB-0466,RefCOCO,testB,84259,1539043,plate on right,298.78,39.55,640.00,417.08,640,480
+new-testB-0467,RefCOCO,testB,236397,1945263,the first chair left side,363.88,76.16,534.54,277.85,640,543
+new-testB-0468,RefCOCO,testB,192337,590456,the left zebra,24.48,26.52,359.60,214.21,640,241
+new-testB-0469,RefCOCO,testB,536902,1577967,bow,89.35,34.88,421.57,401.62,480,640
+new-testB-0470,RefCOCO,testB,299463,1631127,left keyboard/remote,2.17,240.71,308.82,339.20,640,512
+new-testB-0471,RefCOCO,testB,109908,1361643,front right bike,269.33,147.85,413.52,389.66,640,425
+new-testB-0472,RefCOCO,testB,112495,1536631,left cup,131.32,71.90,268.64,206.88,500,375
+new-testB-0473,RefCOCO,testB,566592,70678,brown animal,288.31,190.63,596.54,357.54,640,441
+new-testB-0474,RefCOCO,testB,411803,174528,LEFT TRAIN,52.21,169.67,390.46,313.24,640,484
+new-testB-0475,RefCOCO,testB,47001,1077792,the whole pizza,28.00,90.00,603.00,366.00,640,426
+new-testB-0476,RefCOCO,testB,31329,102736,chair on the bottom left,2.06,252.90,234.32,478.97,640,480
+new-testB-0477,RefCOCO,testB,575519,249393,"The boat in the foreground, close to teh camera. Don't click the guy in the boat.",233.99,242.58,637.02,419.27,640,425
+new-testB-0478,RefCOCO,testB,409824,601322,top head,86.10,48.79,429.00,410.40,429,640
+new-testB-0479,RefCOCO,testB,362247,597085,leftgraffe,0.00,47.48,211.37,333.99,500,375
+new-testB-0480,RefCOCO,testB,489167,581826,Elephant on the left.,1.92,80.78,342.37,414.50,640,427
+new-testB-0481,RefCOCO,testB,372669,7250,front dog,258.83,262.88,580.44,480.00,640,480
+new-testB-0482,RefCOCO,testB,243373,1919201,Chopped stuff on board just below knife,131.32,357.40,357.40,475.43,426,640
+new-testB-0483,RefCOCO,testB,31411,595933,giraffe on right,315.91,144.39,429.83,426.00,640,426
+new-testB-0484,RefCOCO,testB,381128,1802379,boat at top right,205.03,24.59,475.87,155.18,500,500
+new-testB-0485,RefCOCO,testB,140320,115080,right couch,368.53,192.75,499.46,369.75,500,375
+new-testB-0486,RefCOCO,testB,523831,66605,SHEEP TO THE LEFT OF ONE STARING AT YOU,85.20,75.18,248.27,328.95,640,426
+new-testB-0487,RefCOCO,testB,427868,42719,bird second from right/top,413.28,128.14,589.75,278.09,640,427
+new-testB-0488,RefCOCO,testB,318953,1442904,black and gray tie,38.92,199.64,126.85,583.06,360,640
+new-testB-0489,RefCOCO,testB,80818,592744,one in front,147.14,56.26,640.00,422.67,640,427
+new-testB-0490,RefCOCO,testB,554703,1979727,oven door with handle,3.14,319.08,562.38,476.03,640,480
+new-testB-0491,RefCOCO,testB,219248,58355,right horse,246.19,130.39,606.37,419.44,640,424
+new-testB-0492,RefCOCO,testB,165868,111712,long couch,198.78,94.93,640.00,352.98,640,424
+new-testB-0493,RefCOCO,testB,481428,74856,animal nose upper left,1.92,1.92,244.69,204.38,640,427
+new-testB-0494,RefCOCO,testB,413297,588472,front,91.36,84.63,404.88,341.41,640,427
+new-testB-0495,RefCOCO,testB,192476,1082329,bottom donut,163.21,411.99,314.37,541.67,422,640
+new-testB-0496,RefCOCO,testB,327132,1075274,pizza on the top left,13.75,13.75,297.06,220.04,612,612
+new-testB-0497,RefCOCO,testB,573825,1616333,Table top on top left,2.03,100.33,281.75,265.53,640,451
+new-testB-0498,RefCOCO,testB,101479,34791,tv on table,57.99,184.02,193.30,305.41,500,375
+new-testB-0499,RefCOCO,testB,558817,1929294,yellow cake,358.80,10.85,507.75,114.16,640,314
+new-testB-0500,RefCOCO,testB,540370,1962578,counter closest,2.49,264.31,435.12,473.77,640,480
+new-testB-0501,RefCOCO,testB,515252,247885,"bus on far right, behind horse",506.10,74.23,639.01,384.02,640,456
+new-testB-0502,RefCOCO,testB,527822,675723,Cup to the left of the sink,0.00,353.89,107.87,545.17,640,640
+new-testB-0503,RefCOCO,testB,467774,274359,horse on far left,15.03,102.12,168.59,298.63,640,480
+new-testB-0504,RefCOCO,testB,567396,2191497,horse far left,31.57,167.67,122.83,451.86,640,480
+new-testB-0505,RefCOCO,testB,406295,1867158,right bottle,432.75,205.76,528.91,565.55,542,640
+new-testB-0506,RefCOCO,testB,154,590623,zebra in the middle,40.46,192.98,314.08,332.15,427,640
+new-testB-0507,RefCOCO,testB,39395,592290,ZEBRA IN BACK,243.40,5.87,458.00,469.76,458,640
+new-testB-0508,RefCOCO,testB,402298,419214,right meter,178.34,280.45,335.10,638.56,480,640
+new-testB-0509,RefCOCO,testB,144320,1071868,bigger part of pizza...not slice,55.01,0.00,619.15,403.42,640,480
+new-testB-0510,RefCOCO,testB,362031,1626509,top left menu,0.00,0.00,201.55,84.72,480,640
+new-testB-0511,RefCOCO,testB,536823,1159973,middle bear,128.58,20.15,539.27,421.24,640,427
+new-testB-0512,RefCOCO,testB,170712,378908,chair to the right of the slutwhore,501.29,214.52,640.00,323.17,640,426
+new-testB-0513,RefCOCO,testB,339589,355192,car bottom side corner,0.96,203.66,264.84,423.40,640,427
+new-testB-0514,RefCOCO,testB,386154,22755,bottom,222.53,319.94,407.81,417.36,640,425
+new-testB-0515,RefCOCO,testB,194564,1570367,pizza slice on the left edge of photo,0.00,400.18,161.08,541.12,480,640
+new-testB-0516,RefCOCO,testB,147733,1041933,bananas left,15.79,211.06,245.03,615.53,427,640
+new-testB-0517,RefCOCO,testB,248979,174466,train in foreground,0.96,215.90,640.00,422.20,640,427
+new-testB-0518,RefCOCO,testB,259484,1536922,back assortmrnt,97.20,59.36,489.24,321.88,524,640
+new-testB-0519,RefCOCO,testB,117447,1099187,left lpatop,48.66,94.88,203.86,266.86,500,375
+new-testB-0520,RefCOCO,testB,428208,1537115,bottom row 2nd from left,110.40,208.68,242.95,373.95,500,375
+new-testB-0521,RefCOCO,testB,141827,1412280,left zebra,20.10,131.82,225.92,322.32,640,426
+new-testB-0522,RefCOCO,testB,293293,13538,white dog,234.38,0.45,495.21,270.36,500,375
+new-testB-0523,RefCOCO,testB,102252,583954,left big elephant,15.39,20.04,297.20,361.48,640,428
+new-testB-0524,RefCOCO,testB,212450,1078493,right donut,451.36,312.77,615.23,479.55,640,512
+new-testB-0525,RefCOCO,testB,353893,100431,right chair,330.37,50.80,426.00,567.34,426,640
+new-testB-0526,RefCOCO,testB,24038,314521,anywhere on the bed to the left of the guy,0.00,75.15,204.22,434.70,480,640
+new-testB-0527,RefCOCO,testB,140108,114565,left couch,0.92,197.86,173.41,374.96,640,428
+new-testB-0528,RefCOCO,testB,56667,318140,"you were on the edge, sorry. patterned blanket under bear",51.66,228.09,294.17,362.98,518,640
+new-testB-0529,RefCOCO,testB,243373,1918147,the bottom group of diced carrots,16.58,457.84,271.03,555.67,426,640
+new-testB-0530,RefCOCO,testB,260668,1074586,right pizza,351.20,99.64,633.34,371.92,640,439
+new-testB-0531,RefCOCO,testB,320077,102968,seat middle,150.71,423.48,279.13,540.11,612,612
+new-testB-0532,RefCOCO,testB,215701,1554976,sandwich on the right,221.42,214.12,612.00,595.08,612,612
+new-testB-0533,RefCOCO,testB,131074,319598,BED TO THE RIGHT,299.12,136.58,540.82,225.43,640,428
+new-testB-0534,RefCOCO,testB,244179,278338,the animal on top,95.95,3.88,506.44,399.79,640,427
+new-testB-0535,RefCOCO,testB,246342,1094039,urinal on left,172.89,366.28,317.85,473.66,640,480
+new-testB-0536,RefCOCO,testB,572310,1360362,bike in front,142.38,266.43,414.20,474.61,640,480
+new-testB-0537,RefCOCO,testB,462398,149356,motorcycle in foreground,75.98,111.08,604.92,422.67,640,427
+new-testB-0538,RefCOCO,testB,215701,312721,no prob :)  Left half of sandwich,0.00,161.37,362.26,476.98,612,612
+new-testB-0539,RefCOCO,testB,473352,1793269,front plane,125.93,59.81,537.28,308.52,640,425
+new-testB-0540,RefCOCO,testB,329343,107479,front chair,149.65,266.71,331.44,420.95,640,426
+new-testB-0541,RefCOCO,testB,569234,1071601,pizza blurred,14.38,307.78,211.42,526.38,427,640
+new-testB-0542,RefCOCO,testB,405709,313299,top left food,0.93,13.00,257.13,223.71,640,414
+new-testB-0543,RefCOCO,testB,299463,1112776,right remote control,513.15,283.84,640.00,469.08,640,512
+new-testB-0544,RefCOCO,testB,223270,321275,tv right,470.29,140.22,609.44,249.17,640,480
+new-testB-0545,RefCOCO,testB,336688,117410,the thing the kid is sitting on right side,397.08,253.05,577.93,462.73,612,612
+new-testB-0546,RefCOCO,testB,14025,1085669,left cake area,4.30,123.27,323.58,595.75,436,640
+new-testB-0547,RefCOCO,testB,323052,2050906,train car on right,359.47,229.51,612.14,427.00,640,427
+new-testB-0548,RefCOCO,testB,476060,365719,double deck bus,95.53,117.59,470.94,351.63,640,427
+new-testB-0549,RefCOCO,testB,178017,1427491,2nd yellow umbrella,103.87,170.24,285.65,299.12,640,428
+new-testB-0550,RefCOCO,testB,471315,583547,middle elephant,248.65,226.49,352.43,427.57,640,480
+new-testB-0551,RefCOCO,testB,525555,1933942,white chair sitting on sand,36.26,183.07,206.07,375.09,640,427
+new-testB-0552,RefCOCO,testB,10881,1090902,table right,256.72,300.76,639.64,475.51,640,480

@@ -1,0 +1,16 @@
+model,score,training_mean,training_sd
+Qwen2.5-VL-3B,two_teacher_probe,0.07477467519,0.02751706112
+Qwen2.5-VL-3B,self_prediction_residual,0.1168286046,0.07254884323
+Qwen2.5-VL-3B,sampling_teacher_probe,0.07844680308,0.02782240473
+Qwen2.5-VL-3B,linear_probe_correctness,0.05750984509,0.08340917012
+Qwen2.5-VL-3B,coordinate_logprob,1.43386818,0.1590876417
+Qwen2.5-VL-7B,two_teacher_probe,0.07963555354,0.04021878325
+Qwen2.5-VL-7B,self_prediction_residual,0.1143635323,0.07368501492
+Qwen2.5-VL-7B,sampling_teacher_probe,0.08587865025,0.03933318001
+Qwen2.5-VL-7B,linear_probe_correctness,0.0463021004,0.0765356638
+Qwen2.5-VL-7B,coordinate_logprob,1.442971556,0.1495666149
+Qwen3-VL-4B,two_teacher_probe,0.03430481438,0.01801648636
+Qwen3-VL-4B,self_prediction_residual,0.09495229303,0.06418925213
+Qwen3-VL-4B,sampling_teacher_probe,0.04088932969,0.02001129991
+Qwen3-VL-4B,linear_probe_correctness,0.04252982031,0.06377758713
+Qwen3-VL-4B,coordinate_logprob,1.180973001,0.1583334013

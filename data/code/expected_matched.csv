@@ -1,0 +1,39 @@
+place,quantity,value,decimals
+Table S4.3,replication|Qwen2.5-VL-3B|spred_2000,0.792,3
+Table S4.3,replication|Qwen2.5-VL-3B|probe_2000,0.778,3
+Table S4.3,replication|Qwen2.5-VL-3B|diff_2000,0.014,3
+Table S4.3,replication|Qwen2.5-VL-3B|spred_5000,0.812,3
+Table S4.3,replication|Qwen2.5-VL-3B|probe_5000,0.806,3
+Table S4.3,replication|Qwen2.5-VL-3B|diff_5000,0.006,3
+Table S4.3,replication|Qwen2.5-VL-3B|spred_10000,0.812,3
+Table S4.3,replication|Qwen2.5-VL-3B|probe_10000,0.822,3
+Section 5.2; Table S4.3,replication|Qwen2.5-VL-3B|diff_10000,-0.010,3
+Table S4.3,replication|Qwen2.5-VL-7B|spred_2000,0.785,3
+Table S4.3,replication|Qwen2.5-VL-7B|probe_2000,0.769,3
+Table S4.3,replication|Qwen2.5-VL-7B|diff_2000,0.016,3
+Table S4.3,replication|Qwen2.5-VL-7B|spred_5000,0.809,3
+Table S4.3,replication|Qwen2.5-VL-7B|probe_5000,0.768,3
+Table S4.3,replication|Qwen2.5-VL-7B|diff_5000,0.040,3
+Table S4.3,replication|Qwen2.5-VL-7B|spred_9997,0.814,3
+Table S4.3,replication|Qwen2.5-VL-7B|probe_9997,0.778,3
+Section 5.2; Table S4.3,replication|Qwen2.5-VL-7B|diff_9997,0.036,3
+Section 5.2; Table S4.3 (mean),replication|mean|diff_largest,0.013,3
+Table S4.3,heldout|Qwen2.5-VL-3B|spred_2000,0.838,3
+Table S4.3,heldout|Qwen2.5-VL-3B|probe_2000,0.816,3
+Table S4.3,heldout|Qwen2.5-VL-3B|diff_2000,0.022,3
+Table S4.3,heldout|Qwen2.5-VL-3B|spred_5000,0.850,3
+Table S4.3,heldout|Qwen2.5-VL-3B|probe_5000,0.826,3
+Table S4.3,heldout|Qwen2.5-VL-3B|diff_5000,0.024,3
+Table S4.3,heldout|Qwen2.5-VL-3B|spred_10000,0.850,3
+Table S4.3,heldout|Qwen2.5-VL-3B|probe_10000,0.838,3
+Table S4.3,heldout|Qwen2.5-VL-3B|diff_10000,0.012,3
+Table S4.3,heldout|Qwen2.5-VL-7B|spred_2000,0.765,3
+Table S4.3,heldout|Qwen2.5-VL-7B|probe_2000,0.739,3
+Table S4.3,heldout|Qwen2.5-VL-7B|diff_2000,0.026,3
+Table S4.3,heldout|Qwen2.5-VL-7B|spred_5000,0.782,3
+Table S4.3,heldout|Qwen2.5-VL-7B|probe_5000,0.762,3
+Table S4.3,heldout|Qwen2.5-VL-7B|diff_5000,0.020,3
+Table S4.3,heldout|Qwen2.5-VL-7B|spred_9997,0.794,3
+Table S4.3,heldout|Qwen2.5-VL-7B|probe_9997,0.803,3
+Table S4.3,heldout|Qwen2.5-VL-7B|diff_9997,-0.009,3
+Table S4.3 (mean),heldout|mean|diff_largest,0.001,3
